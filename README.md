@@ -19,7 +19,7 @@ This dataset is a small part of the original [LaTeX_OCR](https://huggingface.co/
 Evaluation will be done on Google Colab(T4 GPU). Results and Code can be found in the Evaluation folder. 
 The following LaTeX OCR Models will be evaluated:
 - [X] LaTeXOCR [Here](https://github.com/lukas-blecher/LaTeX-OCR)
-- [ ] im2latex[Here](https://github.com/d-gurgurov/im2latex)
+- [ ] im2latex [Here](https://github.com/d-gurgurov/im2latex)
 - [ ] Sumen [Here](https://github.com/hoang-quoc-trung/sumen)
 - [ ] TexTeller [Here](https://github.com/OleehyO/TexTeller/tree/main)
 - [ ] Pix2Text [Here](https://github.com/breezedeus/pix2text)
