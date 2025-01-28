@@ -21,4 +21,5 @@ The following LaTeX OCR Models will be evaluated:
 - [X] LaTeXOCR [Github](https://github.com/lukas-blecher/LaTeX-OCR)
 - [X] Sumen [Github](https://github.com/hoang-quoc-trung/sumen)
 - [X] RapidLaTeXOCR [Github](https://github.com/RapidAI/RapidLaTeXOCR)
+- [X] Nougat-LaTeX-OCR [Github](https://github.com/NormXU/nougat-latex-ocr) 
 
