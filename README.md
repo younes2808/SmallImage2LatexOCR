@@ -1,6 +1,6 @@
 # SmallLaTeXFormulaOCR
 
-This is a small dataset consisting of images of mathematical formulas along with their corresponding LaTeX representations in text format. The dataset is intended for evaluating different LaTeX OCR (Optical Character Recognition) tools.
+This small dataset consists of images of mathematical formulas and their corresponding LaTeX representations in text format. The dataset is intended to evaluate different LaTeX OCR (Optical Character Recognition) tools.
 
 ## Dataset Description
 
@@ -20,5 +20,5 @@ Evaluation will be done on Google Colab(T4 GPU). Results and Code can be found i
 The following LaTeX OCR Models will be evaluated:
 - [X] LaTeXOCR [Github](https://github.com/lukas-blecher/LaTeX-OCR)
 - [X] Sumen [Github](https://github.com/hoang-quoc-trung/sumen)
-- [ ] TexTeller [Github](https://github.com/OleehyO/TexTeller/tree/main)
-- [ ] Pix2Text [Github](https://github.com/breezedeus/pix2text)
+- [X] RapidLaTeXOCR [Github](https://github.com/RapidAI/RapidLaTeXOCR)
+
