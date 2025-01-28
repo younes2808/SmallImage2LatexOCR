@@ -14,3 +14,12 @@ This dataset can be used to benchmark or test LaTeX OCR models and tools, partic
 
 This dataset is a small part of the original [LaTeX_OCR](https://huggingface.co/datasets/linxy/LaTeX_OCR/viewer/default/train?p=4) dataset. All credits for the larger dataset go to the creators and contributors of LaTeX_OCR.
 
+## Evaluation
+
+Evaluation will be done on Google Colab(T4 GPU). Results and Code can be found in the Evaluation folder. 
+The following LaTeX OCR Models will be evaluated:
+- [X] LaTeXOCR [Github](https://github.com/lukas-blecher/LaTeX-OCR)
+- [ ] im2latex [Github](https://github.com/d-gurgurov/im2latex)
+- [ ] Sumen [Github](https://github.com/hoang-quoc-trung/sumen)
+- [ ] TexTeller [Github](https://github.com/OleehyO/TexTeller/tree/main)
+- [ ] Pix2Text [Github](https://github.com/breezedeus/pix2text)
