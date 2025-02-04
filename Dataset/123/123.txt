@@ -1,1 +1,0 @@
-[ Q _ { \mu } , Q _ { \nu } ] = i l _ { \mathrm { P } } ^ { 2 } { \cal Q } _ { \mu , \nu }

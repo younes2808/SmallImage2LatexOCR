@@ -1,1 +1,0 @@
-R _ { l } ^ { \prime \prime } + { \frac { 1 } { \rho } } R _ { l } ^ { \prime } - \left( { \frac { l } { \rho } } - e A _ { \varphi } \right) ^ { 2 } R _ { l } + p _ { \perp } ^ { 2 } R _ { l } = 0

@@ -1,1 +1,0 @@
-{ [ } \hat { C } _ { \lambda } ^ { b ( + ) } ( \vec { k } ) , \hat { Q } ^ { a } ] _ { + } = - \varepsilon ^ { a b } k _ { 0 } \hat { B } _ { \lambda } ^ { ( + ) } ( \vec { k } ) .

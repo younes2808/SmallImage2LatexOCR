@@ -1,1 +1,0 @@
-\left( M _ { M N } ^ { a b } \right) ^ { 2 } = M _ { { M N } _ { 0 } } ^ { a b } + M _ { { M N } _ { 1 } } ^ { a b }

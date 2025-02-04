@@ -1,1 +1,0 @@
-f _ { 0 } ( r ) = \lambda _ { 0 } + { \frac { \lambda _ { 1 } } { r } }

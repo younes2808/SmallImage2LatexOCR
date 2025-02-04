@@ -1,1 +1,0 @@
-{ \mathrm { \boldmath e } } ( t ) = \dot { { \mathrm { \boldmath x } } } / \sqrt { { \dot { { \mathrm { \boldmath x } } } } ^ { 2 } } ,

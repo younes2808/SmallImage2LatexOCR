@@ -1,1 +1,0 @@
-e ^ { \Phi } = e ^ { - \frac { 2 } { \alpha Q } \varphi } H ^ { - 2 \alpha / \Delta } ,

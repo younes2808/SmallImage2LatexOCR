@@ -1,1 +1,0 @@
-D _ { 0 } = \partial _ { 0 } - i e ( a _ { 0 } + { \mathcal A } _ { 0 } ) D _ { i } = \partial _ { i } - i e ( A _ { i } + { \mathcal A } _ { i } ) ,

@@ -1,1 +1,0 @@
-A _ { \mu } ^ { n } = \frac { 1 } { e } \partial _ { \mu } \phi M _ { n } a ( \rho )

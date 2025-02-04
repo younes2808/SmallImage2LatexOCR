@@ -1,1 +1,0 @@
-\phi ^ { \prime } ( x ) = \langle \phi ^ { \prime } | \phi _ { x } \rangle _ { \cal U } = \int _ { { \cal U } _ { J } } \phi ^ { \prime } ( y ) \overline { { \phi } } _ { x } ( y ) | \psi _ { 0 } | ^ { 2 } ( y ) \exp \big ( - \Phi ( y ) ) { \frac { \omega ^ { n } } { n ! } } ( y ) ,

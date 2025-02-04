@@ -1,1 +1,0 @@
-\tilde { T } ^ { a } = T ^ { a } + \gamma _ { J } ^ { I } \theta _ { I } ^ { b } A ^ { J } \wedge K _ { b } ^ { a } + i \left( \gamma _ { J } ^ { I } ( D \theta _ { I } ^ { a } ) \wedge A ^ { J } + \gamma _ { J } ^ { I } \theta _ { I } ^ { a } F ^ { J } + K _ { b } ^ { a } \wedge e ^ { b } \right) ,

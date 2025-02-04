@@ -1,1 +1,0 @@
-\Pi _ { \mathrm { c t } } ^ { \delta } = \left( \delta \frac { \lambda } { 1 6 \pi ^ { 2 } \epsilon } \right) \Omega ^ { 2 } .

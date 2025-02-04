@@ -1,1 +1,0 @@
-D _ { + + } = d e t \left( \frac { \partial ^ { 2 } S _ { + + } } { \partial q ^ { i } \partial p _ { 1 j } } \right)

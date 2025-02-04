@@ -1,1 +1,0 @@
-M _ { p } ^ { h o r } = A d S _ { p + 2 } \times S ^ { D - p - 2 }

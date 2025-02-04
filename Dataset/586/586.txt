@@ -1,1 +1,0 @@
-P ( x , y ) = \sum _ { p = 1 } ^ { k } \varphi _ { p } \varphi _ { p } ^ { \dagger }

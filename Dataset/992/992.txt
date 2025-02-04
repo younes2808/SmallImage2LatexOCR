@@ -1,1 +1,0 @@
-e w ( x ) \Gamma = \partial ^ { \mu } j _ { \mu } \cdot \Gamma

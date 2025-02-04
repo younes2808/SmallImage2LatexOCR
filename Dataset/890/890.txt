@@ -1,1 +1,0 @@
-J _ { 1 } ^ { 2 } \int _ { 0 } ^ { 1 } d a \int _ { 0 } ^ { 1 } d b e ^ { 2 \pi i a ( m - n y ) } e ^ { - 2 \pi i b ( m - n y ) } = J _ { 1 } ^ { 2 } \frac { \sin ^ { 2 } \pi n y } { \pi ^ { 2 } ( n y - m ) ^ { 2 } } .

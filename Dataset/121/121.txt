@@ -1,1 +1,0 @@
-S _ { s i n g } = { \frac { \pi ^ { 2 } C } { \kappa } } .

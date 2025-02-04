@@ -1,1 +1,0 @@
-E = \epsilon E _ { p } = \epsilon \sqrt { p ^ { 2 } + m ^ { 2 } } , \vspace { 0 . 5 i n }

@@ -1,1 +1,0 @@
-\frac { 1 } { 8 \pi } \sum \omega _ { i j } ^ { ( 2 ) } + \frac { 1 } { 8 \pi } \sum \Omega _ { i j k l } ^ { ( 3 ) } = \frac { 1 } { 2 }

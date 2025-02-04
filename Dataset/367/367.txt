@@ -1,1 +1,0 @@
-K _ { a b } : = { \cal W } _ { a } \star _ { 1 } { \cal W } _ { b } - { \cal W } _ { a } { \cal W } _ { b } ,

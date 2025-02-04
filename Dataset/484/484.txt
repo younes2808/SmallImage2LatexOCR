@@ -1,1 +1,0 @@
-L _ { 0 } ^ { m } + L _ { 0 } ^ { g h } = \frac { 1 } { 2 } p ^ { i } p _ { i } + \sum _ { n = 1 } ^ { \infty } n ( N _ { b n } + N _ { c n } + \sum _ { i = d + 1 } ^ { 2 5 } N _ { i n } ) + \sum _ { r = 1 / 2 } ^ { \infty } \sum _ { a = 0 } ^ { d } r N _ { a r } ,

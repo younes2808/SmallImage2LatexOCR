@@ -1,1 +1,0 @@
-{ \cal L } _ { 0 } ^ { K d V f u l l } = { \cal L } _ { 1 } ^ { m K d V } + \lambda ( u - \psi _ { x } ^ { 2 } - \psi _ { x x } )

@@ -1,1 +1,0 @@
-D _ { 3 3 } ( p ) = \frac { \delta _ { p _ { 3 } , 0 } } { p ^ { 2 } + i \epsilon } \ .

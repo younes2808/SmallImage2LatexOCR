@@ -1,1 +1,0 @@
-k ( x , y , z ) \equiv \sum _ { r , s > 0 } x ^ { - r } y ^ { - s } A _ { r s } z ^ { r + s } .

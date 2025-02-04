@@ -1,1 +1,0 @@
-\mathcal { L } = \frac { 1 } { 4 } t r ( \ast d \mathcal { M } ^ { - 1 } \wedge d \mathcal { M } ) .

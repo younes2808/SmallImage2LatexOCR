@@ -1,1 +1,0 @@
-\pi ^ { i j } \gamma _ { j l } = \frac { 1 } { 3 } \pi \delta _ { l } ^ { i } + \tilde { \pi } ^ { i j } \tilde { \gamma } _ { j l } .

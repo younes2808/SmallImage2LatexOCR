@@ -1,1 +1,0 @@
-S _ { j } ^ { \nu } = \left( K ^ { - 1 / 2 } \right) _ { j \mu } U _ { \mu \nu }

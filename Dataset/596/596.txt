@@ -1,1 +1,0 @@
-{ } F _ { \mu \nu } ^ { A } ( { \bf n } ) = \frac { \partial F ^ { A } ( { \bf n } ) } { \partial { \bar { g } } ^ { \mu \nu } } ,

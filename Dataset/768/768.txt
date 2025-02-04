@@ -1,1 +1,0 @@
-P _ { \tau } ^ { a b } = P _ { - \tau } ^ { b a } , Q _ { \tau } ^ { a b } = Q _ { - \tau } ^ { b a } , C _ { \tau } ^ { a b } = C _ { - \tau } ^ { b a } .

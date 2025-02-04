@@ -1,1 +1,0 @@
-{ \psi } _ { \mathrm { F } } ( T ) = \exp \{ i { \gamma } _ { \mathrm { F } } ^ { \mathrm { d y n } } + i { \gamma } _ { \mathrm { F } } ^ { \mathrm { B e r r y } } \} \cdot { \psi } _ { \mathrm { F } } ( 0 ) ,

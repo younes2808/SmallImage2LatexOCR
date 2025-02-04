@@ -1,1 +1,0 @@
-\left( \Psi \left| D ^ { 3 } \right| \Psi \right) = \left( \Psi \left| - D ^ { \mu } D _ { \mu } \gamma ^ { \rho } D _ { \rho } \right| \Psi \right) + \frac { 1 } { 2 } \left( \Psi \left| \gamma ^ { \mu \nu } F _ { \mu \nu } \gamma ^ { \rho } D _ { \rho } \right| \Psi \right) .

@@ -1,1 +1,0 @@
-\theta ( | \mathbf { p } + \mathbf { q } | - 1 ) = \theta ( \mathbf { \hat { p } _ { . } q } + p / 2 ) = \theta ( \mathbf { q _ { . } \hat { p } } ) + \sum _ { m = 1 } ^ { \infty } \frac { ( p / 2 ) ^ { m } } { m ! } \delta ^ { ( m - 1 ) } ( \mathbf { q _ { . } \hat { p } } )

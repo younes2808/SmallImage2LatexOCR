@@ -1,1 +1,0 @@
-{ \cal P } ( x ) = \Im x { \cal L } i _ { 2 } \left( e ^ { 2 \pi i x } \right) + \frac { 1 } { 2 \pi } { \cal L } i _ { 3 } \left( e ^ { 2 \pi i x } \right) ,

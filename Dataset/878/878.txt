@@ -1,1 +1,0 @@
-\theta ^ { T } U _ { \bar { z } } \partial _ { z } \theta

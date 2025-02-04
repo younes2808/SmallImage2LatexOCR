@@ -1,1 +1,0 @@
-\Gamma ^ { 1 } = ( \gamma ^ { 1 } + \gamma ^ { \bar { 1 } } ) , \quad \Gamma ^ { 2 } = - i ( \gamma ^ { 1 } - \gamma ^ { \bar { 1 } } ) ,

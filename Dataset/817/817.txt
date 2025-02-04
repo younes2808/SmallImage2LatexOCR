@@ -1,1 +1,0 @@
-{ \tilde { \cal F } } ^ { \prime } = - { \cal K } ^ { ( 2 ) } .

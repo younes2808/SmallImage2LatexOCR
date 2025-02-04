@@ -1,1 +1,0 @@
-\Lambda ( \phi ) = \left( \begin{array} { c c } { \mathrm { e } ^ { i \phi } } & { 0 } \\ { 0 } & { \mathrm { e } ^ { - i \phi } } \\ \end{array} \right)

@@ -1,1 +1,0 @@
-D ( \phi ) = \frac { 1 } { 2 } \frac { 1 } { p \cdot \partial } \partial ^ { \mu } V ^ { ( 2 ) } ( \phi ) \frac { \partial } { \partial p ^ { \mu } } ,

@@ -1,1 +1,0 @@
-x _ { 1 } = y \left( 1 + \frac { \Delta n } { 2 } \right) , \quad x _ { 2 } = y \left( 1 - \frac { \Delta n } { 2 } \right) , \quad \Delta x = \Delta n y .

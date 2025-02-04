@@ -1,1 +1,0 @@
-F \left( a , F \left( d , b , c \right) , c \right) = F \left( F \left( a , d , c \right) , b , c \right) .

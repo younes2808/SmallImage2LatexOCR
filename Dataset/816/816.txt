@@ -1,1 +1,0 @@
-- \partial _ { q } W = \frac { 4 \pi \hbar } { T _ { B H } } \int _ { - \infty } d z r ^ { 2 } F \biggl [ \frac { \partial _ { q } F } { F } \langle T _ { \tau } ^ { \tau } + T _ { z } ^ { z } \rangle + 2 \frac { \partial _ { q } r } { r } \langle T _ { \theta } ^ { \theta } + T _ { \phi } ^ { \phi } \rangle \biggr ] + \cdots

@@ -1,1 +1,0 @@
-\dot { U } = - U \kappa ( \dot { t } - \dot { r } _ { * } ) \approx - U 2 \kappa \dot { t } .

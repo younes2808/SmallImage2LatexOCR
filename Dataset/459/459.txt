@@ -1,1 +1,0 @@
-\widehat { A } = \widehat { A } _ { a b i } d x ^ { i } \chi ^ { a b } ,

@@ -1,1 +1,0 @@
-y ^ { 2 } = \left( \sum _ { i = 0 } ^ { N } s _ { i } x ^ { N - i } + ( - 1 ) ^ { N } \left( \Lambda _ { 1 } ^ { 2 N } + \Lambda _ { 2 } ^ { 2 N } \right) \right) ^ { 2 } - 4 \Lambda _ { 1 } ^ { 2 N } \Lambda _ { 2 } ^ { 2 N } ,

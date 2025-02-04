@@ -1,1 +1,0 @@
-A ( \lambda ) = \lambda ^ { \mu _ { + } } U ( 2 \theta _ { 1 } \lambda ) ,

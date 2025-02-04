@@ -1,1 +1,0 @@
-E _ { 0 } ^ { H O } = \frac { N } { 2 } \hbar \omega , E _ { 0 } ^ { H A } = - \left( \frac { m e ^ { 4 } } { 2 \hbar ^ { 2 } } \right) \frac { 1 } { [ 1 + ( N - 3 ) / 2 ] ^ { 2 } } ,

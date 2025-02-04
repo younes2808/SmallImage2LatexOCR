@@ -1,1 +1,0 @@
-0 \stackrel { ! } { = } \frac { \partial } { \partial \Phi ^ { ( 1 ) } } V ( \Phi ^ { ( I ) } ) \Bigg | _ { \Phi ^ { ( I ) } = \Phi _ { 0 } ^ { ( I ) } } =

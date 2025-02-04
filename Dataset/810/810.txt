@@ -1,1 +1,0 @@
-Q ^ { M } \gg Q ^ { E } \sin \alpha \gg \frac { ( Q ^ { E } \cos \alpha ) ^ { 2 } } { Q ^ { M } } ,

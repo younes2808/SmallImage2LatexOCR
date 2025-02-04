@@ -1,1 +1,0 @@
-{ \frac { \partial } { \partial t } } \rho ( t ) = d \omega ( t ) , { \frac { \partial } { \partial t } } \omega ^ { 2 } = - 2 d \hat { \rho } .

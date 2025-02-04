@@ -1,1 +1,0 @@
-\rho = \sum _ { a ^ { \prime } } \left[ \frac { i \omega _ { a ^ { \prime } } } { \sqrt { \Im _ { a ^ { \prime } } } } \lambda _ { a ^ { \prime } } \pi _ { a ^ { \prime } } + \left( \omega _ { a ^ { \prime } } ^ { 2 } G _ { a ^ { \prime } } + \frac { i } { 2 } b _ { a ^ { \prime } } \right) \bar { \eta } _ { a ^ { \prime } } \right] ,

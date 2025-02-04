@@ -1,1 +1,0 @@
-\langle \psi _ { F _ { \alpha } } ^ { t _ { \alpha } } \mid \psi _ { F _ { \beta } } ^ { t _ { \beta } } \rangle _ { t } = \theta ( t - t _ { \alpha } ) \theta ( t - t _ { \beta } ) \delta _ { \alpha \beta }

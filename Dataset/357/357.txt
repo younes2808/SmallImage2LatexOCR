@@ -1,1 +1,0 @@
-\left[ \psi \left( \vec { x } , x ^ { 0 } \right) , \pi _ { \psi } ^ { \dagger } \left( \vec { x } ^ { \prime } , x ^ { 0 } \right) \right] _ { + } = i \delta \left( \vec { x } - \vec { x } ^ { \prime } \right) { \bf 1 }

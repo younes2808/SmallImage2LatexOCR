@@ -1,1 +1,0 @@
-C | 0 \rangle = \pm | 0 \rangle \ ,

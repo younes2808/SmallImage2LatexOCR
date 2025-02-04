@@ -1,1 +1,0 @@
-\beta _ { p } ( n ) = \mu \frac { d p } { d \mu } ,

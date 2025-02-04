@@ -1,1 +1,0 @@
-Z _ { N } \left( \Phi \right) = e ^ { \frac { i 2 \pi p } { N } } \Phi , \Phi \in A _ { p } .

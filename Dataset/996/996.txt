@@ -1,1 +1,0 @@
-q ^ { 2 } \left( Z ^ { - 1 } ( q ^ { 2 } ) - 1 \right) ( 1 - y ) = 2 ^ { - 1 } Z ^ { - 1 } ( q ^ { 2 } ) \int \frac { d k } { k ^ { 2 } k ^ { 2 } } \frac { ( k \eta ) - ( k ^ { \prime } \eta ) } { \eta ^ { 2 } } \Sigma _ { \lambda \sigma } ( k ) \times

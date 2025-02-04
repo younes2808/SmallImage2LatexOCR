@@ -1,1 +1,0 @@
-a _ { + } ^ { \prime } - \frac { 1 } { \rho } a _ { + } = \frac { \eta ^ { 2 } \rho } { e } \left( \psi _ { 4 } ^ { 2 } - \frac { 1 + c } { 2 } \right) ,

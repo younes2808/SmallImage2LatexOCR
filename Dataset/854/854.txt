@@ -1,1 +1,0 @@
-\Phi _ { 8 } ( \psi ) ^ { \ddagger } = \Phi _ { 8 } ( \psi ) \quad \quad \Phi _ { \alpha } ( \psi ) ^ { \ddagger } = \sum _ { \beta = 6 , 7 } \tilde { C } _ { \alpha \beta } \Phi _ { \beta } ( \psi ) , \quad \quad \alpha = 6 , 7

@@ -1,1 +1,0 @@
-\frac { d \Sigma } { d p } \bigg | _ { p = \Lambda _ { \mathrm { n p } } } = - \frac { 2 C _ { 0 } } { \pi ^ { 2 } N _ { f } } { \frac { \alpha } { \Lambda _ { \mathrm { n p } } ^ { 2 } } } - 2 C _ { 2 } \frac { \alpha ^ { 2 } } { \Lambda _ { \mathrm { n p } } ^ { 3 } } .

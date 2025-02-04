@@ -1,1 +1,0 @@
-{ \cal O } ^ { \prime } \equiv { \cal O } ^ { \dagger } = ( \partial _ { \mu } + i g V _ { \mu } - i g _ { 5 } \gamma _ { 5 } A _ { \mu } ) \gamma ^ { \mu } + i m + i \lambda \phi + \gamma _ { 5 } \lambda ^ { \prime } \phi ^ { \prime } .

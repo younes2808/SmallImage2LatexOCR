@@ -1,1 +1,0 @@
-V _ { x ^ { - } , x ^ { + } } ^ { r , s } \left( g \right) = e ^ { i \left( s - i / 2 \right) \phi } f _ { r , s } \left( e ^ { \phi } \left( x ^ { + } - \gamma ^ { + } \right) \left( x ^ { - } + \gamma ^ { - } \right) \right) .

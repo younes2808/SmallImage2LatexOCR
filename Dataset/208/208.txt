@@ -1,1 +1,0 @@
-[ { \cal D } \mu ] = { \cal D } A _ { \mu } { \cal D } \phi { \cal D } \theta { \cal D } \xi \prod _ { \beta = 1 } ^ { 2 } \delta \left( \Gamma _ { \beta } [ A _ { 0 } + \xi , A _ { 1 } , \theta ] \right) \det \mid \{ \widetilde { \Omega } _ { \alpha } , \Gamma _ { \beta } \} \mid .

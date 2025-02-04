@@ -1,1 +1,0 @@
-\pi _ { \mu } = \frac { \delta \mathcal { L } } { \delta \dot { Z } ^ { \mu } } = - \frac { 1 } { 2 \pi \alpha ^ { \prime } } G _ { \mu \nu } \left( h ^ { \tau \tau } \dot { Z } ^ { \nu } + h ^ { \tau \sigma } Z ^ { \nu \prime } \right) \ ,

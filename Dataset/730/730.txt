@@ -1,1 +1,0 @@
-( 1 + { { \mathrm { \boldmath \sigma } } \cdot { \bf L } } ) { { \phi ^ { ( \pm ) } } _ { j , m } } = - \kappa { { \phi ^ { ( \pm ) } } _ { j , m } } ,

@@ -1,1 +1,0 @@
-\partial _ { i } F ^ { \mu i a } + g \epsilon ^ { a b c } W _ { i } ^ { b } F ^ { \mu i c } = g \epsilon ^ { a b c } ( D ^ { \mu } \phi ^ { b } ) \phi ^ { c }

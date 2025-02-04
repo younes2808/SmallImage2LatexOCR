@@ -1,1 +1,0 @@
-\widehat \Psi _ { k } = { S } ^ { 1 / 2 } \ \Psi _ { k } , \widehat \Pi _ { k } = { S } ^ { - 1 / 2 } \ \Pi _ { k } ,

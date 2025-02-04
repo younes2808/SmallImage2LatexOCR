@@ -1,1 +1,0 @@
-\sigma ^ { 3 } v ( x ) = - \mathrm { s g n } ( \chi ) v ( x ) , \qquad \left( \frac { \partial } { \partial x ^ { 1 } } + i \mathrm { s g n } ( \chi ) \frac { \partial } { \partial x ^ { 2 } } \right) v ( x ) = 0 .

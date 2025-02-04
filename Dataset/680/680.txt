@@ -1,1 +1,0 @@
-{ \frac { d ^ { 2 } \Phi _ { i } } { d x ^ { 2 } } } = ( \alpha - h _ { i } ) \Phi _ { i }

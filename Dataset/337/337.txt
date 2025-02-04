@@ -1,1 +1,0 @@
-\{ \gamma ^ { \mu } , \gamma ^ { \nu } \} = - 2 \delta ^ { \mu \nu } ,

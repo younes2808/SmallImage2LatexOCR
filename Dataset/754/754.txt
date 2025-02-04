@@ -1,1 +1,0 @@
-A ( t , t ^ { \prime } ) = \Theta _ { c } ( t , t ^ { \prime } ) A _ { > } ( t , t ^ { \prime } ) + \Theta _ { c } ( t ^ { \prime } , t ) A _ { < } ( t , t ^ { \prime } )

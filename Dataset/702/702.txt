@@ -1,1 +1,0 @@
-{ \cal A } ( g ) ^ { \alpha \beta } \: + \: { \cal A } ( g ) ^ { \beta \gamma } \: + \: { \cal A } ( g ) ^ { \gamma \alpha } \: = \: d \log \Upsilon _ { \alpha \beta \gamma } ^ { g }

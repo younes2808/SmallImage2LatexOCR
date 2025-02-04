@@ -1,1 +1,0 @@
-\mathrm { T r } e ^ { i F _ { 9 } } - \mathrm { t r } e ^ { i F _ { 9 } } \mathrm { t r } e ^ { i F _ { \bar { 9 } } } + \mathrm { T r } _ { S } e ^ { i F _ { \bar { 9 } } } = { \frac { 1 } { 2 } } ( \mathrm { S t r } e ^ { i F _ { 9 } } ) ^ { 2 } - { \frac { 1 } { 2 } } \mathrm { S t r } e ^ { 2 i F _ { 9 } } .

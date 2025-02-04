@@ -1,1 +1,0 @@
-d _ { p } ( t ) = a ( t ) \int _ { t _ { b e g } } ^ { t } d t ^ { \prime } / a ( t ^ { \prime } ) .

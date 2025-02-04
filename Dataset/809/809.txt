@@ -1,1 +1,0 @@
-{ \bf n } ( x , \tau ) = \frac { 1 } { \sqrt { 1 + u ^ { 2 } } } \bigg ( - \sin ( f _ { s } + v ) , u , \cos ( f _ { s } + v ) \bigg )

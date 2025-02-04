@@ -1,1 +1,0 @@
-\mathrm { T r } e ^ { - s Q - s { \cal M } ^ { 2 } } = \frac { e ^ { - s { \cal M } ^ { 2 } } } { 1 6 \pi ^ { 2 } s ^ { 2 } } \sum _ { n = 0 } ^ { \infty } s ^ { n } \biggl \{ \int d x ^ { 4 } \sqrt { g } \: { \cal L } ^ { ( n ) } \biggr \} .

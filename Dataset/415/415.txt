@@ -1,1 +1,0 @@
-R _ { \mu \nu } = \frac { \partial J _ { \mu \nu } ^ { \sigma } } { \partial x ^ { \sigma } } ,

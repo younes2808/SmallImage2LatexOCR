@@ -1,1 +1,0 @@
-S ( \phi ) = \int d x \left( \frac { 1 } { 2 } ( \partial _ { \mu } \phi ) ^ { 2 } - \frac { \mu ^ { 2 } } { 2 } \phi ^ { 2 } - \lambda \phi ^ { 4 } \right) .

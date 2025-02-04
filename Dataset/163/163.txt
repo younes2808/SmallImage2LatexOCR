@@ -1,1 +1,0 @@
-\frac { \Omega _ { \phi } } { \Omega _ { a } } \simeq 1 0 ^ { - 5 } \frac { \langle \phi ^ { 2 } \rangle } { f _ { P Q } ^ { 2 } } \simeq 1 0 ^ { 7 } \frac { \langle \phi ^ { 2 } \rangle } { m _ { P l } ^ { 2 } }

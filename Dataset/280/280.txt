@@ -1,1 +1,0 @@
-g _ { u u } = g _ { v v } = \widetilde { a } ^ { 2 } \left( \sinh ^ { 2 } u + \sin ^ { 2 } v \right) , \qquad \widetilde { g } _ { s s } = \widetilde { a } ^ { 2 } \sinh ^ { 2 } u \sin ^ { 2 } v .

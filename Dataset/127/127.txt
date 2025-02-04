@@ -1,1 +1,0 @@
-g _ { f } ^ { 2 } = c _ { p } N g _ { s } \sqrt { \alpha ^ { \prime } } ^ { p - 3 } .

@@ -1,1 +1,0 @@
-\Gamma _ { \gamma } = S ( A ^ { \mathrm { c l } } , J )

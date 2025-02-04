@@ -1,1 +1,0 @@
-d s ^ { 2 } = d s _ { C Y } ^ { 2 } + { \frac { R _ { 1 0 } ^ { 2 } } { l _ { \mathrm { \scriptsize p } } ^ { 2 } } } \left( d x ^ { 1 0 } \right) ^ { 2 } ,

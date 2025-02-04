@@ -1,1 +1,0 @@
-{ \cal L } _ { k } = \frac { 1 } { 2 } [ \bar { \psi } \gamma ^ { \mu } \partial _ { \mu } \psi i - i ( \partial _ { \mu } \bar { \psi } ) \gamma ^ { \mu } \psi ] .

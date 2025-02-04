@@ -1,1 +1,0 @@
-\chi _ { m _ { 1 } , \ldots , m _ { n } } ( l _ { 1 } , \ldots , l _ { n } ) = \exp ( 2 \pi i ( \frac { m _ { 1 } l _ { 1 } } { k _ { 1 } } + \dots + \frac { m _ { n } l _ { n } } { k _ { n } } ) ) .

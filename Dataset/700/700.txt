@@ -1,1 +1,0 @@
-{ \cal F } ( \tau , \vec { \sigma } ) = \int d ^ { 3 } \sigma _ { o } n _ { o } ( \vec { \sigma } _ { o } ) \delta ^ { 3 } ( \vec { \sigma } - \vec { \Sigma } ( \tau , \vec { \sigma } _ { o } ) ) Q .

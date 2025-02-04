@@ -1,1 +1,0 @@
-\sum _ { P } ( - 1 ) ^ { ( \mathbf { N } ( P ) - 1 ) } ( \mathbf { N } ( P ) - 1 ) !

@@ -1,1 +1,0 @@
-2 ^ { - N } \epsilon ^ { 2 N } ( \lambda + \frac { 1 } { \lambda } ) = \prod _ { i } [ \sinh ( x - \hat { \alpha } _ { i } ) ] ,

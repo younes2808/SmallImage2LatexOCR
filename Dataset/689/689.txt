@@ -1,1 +1,0 @@
-[ { \cal X } _ { \mu } ^ { T } , { \cal X } _ { \rho \sigma } ^ { L } ] = \eta _ { \mu \rho } { \cal X } _ { \sigma } ^ { T } - \eta _ { \mu \sigma } { \cal X } _ { \rho } ^ { T } ,

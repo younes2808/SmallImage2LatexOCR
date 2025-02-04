@@ -1,1 +1,0 @@
-V _ { \mathrm { e f f } } ( \phi _ { B } ) = { \frac { 1 } { 2 } } a \phi _ { B } ^ { 2 } + { \frac { 1 } { 4 } } b \phi _ { B } ^ { 4 } + { \frac { 1 } { 6 } } c \phi _ { B } ^ { 6 } + \dots

@@ -1,1 +1,0 @@
-g _ { t t } = \Big ( 1 - { \frac { 2 M _ { A D M } } { \tilde { r } } } + \cdots \Big )

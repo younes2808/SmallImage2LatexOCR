@@ -1,1 +1,0 @@
-\delta A _ { \mu } ^ { a } \ = \ \nabla _ { \mu } ^ { a b } \varepsilon ^ { b } \ = \ \partial _ { \mu } \varepsilon ^ { a } + \epsilon ^ { a c b } A _ { \mu } ^ { c } \varepsilon ^ { b }

@@ -1,1 +1,0 @@
-\delta _ { k } A _ { \mu } = [ D _ { \mu } , [ A _ { \nu _ { 1 } } , [ \ldots , [ A _ { \nu _ { k - 1 } } , L ^ { \nu _ { 1 } \ldots \nu _ { k - 1 } } ] \ldots ] ] ] .

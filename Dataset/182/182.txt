@@ -1,1 +1,0 @@
-Z _ { 2 } = \sum _ { n = 0 } ^ { \infty } \exp [ - 2 ( 2 n + 1 + \Delta ) \beta \omega ] ,

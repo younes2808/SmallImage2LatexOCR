@@ -1,1 +1,0 @@
-V _ { \mathrm { e f f } } ( r ) = - { \frac { 1 5 } { 1 6 } } { \frac { v ^ { 4 } } { r ^ { 7 } } } + { \cal O } \left( { \frac { v ^ { 6 } } { r ^ { 1 1 } } } \right) \ .

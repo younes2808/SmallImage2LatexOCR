@@ -1,1 +1,0 @@
-{ \cal G } _ { \lambda } ^ { \Lambda } ( z ) = { G } _ { \lambda } ^ { \Lambda } ( z ) : e ^ { { { \frac { 1 } { k } } \tilde { \lambda } \cdot \phi ( z ) } } : ,

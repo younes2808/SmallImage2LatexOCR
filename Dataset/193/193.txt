@@ -1,1 +1,0 @@
-A _ { 1 } ^ { + + -- } = c _ { 1 } \left( e _ { 2 } ^ { + } \cdot e _ { 4 } ^ { - } \right) ^ { s _ { a } } \left( K _ { 2 } \cdot e _ { 1 } ^ { + } \right) ^ { s _ { a } } \left( K _ { 4 } \cdot e _ { 3 } ^ { - } \right) ^ { s _ { b } } \left( K _ { 3 } \cdot e _ { 4 } ^ { - } \right) ^ { s _ { b } - s _ { a } }

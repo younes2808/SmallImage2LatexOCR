@@ -1,1 +1,0 @@
-W ( z ) = \frac 1 2 \bigg ( Q ^ { \prime } - \frac { P ^ { \prime \prime } } 2 \bigg ) + \frac 1 { 4 P } \bigg ( Q - \frac { P ^ { \prime } } 2 \bigg ) \bigg ( Q - \frac { 3 P ^ { \prime } } 2 \bigg ) + c z ^ { 2 } ,

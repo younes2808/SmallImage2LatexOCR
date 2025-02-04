@@ -1,1 +1,0 @@
-x ^ { A } \rightarrow \tilde { x } ^ { A } = x ^ { A } + \epsilon ^ { A } ,

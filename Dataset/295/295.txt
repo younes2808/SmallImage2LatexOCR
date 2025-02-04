@@ -1,1 +1,0 @@
-A _ { k } ^ { \alpha } ( q , u ) - A _ { k } ^ { \alpha } ( q , v ) = 0 .

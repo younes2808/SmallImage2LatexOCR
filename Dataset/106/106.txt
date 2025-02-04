@@ -1,1 +1,0 @@
-m _ { 0 } ^ { 2 } = \frac { 2 } { a ^ { 2 } + b ^ { 2 } } \left( 1 - d + d \int _ { 0 } ^ { 1 } d t \oint \frac { d z } { 2 \pi \imath z } \frac { q ^ { 2 } } { S ( q ^ { 2 } ) } \right)

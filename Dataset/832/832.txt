@@ -1,1 +1,0 @@
-P _ { A _ { r } , s } ^ { { \bf V } _ { i } } ( x ) = \prod _ { 1 \leq j _ { 1 } < \cdots < j _ { i } \leq r + 1 } \Bigl ( x - \sin ( \bar { q } _ { j _ { 1 } } + \cdots \bar { q } _ { j _ { i } } ) \Bigr ) = P _ { A _ { r } , s } ^ { { \bf V } _ { r + 1 - i } } ( x ) .

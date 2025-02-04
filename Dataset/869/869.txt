@@ -1,1 +1,0 @@
-\hat { Z } ( a , u ) = \frac { \left( Z ^ { \prime } ( a , u ) \right) ^ { 2 } } { Z ^ { \prime } ( a , 2 u ) } \quad .

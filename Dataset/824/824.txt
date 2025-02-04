@@ -1,1 +1,0 @@
-E = \left( \begin{array} { c c } { - e ^ { - { \frac { \rho } { 2 } } } } & { c e ^ { \frac { \rho } { 2 } } } \\ { 0 } & { - e ^ { \frac { \rho } { 2 } } } \\ \end{array} \right) .

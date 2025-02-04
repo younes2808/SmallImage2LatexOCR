@@ -1,1 +1,0 @@
-{ \cal F } _ { \mu \nu } = \partial _ { \mu } { \cal A } _ { \nu } - \partial _ { \nu } { \cal A } _ { \mu } - i ( { \cal A } _ { \mu } * { \cal A } _ { \nu } - { \cal A } _ { \nu } * { \cal A } _ { \mu } )

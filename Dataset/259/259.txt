@@ -1,1 +1,0 @@
-m = \frac { M } { 1 - \lambda M } .

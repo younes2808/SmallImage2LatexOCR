@@ -1,1 +1,0 @@
-T _ { a b } v ^ { a } v ^ { b } \geq 0 \mathrm { f o r a l l t i m e l i k e v e c t o r s } v ^ { a } .

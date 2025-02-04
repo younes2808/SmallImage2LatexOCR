@@ -1,1 +1,0 @@
-n _ { A } \cdot \Gamma = { \cal B } _ { \Gamma } ( m _ { A } \cdot \Gamma ) = { \cal B } _ { \Gamma } \left\{ \lim _ { \epsilon \to 0 } { \hat { A } } ^ { * } ( x + \epsilon ) A ( x - \epsilon ) \right\} .

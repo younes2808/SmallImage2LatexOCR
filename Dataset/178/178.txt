@@ -1,1 +1,0 @@
-\stackrel { \leftrightarrow } { D } ( t _ { 1 } , t _ { 2 } ) = 2 \delta ( t _ { 1 } - t _ { 2 } ) - 2 t ^ { - 1 }

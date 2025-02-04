@@ -1,1 +1,0 @@
-\hat { s } _ { \omega , n } p _ { h } = \hat { s } _ { \omega } p _ { h } \ , \ h a t { s } _ { \omega , n } h = \hat { s } _ { \omega } h + \frac { 2 n _ { \omega } a _ { 0 } } { ( \omega , \omega ) } \omega \ ,

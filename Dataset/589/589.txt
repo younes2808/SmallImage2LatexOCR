@@ -1,1 +1,0 @@
-{ \cal L } _ { 4 F } ^ { P } = \frac { 1 } { 4 } \sum _ { a = 1 } ^ { 2 } \sum _ { Q , Q ^ { \prime } } ( - 1 ) ^ { a + 1 } g _ { Q ^ { \prime } Q } ^ { \prime } { ( \bar { Q ^ { \prime } } i \gamma _ { 5 } Q ^ { \prime } ) } ^ { ( a ) } { \bar { Q } i \gamma _ { 5 } Q ) } ^ { ( a ) } ,

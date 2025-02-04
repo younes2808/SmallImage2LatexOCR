@@ -1,1 +1,0 @@
-\vec { \nabla } \cdot \vec { E } - g \vec { \nabla } f \cdot \vec { E } = \rho _ { ( \vec { x } ) } \ ,

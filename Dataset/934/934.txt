@@ -1,1 +1,0 @@
-Q _ { 1 \alpha } = \psi _ { \alpha } ^ { a } V _ { a } \left( X \right) , \quad Q _ { 2 \alpha } =

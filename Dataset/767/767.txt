@@ -1,1 +1,0 @@
-\Delta _ { a } = - ( b _ { 0 } - 3 \delta _ { \mathrm { G S } } ) \ln \left( | \eta ^ { 4 } ( T ) | ( T + T ^ { * } ) \right) - k _ { a } Y ( T )

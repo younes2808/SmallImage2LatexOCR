@@ -1,1 +1,0 @@
-( D _ { \mu } D ^ { \mu } \Delta ) ^ { A B } ( z ) = \delta ^ { A B } \delta ( z ) .

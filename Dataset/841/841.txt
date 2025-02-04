@@ -1,1 +1,0 @@
-\exp \left( { - \frac { 1 } { 2 } a _ { n } ^ { \dagger } S _ { n m } a _ { m } ^ { \dagger } } \right) | \Omega \rangle .

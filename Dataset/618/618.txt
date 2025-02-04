@@ -1,1 +1,0 @@
-C Y _ { B } ( W ) = \tilde { N } ^ { n _ { 0 } - n _ { 1 } - n _ { 3 } } \tilde { \omega } ( L )

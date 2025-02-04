@@ -1,1 +1,0 @@
-F ( \rho ) = \frac { 1 } { 4 } E \left( \sqrt { \frac { Y ( \rho ) - 1 } { Y ( \rho ) } } \right) , Y ( \rho ) = 4 \rho \coth 2 \rho - 1

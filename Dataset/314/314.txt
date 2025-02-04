@@ -1,1 +1,0 @@
-s ( x , x ^ { \prime } ) = \sqrt { ( y - y ^ { \prime } ) ^ { 2 } + ( x - x ^ { \prime } ) ^ { 2 } - ( | t - t ^ { \prime } | - i \epsilon ) ^ { 2 } } ,

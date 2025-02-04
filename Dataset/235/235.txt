@@ -1,1 +1,0 @@
-\pi ( a \circ b ) = ( \pi a ) \circ ( \pi b ) , \quad \pi ( b \circ a ) = ( \pi b ) \circ ( \pi a )

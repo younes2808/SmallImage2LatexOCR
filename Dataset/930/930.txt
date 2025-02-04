@@ -1,1 +1,0 @@
-S = \frac { 1 } { 2 \kappa _ { 4 } ^ { 2 } } \int \! d ^ { 4 } x ( - \tilde { g } _ { 4 } ) ^ { 1 / 2 } \Biggl ( \tilde { R } _ { 4 } -

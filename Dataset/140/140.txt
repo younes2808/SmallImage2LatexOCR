@@ -1,1 +1,0 @@
-H _ { l , c } = - p _ { u } = \frac { 1 } { 2 } ( E - p _ { y } ) = \frac { p _ { A } ^ { 2 } } { 4 p _ { v } } + \frac { 1 } { 4 \alpha ^ { \prime } p _ { v } } ( \hat { N } _ { L } + \hat { N } _ { R } ) + f ( \hat { J } _ { L } + \hat { J } _ { R } ) .

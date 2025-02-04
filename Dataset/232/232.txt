@@ -1,1 +1,0 @@
-\eta _ { j } ^ { \mu } = N ^ { - 1 } \sum _ { k = 1 } ^ { N - 1 } \sum _ { l = 2 } ^ { N - 1 } c _ { j k l } N _ { k } g _ { l } ^ { - 1 } a _ { l } ^ { \dagger } S _ { l } ^ { \mu }

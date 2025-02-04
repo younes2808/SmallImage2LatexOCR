@@ -1,1 +1,0 @@
-T r _ { \omega } f | D | ^ { - d } = \int _ { M } f ( x ) \sqrt { d e t g ( x ) } d x ^ { 1 } { \wedge } d x ^ { 2 } { \wedge } . . { \wedge } d x ^ { d } .

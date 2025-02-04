@@ -1,1 +1,0 @@
-V _ { \alpha } ( w ) = \frac { { \cal C } _ { 1 , \alpha } } { M ( w ) ^ { 3 } L ( w ) } ,

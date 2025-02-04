@@ -1,1 +1,0 @@
-\frac { 1 } { 4 \kappa } \left( \hat { K } + 3 - \Delta _ { 3 } \right) G _ { E \ i ^ { \prime } j ^ { \prime } } ^ { \ i j } ( X , X ^ { \prime } , \Omega , \Omega ^ { \prime } ) = \delta ( X - X ^ { \prime } ) \gamma ^ { - { \frac { 1 } { 2 } } } \delta _ { i ^ { \prime } j ^ { \prime } } ^ { i j } ( \Omega - \Omega ^ { \prime } ) .

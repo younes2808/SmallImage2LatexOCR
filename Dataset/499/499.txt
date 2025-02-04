@@ -1,1 +1,0 @@
-d s ^ { 2 } = e ^ { { \frac { 1 } { 2 } } \Phi } \left( e ^ { { \frac { 1 } { 2 } } \xi - 5 \eta } d \rho ^ { 2 } + e ^ { - { \frac { 1 } { 2 } } \xi } d x _ { | | } ^ { 2 } + e ^ { { \frac { 1 } { 2 } } - \eta } d \Omega _ { 5 } ^ { 2 } \right) ,

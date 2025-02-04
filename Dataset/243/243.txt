@@ -1,1 +1,0 @@
-| u \rangle = N _ { u } \frac { L _ { \| } } { \pi } \sum _ { n , m } \delta _ { n + m , K } \delta _ { n _ { \perp } + m _ { \perp } , N _ { \perp } } T ( n , m ) | 0 \rangle .

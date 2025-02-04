@@ -1,1 +1,0 @@
-\frac { M } { L } \geq \frac { \sqrt { p ^ { 2 } + q ^ { 2 } / g _ { s } ^ { 2 } } } { 2 \pi { \alpha ^ { \prime } } } \equiv \tau _ { p , q } \ .

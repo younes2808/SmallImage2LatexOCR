@@ -1,1 +1,0 @@
-\Gamma ^ { ( l ) } ( M ^ { 2 } ( X ) - \chi ( X ) , \{ f _ { \mathrm { \scriptsize { I } } } ( X ) \} ) .

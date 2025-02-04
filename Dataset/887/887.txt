@@ -1,1 +1,0 @@
-\Phi ^ { \prime \prime } + \frac { 2 } { r } \Phi ^ { \prime } = - e ^ { - \sqrt { 3 } \Phi + 2 U } \ell ( r ) ^ { 2 } \frac { 1 } { r ^ { 4 } } .

@@ -1,1 +1,0 @@
-\phi ( Q _ { r } ^ { \prime } , t ) = \int e ^ { - i F ^ { * } ( q _ { r } ^ { \prime } , Q _ { s } ^ { \prime } , t ) } \psi ( q _ { r } ^ { \prime } , t ) \rho ( q _ { r } ^ { \prime } ) d ^ { f } q ^ { \prime } .

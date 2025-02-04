@@ -1,1 +1,0 @@
-{ \cal T } _ { a b } ( q _ { 0 } , \vec { q } ) = \int _ { 0 } ^ { \infty } \frac { d { q _ { 0 } ^ { \prime } } ^ { 2 } } { 2 \pi } \rho ( q _ { 0 } ^ { \prime } , \vec { q } ) { \cal D } _ { a b } ^ { 0 } ( q _ { 0 } , q _ { 0 } ^ { \prime } ) ,

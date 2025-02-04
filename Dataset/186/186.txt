@@ -1,1 +1,0 @@
-\gamma ^ { \mu } \psi _ { \mu } = a ^ { - 1 } \bar { \gamma } ^ { \mu } \psi _ { \mu } = a ^ { - 1 } \left( \gamma ^ { 0 } \psi _ { 0 } + \vec { \gamma } \cdot \vec { \psi } \right) .

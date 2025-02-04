@@ -1,1 +1,0 @@
-X ^ { 2 } + Y ^ { 2 } - \left( R e \hat { \epsilon } \right) ^ { 2 } = \frac 1 4 \Gamma ^ { 2 }

@@ -1,1 +1,0 @@
-- \frac { 1 } { 2 } \frac { \alpha ^ { \prime } } { a ^ { 2 } } \ddot { T } ( X ^ { 0 } ) - 2 T ( X ^ { 0 } ) + \frac { \alpha ^ { \prime } } { a ^ { 2 } } \dot { \phi } \dot { T } ( X ^ { 0 } ) = 0 \ ,

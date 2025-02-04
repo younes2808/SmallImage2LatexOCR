@@ -1,1 +1,0 @@
-x _ { \mu } = 2 y _ { \mu } + \eta _ { \mu } , \eta _ { \mu } = 0 \mathrm { o r } 1 , \mu = 1 , \cdots , d . \nonumber

@@ -1,1 +1,0 @@
-\phi = t a n h s + \frac { 1 } { M } \frac { C } { c o s h ^ { 2 } s } + \frac { 1 } { M ^ { 2 } } \frac { \alpha } { c o s h ^ { 2 } s }

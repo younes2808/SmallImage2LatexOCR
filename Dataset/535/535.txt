@@ -1,1 +1,0 @@
-\vartheta ( { \bf t } ) : = { \bf t } + \mathrm { \boldmath \theta } ,

@@ -1,1 +1,0 @@
-\left[ \int d ^ { 2 } z G ^ { ( 2 ) } ( y - z ) \epsilon _ { i j } \partial _ { i } E _ { j } ; \int _ { L } d l _ { i } A ^ { i } \right] = - i \int _ { L } d l _ { i } \partial ^ { i } \Theta ( y - z )

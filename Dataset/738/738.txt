@@ -1,1 +1,0 @@
-K = e ^ { { x ^ { i } } \Pi _ { i } } e ^ { \rho D } e ^ { y ^ { a ^ { \prime } } P _ { a ^ { \prime } } } e ^ { \eta ^ { \hat { \alpha } } Q _ { \hat { \alpha } } } e ^ { \theta ^ { \hat { \alpha } } S _ { \hat { \alpha } } } ,

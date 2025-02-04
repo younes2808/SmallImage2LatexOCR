@@ -1,1 +1,0 @@
-\delta { \cal A } _ { F } [ H ] = T r ( F ^ { \prime } ( H * ) * \delta H ) = T r ( F ^ { \prime } ( H * ) \delta H )

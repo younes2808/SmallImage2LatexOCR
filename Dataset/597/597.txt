@@ -1,1 +1,0 @@
-\begin{array} { l l } { I _ { ( a ) } + I _ { ( b ) } + I _ { ( c ) } + I _ { ( d ) } } & { \sim \left[ G _ { + + } ^ { ( 0 ) } ( k + p _ { 2 } ) - G _ { - + } ^ { ( 0 ) } ( k + p _ { 2 } ) \right] G _ { R } ( k - p _ { 1 } ) } \\ { { } } & { = G _ { A } ( k + p _ { 2 } ) G _ { R } ( k - p _ { 1 } ) . } \\ \end{array}

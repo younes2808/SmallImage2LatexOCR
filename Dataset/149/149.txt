@@ -1,1 +1,0 @@
-S - \ln { \cal Z } = - \alpha { \cal N } - \beta ^ { \rho } { \cal P } _ { \rho } \ .

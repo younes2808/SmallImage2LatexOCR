@@ -1,1 +1,0 @@
-| f _ { L } , f _ { R } \rangle \star | g _ { L } , g _ { R } \rangle = e ^ { - \int _ { 0 } ^ { \frac { \pi } { 2 } } f ( \pi - \sigma ) g ( \sigma ) } | f _ { L } , g _ { R } \rangle .

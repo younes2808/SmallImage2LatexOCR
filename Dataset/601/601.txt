@@ -1,1 +1,0 @@
-0 = \int d s ^ { 1 } d s ^ { 2 } ( \tilde { T _ { a } } \Theta _ { k } ) ^ { \dagger } \hat { L } ( \tilde { T _ { a } } \Psi ^ { ( 0 ) } ) \tilde { T _ { a } } \Psi ^ { ( 2 ) } , ( A 1 )

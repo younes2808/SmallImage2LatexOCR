@@ -1,1 +1,0 @@
-\left( { \frac { \mathrm { d } ^ { 2 } } { \mathrm { d } \tau ^ { 2 } } } + n ^ { 2 } \right) ( r \sin \theta ) = { \frac { 1 } { 2 } } ( n ^ { 2 } \sin ^ { 2 } \theta - 3 \dot { \theta } ^ { 2 } ) \sin \theta .

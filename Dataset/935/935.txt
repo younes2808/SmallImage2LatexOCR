@@ -1,1 +1,0 @@
-\overline { { H } } _ { j + k } ( x ) < \overline { { H } } _ { j } ( x ) \overline { { H } } _ { k } ( x ) .

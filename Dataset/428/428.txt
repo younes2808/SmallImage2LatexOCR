@@ -1,1 +1,0 @@
-\mathrm { d e t } \bigl ( g _ { i j } + { \cal F } _ { i j } \bigr ) = \mathrm { d e t } g _ { i j } - \mathrm { d e t } { \cal F } _ { i j } .

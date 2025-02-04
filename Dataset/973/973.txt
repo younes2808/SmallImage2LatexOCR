@@ -1,1 +1,0 @@
-{ \cal Z } _ { \mathrm { e f f } } ( \Phi _ { i } ) = e ^ { i S _ { \mathrm { e f f } } ( \Phi _ { i } ) } = \langle T e ^ { i \int _ { \cal B } \Phi _ { b , i } { \cal O } ^ { i } } \rangle ,

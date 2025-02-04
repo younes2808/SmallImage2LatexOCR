@@ -1,1 +1,0 @@
-\Delta a = { \frac { 1 5 } { 2 } } \pi ^ { 2 } \int \mathrm { d } ^ { 4 } x | x | ^ { 4 } \langle \Theta ( x ) \Theta ( 0 ) \rangle

@@ -1,1 +1,0 @@
-\varepsilon ^ { ( 1 ) } ( x ) = \frac { g _ { \varepsilon } \lambda ^ { 2 } } { 4 \pi c \tau _ { S } } \frac { \cos ( \sqrt { \omega _ { S } ^ { 2 } / c ^ { 2 } + 1 / \lambda ^ { 2 } } | \vec { x } - \vec { x } _ { S } | - \omega _ { S } t ) } { | \vec { x } - \vec { x } _ { S } | } .

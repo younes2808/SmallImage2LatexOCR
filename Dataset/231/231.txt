@@ -1,1 +1,0 @@
-K = { \frac { 3 \alpha ^ { 2 } } { 2 } } e ^ { - \alpha \phi _ { 0 } } \sqrt { \frac { 3 \Lambda } { 9 \alpha ^ { 2 } - 3 2 \kappa _ { 5 } ^ { 2 } } } ,

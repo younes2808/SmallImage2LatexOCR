@@ -1,1 +1,0 @@
-\Phi = \sqrt { \frac { 2 m ^ { 2 } } { \lambda } } e ^ { i \theta } F ( \rho ) ,

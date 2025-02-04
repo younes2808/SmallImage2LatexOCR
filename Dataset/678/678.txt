@@ -1,1 +1,0 @@
-H ( t , M , \kappa _ { \tau } ) = \rho ^ { \tau [ \frac { d - \frac { m } { 2 } } { 2 } + 1 ] } \nonumber H ( \frac { t } { \rho ^ { 2 \tau } } , \frac { M } { \rho ^ { 2 \tau [ \frac { d - \frac { m } { 2 } } { 2 } - 1 ] } } , \frac { \kappa _ { \tau } } { \rho } ) .

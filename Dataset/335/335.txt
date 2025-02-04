@@ -1,1 +1,0 @@
-\hat { g } = e ^ { 2 m z } \left( e ^ { \frac 1 6 \phi } g _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } + e ^ { - \frac 4 3 \phi } ( d z + A _ { \mu } d x ^ { \mu } ) ^ { 2 } \right) ,

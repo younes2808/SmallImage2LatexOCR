@@ -1,1 +1,0 @@
-\omega _ { 2 } = - F ( r , \theta ) \frac { a } { K ^ { 2 } - 2 K \int a ^ { 3 } U ^ { \prime } ( \phi ) d t + \left[ \int a ^ { 3 } U ^ { \prime } ( \phi ) d t \right] ^ { 2 } } .

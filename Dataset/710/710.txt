@@ -1,1 +1,0 @@
-A = 2 p + i [ ( \partial / \partial x ^ { m } ) ( \gamma ^ { 0 m } / \gamma ^ { 0 3 } ) + ( \gamma ^ { 0 m } / \gamma ^ { 0 3 } ) ( \partial / \partial x ^ { m } ) ] ,

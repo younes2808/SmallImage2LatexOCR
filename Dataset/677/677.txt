@@ -1,1 +1,0 @@
-\omega ^ { 2 } = \Omega [ \psi ] + 4 \int d ^ { 2 } x ( T [ \alpha , \delta ] + T [ \beta , \gamma ] )

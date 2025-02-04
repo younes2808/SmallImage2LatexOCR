@@ -1,1 +1,0 @@
-U = \mp \frac { 2 } { a } \exp \left( \frac { a } { 2 } u \right) , \quad \quad V = \frac { 2 } { a } \exp \left( - \frac { a } { 2 } v \right) ,

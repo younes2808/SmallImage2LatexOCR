@@ -1,1 +1,0 @@
-\{ \Psi _ { 1 } ( x _ { n } , t ) , \overline { { \Psi } } _ { 1 } ( x _ { m } , t ) \} = \frac { \delta _ { m , n } } { \Delta x _ { n } } - ( 1 - q ^ { - 2 } ) \overline { { \Psi } } _ { 2 } ( x _ { m } , t ) \Psi _ { 2 } ( x _ { n } , t )

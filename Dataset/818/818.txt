@@ -1,1 +1,0 @@
-p = \frac { \pi ^ { 1 } } { \pi ^ { 0 } } \quad , { \bar { p } } ^ { + } = \frac { \bar { \pi } _ { 1 } } { { \bar { \pi } } _ { 0 } }

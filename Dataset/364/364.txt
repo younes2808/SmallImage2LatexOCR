@@ -1,1 +1,0 @@
-H = \frac { 1 } { \alpha } \sum _ { n = - \infty } ^ { \infty } { \omega _ { n } } ( a _ { n } ^ { \dagger } a _ { n } + b _ { n } ^ { \dagger } b _ { n } ) .

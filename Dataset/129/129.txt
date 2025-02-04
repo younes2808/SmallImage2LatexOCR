@@ -1,1 +1,0 @@
-\hat { B } _ { ( n ) } = \sum _ { r , s } b _ { ( n ) } ^ { ( r , s ) } \hat { a } ^ { \dagger r } \hat { a } ^ { s } .

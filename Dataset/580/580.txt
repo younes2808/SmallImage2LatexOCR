@@ -1,1 +1,0 @@
-\xi = e ^ { i \phi } \tan { \frac { \theta } { 2 } } .

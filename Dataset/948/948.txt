@@ -1,1 +1,0 @@
-D _ { L \mu \nu } ( k ) = D _ { L \mu \nu } ^ { 0 } ( k ) + D _ { L \mu \lambda } ^ { 0 } ( k ) \Pi _ { L } ^ { \lambda \rho } ( k ) D _ { L \rho \nu } ( k )

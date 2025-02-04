@@ -1,1 +1,0 @@
-q ^ { + } ( \zeta , u ) = f ^ { i } ( x ) u _ { i } ^ { + } + \theta ^ { + \alpha } \psi _ { \alpha } ( x ) + \bar { \theta } _ { \dot { \alpha } } ^ { + } \bar { \kappa } ^ { \dot { \alpha } } ( x ) + 2 i \theta ^ { + } / \! \! \! \partial \bar { \theta } ^ { + } f ^ { i } ( x ) u _ { i } ^ { - } ,

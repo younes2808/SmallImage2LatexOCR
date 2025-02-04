@@ -1,1 +1,0 @@
-< X > _ { _ { \Psi , J } } = \int \prod [ d \phi ^ { A } ] X \exp \left( { \frac { i } { \hbar } } W [ \phi ^ { A } , \phi _ { A } ^ { \ast } = { \frac { \delta \Psi } { \delta \phi ^ { A } } } ] + J _ { A } \phi ^ { A } \right)

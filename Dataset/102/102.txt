@@ -1,1 +1,0 @@
-d e g ( f ) = \sum _ { p _ { i } } s g n | \frac { \partial y ^ { j } } { \partial x ^ { i } } | _ { p _ { i } }

@@ -1,1 +1,0 @@
-x _ { c , N } \rightarrow \left( 4 N / e \lambda \right) ^ { 1 / 4 } .

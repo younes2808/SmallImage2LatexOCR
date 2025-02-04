@@ -1,1 +1,0 @@
-\dot { x } ^ { 2 } + x ^ { 2 } \dot { \varphi } ^ { 2 } + \left( \frac { x } { C } \right) ^ { 2 p } = 1 ,

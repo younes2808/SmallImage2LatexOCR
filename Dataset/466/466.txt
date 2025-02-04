@@ -1,1 +1,0 @@
-g ( \alpha a + \beta b ) = \alpha g ( a ) + \beta g ( b ) ,

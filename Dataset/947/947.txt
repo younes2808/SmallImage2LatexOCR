@@ -1,1 +1,0 @@
-\mu ^ { \prime \prime } - \frac { ( { \sqrt { s } } ) ^ { \prime \prime } } { \sqrt { s } } \mu - \frac { r } { s } \partial _ { \alpha } \partial ^ { \alpha } \mu = 0 .

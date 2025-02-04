@@ -1,1 +1,0 @@
-x _ { 0 } \rightarrow \sqrt { q } x _ { 0 } , x _ { i } \rightarrow \sqrt { q } x _ { i } , u a _ { \mathrm { e f f } } = e ^ { U } .

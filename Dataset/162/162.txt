@@ -1,1 +1,0 @@
-\omega ^ { 2 } = F ^ { 2 } ( k ) \equiv k ^ { 2 } - \frac { k ^ { 4 } } { k _ { \mathrm { C } } ^ { 2 } } .

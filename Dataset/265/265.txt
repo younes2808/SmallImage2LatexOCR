@@ -1,1 +1,0 @@
-\varepsilon _ { D } \left( L \right) = \frac { c ( D ) \pi ^ { ( D - 1 ) / 2 } } { 2 ^ { D - 1 } L ^ { D - 1 } } \Gamma \left( \frac { 1 - D } { 2 } \right) \sum _ { n = 0 } ^ { \infty } ( n + \frac 1 { 2 } ) ^ { D - 1 } .

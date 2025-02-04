@@ -1,1 +1,0 @@
-L _ { + } = \left( \begin{matrix} { D } & { ( 1 - q ^ { 2 } ) B } \\ { 0 } & { D ^ { - 1 } } \\ \end{matrix} \right) , \ \L _ { - } = \left( \begin{matrix} { D ^ { - 1 } } & { 0 } \\ { ( q ^ { 2 } - 1 ) C } & { D } \\ \end{matrix} \right) \ ,

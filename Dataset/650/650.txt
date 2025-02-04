@@ -1,1 +1,0 @@
-\tilde { \zeta } _ { i j } ( x ) = ( c - 2 \partial _ { 2 } \alpha ) ^ { 4 } \ \delta _ { i j } \ .

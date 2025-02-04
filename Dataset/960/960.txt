@@ -1,1 +1,0 @@
-\left( \delta _ { j } ^ { i } - \nabla _ { j } \frac { 1 } { \Delta } \nabla ^ { i } \right) H _ { i } .

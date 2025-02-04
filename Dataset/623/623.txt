@@ -1,1 +1,0 @@
-F ( e _ { 2 } , A _ { 2 } ) \cdot F ( e _ { 1 } , A _ { 1 } ) = \sum _ { f _ { 1 } \circ f _ { 2 } } R _ { f _ { 1 } \circ f _ { 2 } } ^ { e _ { 2 } \circ e _ { 1 } } ( N ) \cdot F ( f _ { 1 } , A _ { 1 } ) \cdot F ( f _ { 2 } , A _ { 2 } )

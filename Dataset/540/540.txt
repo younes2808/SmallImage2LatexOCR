@@ -1,1 +1,0 @@
-h ( \tau ) = h _ { 0 } + \frac { \kappa \sqrt { \phi _ { 0 } } } { C } \frac { \tanh ^ { 2 \omega } \frac { \tau } 2 - 1 } { \tanh ^ { 2 \omega } \frac { \tau } 2 + 1 } ,

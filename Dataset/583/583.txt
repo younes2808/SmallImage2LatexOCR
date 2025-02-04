@@ -1,1 +1,0 @@
-\bar { \theta } = g ( y ) \theta g ^ { - 1 } ( y ) .

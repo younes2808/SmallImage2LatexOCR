@@ -1,1 +1,0 @@
-\Delta _ { k } = \left| \begin{array} { c c c } { D _ { 1 } ^ { 1 } } & { \cdots } & { D _ { 1 } ^ { k } } \\ { \vdots } & { } & { \vdots } \\ { D _ { k } ^ { 1 } } & { \cdots } & { D _ { k } ^ { k } } \\ \end{array} \right| \quad , \qquad k = 1 , \ldots , r

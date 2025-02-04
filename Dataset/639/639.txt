@@ -1,1 +1,0 @@
-L _ { h y b } = \tilde { L } \sp { C S } _ { e x t } + \frac { e \hat { B } \sp { e x t } } { 2 } ( \epsilon _ { i j } X _ { i } \dot { X } _ { j } - 2 e \theta \hat { A } _ { 0 } \sp { C S } ) + e \hat { E } _ { i } \sp { e x t } \cdot \eta _ { i } .

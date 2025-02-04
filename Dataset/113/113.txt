@@ -1,1 +1,0 @@
-\frac { d h \left( t , \frac { { D _ { B } } ^ { \frac 1 2 } } { \mu } \right) } { d t } = \sum _ { k = 0 } ^ { d } ( - k ) \frac { 1 } { 2 \mu } \frac { \Gamma \left( \frac { k + 1 } 2 \right) } { \Gamma \left( \frac 1 2 \right) } a _ { d - k } \left( \frac { t } { 2 \mu } \right) ^ { - k - 1 } +

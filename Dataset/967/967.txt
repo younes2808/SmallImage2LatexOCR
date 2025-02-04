@@ -1,1 +1,0 @@
-L _ { e f f } = \frac { 1 } { 2 } m ^ { 2 } ( t ) \Phi ^ { 2 } + \frac { \lambda ( t ) } { 4 ! } \varphi ^ { 4 } + \frac { 1 } { 2 } \xi ( t ) R \varphi ^ { 2 } + \Lambda _ { 0 } ( t ) + \kappa ( t ) R + \widetilde { a } _ { 1 } ( t ) R ^ { 2 } ,

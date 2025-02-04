@@ -1,1 +1,0 @@
-\varphi ( \tau , \sigma ) = \varphi ( \tau , \sigma + 2 \pi )

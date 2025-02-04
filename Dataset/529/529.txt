@@ -1,1 +1,0 @@
-F ( \eta ; \xi _ { 1 } , \xi _ { 2 } ) = \sum _ { \ell = 0 } ^ { 2 I } ( \xi _ { 2 } \eta ) ^ { \ell } [ \xi _ { 1 } ( 1 - \eta ) ] ^ { 2 I - \ell } f _ { \ell } ( \eta ) \

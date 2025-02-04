@@ -1,1 +1,0 @@
-E = - i \int _ { - \infty } ^ { \infty } { \frac { d \omega } { 2 \pi } } e ^ { - i \omega \tau } { \frac { \omega } { 2 } } \sum _ { p } \left( { \frac { 1 } { \omega - k _ { p } } } + { \frac { 1 } { \omega + k _ { p } } } \right) .

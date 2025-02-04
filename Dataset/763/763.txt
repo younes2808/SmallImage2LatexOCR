@@ -1,1 +1,0 @@
-{ \mathbf J } = { \mathbf r } \times ( { \mathbf p } - e { \mathbf A } ) - \mu \frac { \mathbf r } { r } , \quad \mu = e q

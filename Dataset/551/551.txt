@@ -1,1 +1,0 @@
-S = - \left( \beta \frac { \partial } { \partial \beta } - 1 \right) \ln Z

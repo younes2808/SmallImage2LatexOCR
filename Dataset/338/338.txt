@@ -1,1 +1,0 @@
-\underline { { J } } ( x ) : = \langle \underline { { { \mathcal J } } } ( x ) \rangle _ { \beta , \underline { { \mu } } } ,

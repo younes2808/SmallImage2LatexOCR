@@ -1,1 +1,0 @@
-W _ { 3 } ( x , \vec { p } ) = \int _ { - \infty } ^ { \infty } d p _ { 0 } W _ { 4 } ( x , \vec { p } , p _ { 0 } ) .

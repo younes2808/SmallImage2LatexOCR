@@ -1,1 +1,0 @@
-\langle \partial _ { - } f ( \sigma ) \partial _ { + } f ( \sigma ^ { \prime } ) \rangle _ { \mathrm { { i n } } } = - \frac { 1 } { 4 \pi } \frac { p ^ { \prime } ( \sigma ^ { - } ) } { [ \: p ( \sigma ^ { - } ) - \sigma ^ { + } - i \epsilon \: ] ^ { 2 } } ,

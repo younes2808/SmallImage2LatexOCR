@@ -1,1 +1,0 @@
-\langle { \cal O } ( x ) { \cal O } ( 0 ) \rangle = { \frac { 1 } { | x | ^ { 2 d } } } Z ^ { 2 } \left( \alpha ( 1 / | x | ) , \alpha ( \mu ) \right) G ( \alpha ( 1 / | x | ) ) ,

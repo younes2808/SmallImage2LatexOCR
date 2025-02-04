@@ -1,1 +1,0 @@
-d s ^ { 2 } = { \frac { r ^ { 2 } } { R ^ { 2 } } } \left( - f d t ^ { 2 } + d { \bf x } ^ { 2 } \right) + { \frac { R ^ { 2 } } { r ^ { 2 } f } } d r ^ { 2 } ,

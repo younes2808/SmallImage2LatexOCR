@@ -1,1 +1,0 @@
-\delta \varphi ^ { a } = 0 , \quad \quad \delta B _ { \mu \nu } ^ { a } = \partial _ { \mu } \omega _ { \nu } ^ { a } - \partial _ { \nu } \omega _ { \mu } ^ { a } .

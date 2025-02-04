@@ -1,1 +1,0 @@
-\vec { a } ^ { \prime 2 } = \vec { b } ^ { \prime 2 } = 1 ;

@@ -1,1 +1,0 @@
-{ \cal L } = m e ^ { - \phi } \sqrt { | \dot { x } ^ { \mu } \dot { x } ^ { \nu } g _ { \mu \nu } ^ { S } | } + q A _ { \mu } \dot { x } ^ { \mu } ,

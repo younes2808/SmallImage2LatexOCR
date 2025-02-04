@@ -1,1 +1,0 @@
-\int d ^ { 4 } x d ^ { 4 } y S _ { 2 m + 1 } ( \theta _ { p } \phi _ { m } ^ { \ast } , x - \theta y , \phi _ { m } ) \overline { { \phi } } _ { 1 } ( x ) \phi _ { 1 } ( y ) \geq 0 .

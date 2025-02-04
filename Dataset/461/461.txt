@@ -1,1 +1,0 @@
-\hat { O } ( z , \eta ) = \hat { A } ( z ) + \hat { \bar { \zeta } } ( z ) \eta + \bar { \eta } \hat { \zeta } ( z ) + \bar { \eta } \eta \hat { B } ( z ) ,

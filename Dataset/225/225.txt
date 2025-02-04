@@ -1,1 +1,0 @@
-Z _ { v } ^ { X } ( \tau ) : = q ^ { - { \frac { ( r + 1 ) \chi ( X ) } { 2 4 } } } \sum _ { k } \chi ( { \cal M } ( v , k ) ) q ^ { k } .

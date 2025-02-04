@@ -1,1 +1,0 @@
-a _ { 1 } = s \alpha ( s , t ) , \qquad a _ { 2 } = \gamma ( s , t ) , \qquad a _ { 3 } = t \beta ( s , t ) ;

@@ -1,1 +1,0 @@
-\theta _ { e f f } ^ { c r i t } = \frac { 2 \pi } { \sqrt { 3 } } m .

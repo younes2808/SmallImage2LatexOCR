@@ -1,1 +1,0 @@
-\sum _ { i = 1 } ^ { \infty } \sum _ { j = 1 } ^ { \infty } \frac { 1 } { 2 } \psi _ { i j } \psi _ { j i } - \sum _ { i = 1 } ^ { r } \sum _ { j = 1 } ^ { \infty } \psi _ { i j } \psi _ { j i } .

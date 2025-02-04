@@ -1,1 +1,0 @@
-( I _ { a } \otimes 1 + ( 1 - t ) \otimes i _ { a } ) \prod _ { \alpha } ( 1 + t \omega ^ { \alpha } i _ { \alpha } ) = \prod _ { \alpha } ( 1 + t \omega ^ { \alpha } i _ { \alpha } ) ( I _ { a } \otimes 1 + 1 \otimes i _ { a } )

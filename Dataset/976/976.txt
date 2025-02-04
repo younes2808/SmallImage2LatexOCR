@@ -1,1 +1,0 @@
-\frac { \partial { \cal { L } } ( \lambda ) } { \partial \lambda _ { n c s } } \: + \: ( \deg < 9 ) = 0 .

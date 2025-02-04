@@ -1,1 +1,0 @@
-Z _ { 1 } ( 0 ) = - 2 \zeta ( - 1 ) \int _ { 0 } ^ { \infty } d y \ln \frac { y } { \sqrt { 1 + y ^ { 2 } } } = - 2 \left( - \frac { 1 } { 1 2 } \right) \left( - \frac { \pi } { 2 } \right) = - \frac { \pi } { 1 2 } .

@@ -1,1 +1,0 @@
-M _ { 0 } \frac { \partial } { \partial M _ { 0 } } + \sum _ { i } M _ { i } \frac { \partial } { \partial M _ { i } } ( 1 + c _ { i } ^ { ( 0 ) } )

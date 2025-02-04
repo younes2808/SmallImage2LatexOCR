@@ -1,1 +1,0 @@
-1 = \int \! D B _ { + } ^ { 1 } \delta ( B _ { + } ^ { 1 } ) D B _ { + } ^ { 2 } \delta ( B _ { + } ^ { 2 } ) \exp \{ i \int \! d ^ { 2 } x [ \psi _ { - } ^ { \dagger 1 } B _ { + } ^ { 1 } \psi _ { - } ^ { 1 } + \psi _ { - } ^ { \dagger 2 } B _ { + } ^ { 2 } \psi _ { - } ^ { 2 } ] \} \quad ,

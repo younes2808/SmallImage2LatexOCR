@@ -1,1 +1,0 @@
-X = X _ { 0 } e ^ { 0 } + X _ { i } e ^ { i } = | X | \left( e ^ { 0 } c o s \gamma + \Upsilon s i n \gamma \right) .

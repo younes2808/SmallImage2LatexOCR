@@ -1,1 +1,0 @@
-F ^ { ( n ) } ( \Phi , K ^ { \prime } ) = K _ { A } ^ { \prime } \Phi ^ { A } + R ^ { ( n ) } ( \Phi , K ^ { \prime } ) .

@@ -1,1 +1,0 @@
-M _ { I } ^ { 2 } = e ^ { K } ( K ^ { \varphi \bar { \varphi } } ) ^ { 2 } | \lambda A | ^ { 2 } = \frac { | \lambda A | ^ { 2 } e ^ { G / 3 } } { 9 ( s + \bar { s } - b G ) } \left( 1 + \frac { b } { s + \bar { s } - b G } \right) ^ { - 2 } .

@@ -1,1 +1,0 @@
-a _ { \alpha } ( { \bf x } _ { i } ) = - \left( { \frac { \hbar \theta } { e \pi } } \right) \sum _ { j \ne i } \epsilon _ { \alpha \beta } { \frac { ( { \bf r } _ { i } - { \bf r } _ { j } ) ^ { \beta } } { \vert { \bf r } _ { i } - { \bf r } _ { j } \vert ^ { 2 } } }

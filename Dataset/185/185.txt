@@ -1,1 +1,0 @@
-\mu _ { \infty } N - \int _ { \Sigma } e ^ { - \phi } \mu n d ^ { 3 } r = \mu _ { \infty } N - \mu _ { \infty } \int _ { \Sigma } n \sqrt { g _ { 3 } } d ^ { 3 } x = 0

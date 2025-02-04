@@ -1,1 +1,0 @@
-p ^ { A } = \frac 1 2 \sigma _ { a \dot { a } } ^ { A } ( \xi ^ { a } \bar { \xi } ^ { \dot { a } } + \eta ^ { a } \bar { \eta } ^ { \dot { a } } )

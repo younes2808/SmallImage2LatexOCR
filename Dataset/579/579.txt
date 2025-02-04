@@ -1,1 +1,0 @@
-[ a _ { n } ^ { \mu } ( s ) , { a _ { m } ^ { \nu } } ^ { \dagger } ( s ) ] = \delta _ { n m } \eta ^ { \mu \nu } , [ c _ { n } ^ { \mu } ( s ) , { c _ { m } ^ { \nu } } ^ { \dagger } ( s ) ] = \delta _ { n m } \eta ^ { \mu \nu } .

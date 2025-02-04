@@ -1,1 +1,0 @@
-r ^ { 2 } \partial _ { r } ^ { 2 } R _ { ( 1 ) } ( r ) + 3 r \partial _ { r } R _ { ( 1 ) } ( r ) + \frac { \omega ^ { 2 } \ell ^ { 4 } } { r ^ { 2 } } R _ { ( 1 ) } ( r ) = 0 ,

@@ -1,1 +1,0 @@
-S _ { \psi } = \int d ^ { 2 } \xi d ^ { 8 } \eta _ { - } s d e t ( { e } ) V _ { q ^ { \prime } } ^ { - 8 } P ^ { q ^ { \prime } } ,

@@ -1,1 +1,0 @@
-\left( \begin{array} { c } { z ^ { \prime } } \\ { \bar { z } ^ { \prime } } \\ \end{array} \right) = \left( \begin{array} { c c } { u } & { 0 } \\ { 0 } & { \bar { u } } \\ \end{array} \right) \left( \begin{array} { c } { z } \\ { \bar { z } } \\ \end{array} \right) \ .

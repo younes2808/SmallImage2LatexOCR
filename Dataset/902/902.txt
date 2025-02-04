@@ -1,1 +1,0 @@
-\Psi ( t , \theta , \phi ) = e ^ { - i E t } \exp { i ( n + \frac { 1 } { 2 } - \frac { 1 } { 2 } \sigma _ { _ { 3 } } ) \phi } \left( \begin{array} { c } { A J _ { _ { | \frac { 1 } { \beta } ( n + \frac { 1 - \beta } { 2 } ) | } } ( \alpha c r ) } \\ { B J _ { _ { | \frac { 1 } { \beta } ( n + \frac { 1 - \beta } { 2 } ) + 1 | } } ( \alpha c r ) } \\ \end{array} \right) ,

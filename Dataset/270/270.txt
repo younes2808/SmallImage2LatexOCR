@@ -1,1 +1,0 @@
-A _ { - 1 } ( s ) = - \frac { R ^ { 2 s - 1 } \zeta ( 2 s - 2 ) } { c _ { 2 } ^ { 2 s } \pi } ( \alpha ^ { 2 s } - 1 ) \frac { \Gamma ( s - 1 ) } { 1 - 2 s } .

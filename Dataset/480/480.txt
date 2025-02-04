@@ -1,1 +1,0 @@
-{ \partial \Gamma } ( X ) = \{ Y \in d S _ { d } : ( X - Y ) ^ { 2 } = 0 \}

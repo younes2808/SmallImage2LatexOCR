@@ -1,1 +1,0 @@
-i m ( D _ { i } ) \subset k e r ( D _ { i + 1 } ) , \forall i = 0 , \cdots , k - 2 ,

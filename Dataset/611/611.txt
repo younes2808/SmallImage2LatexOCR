@@ -1,1 +1,0 @@
-d s ^ { 2 } = d \varphi ^ { 2 } + g _ { a b } ( \xi , { \varphi } ) d \xi ^ { a } d \xi ^ { b }

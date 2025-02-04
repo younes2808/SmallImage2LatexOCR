@@ -1,1 +1,0 @@
-\vec { \Gamma } _ { \mu } ( x ) = \partial _ { \mu } \vec { n } ( x ) \wedge \vec { n } ( x )

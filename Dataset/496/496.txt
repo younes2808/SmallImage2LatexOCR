@@ -1,1 +1,0 @@
-\eta ( \tau ) = \bigg ( \frac { i } { \tau } \bigg ) ^ { 1 / 2 } \eta \bigg ( - \frac { 1 } { \tau } \bigg ) ,

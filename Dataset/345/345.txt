@@ -1,1 +1,0 @@
-S _ { S U S Y } \left( \left. \begin{array} { c c } { a } & { d } \\ { b } & { c } \\ \end{array} \right| \theta _ { 1 } - \theta _ { 2 } \right) \times S _ { S G } \left( \theta _ { 1 } - \theta _ { 2 } \right) _ { \epsilon _ { 1 } \epsilon _ { 2 } } ^ { \epsilon _ { 1 } ^ { \prime } \epsilon _ { 2 } ^ { \prime } }

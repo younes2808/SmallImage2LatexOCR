@@ -1,1 +1,0 @@
-( \mathcal { S } _ { B V } , \mathcal { S } _ { B V } ) - 2 \hbar i \triangle \mathcal { S } _ { B V } = 0 .

@@ -1,1 +1,0 @@
-{ \bf \Omega } { \bf L } { \bf \Omega } ^ { T } = { \bf L } , \ { \bf L } = \left( \begin{matrix} { \bar { L } } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 1 } \\ { 0 } & { 1 } & { 0 } \\ \end{matrix} \right) .

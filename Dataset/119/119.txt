@@ -1,1 +1,0 @@
-S = \int d ^ { D } x \sqrt { | G | } \left( R - \frac { 1 } { 2 } ( \nabla \phi ) ^ { 2 } - \Lambda e ^ { a \phi } \right) .

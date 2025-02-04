@@ -1,1 +1,0 @@
-h \left( a , b \right) = \lambda \left( a \right) \left[ \lambda \left( b \right) \right] ^ { - 1 } ,

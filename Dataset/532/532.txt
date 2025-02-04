@@ -1,1 +1,0 @@
-a _ { M - 1 } = \oint \frac { d q } { 2 \pi { i } } { \tilde { \chi } } _ { 1 , 1 } ^ { ( p ) } ( A , B ; q ) q ^ { - M } = \oint \frac { d q } { 2 \pi { i } } \sum _ { n } \sum _ { \vec { m } } f ( n , \vec { m } ; q ) .

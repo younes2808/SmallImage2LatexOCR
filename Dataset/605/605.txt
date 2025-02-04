@@ -1,1 +1,0 @@
-\ddot { G } _ { i } ( t ) + \left\{ \omega ^ { 2 } + \frac { \lambda } { 2 } [ 1 + \tanh ( t / \tau ) ] \right\} G _ { i } ( t ) = 0 .

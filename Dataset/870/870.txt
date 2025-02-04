@@ -1,1 +1,0 @@
-- 4 \bar { \epsilon } _ { 2 } \zeta ^ { ( p ) } \gamma _ { \mu } \partial _ { \nu } \lambda .

@@ -1,1 +1,0 @@
-B _ { \mu \nu } ^ { A B } \rightarrow B _ { \mu \nu } ^ { A B } + \nabla _ { [ \mu } ^ { A C } ( \omega ) \Lambda _ { \nu ] } ^ { B C } ( x ) .

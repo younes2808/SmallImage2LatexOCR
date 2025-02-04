@@ -1,1 +1,0 @@
-H _ { r e l } = { \frac { 1 } { 2 } } \sum _ { a , b } ^ { 1 , 2 } k _ { a b } ^ { - 1 } [ m _ { i } , \Gamma _ { c i } ] { \vec { \pi } } _ { q a } \cdot { \vec { \pi } } _ { q b } .

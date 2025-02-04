@@ -1,1 +1,0 @@
-\left\langle v _ { P ^ { \prime } } | v _ { P } \right\rangle = \pi \delta ( P - P ^ { \prime } )

@@ -1,1 +1,0 @@
-{ } _ { p + 1 } F _ { p } \left( \begin{array} { c } { \{ 1 + a _ { i } \} _ { p + 1 } ; } \\ { \frac { 3 } { 2 } + b ; \{ 2 + c _ { i } \} _ { p - 1 } ; } \\ \end{array} \frac { 1 } { 4 } \right)

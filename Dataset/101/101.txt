@@ -1,1 +1,0 @@
-\Psi _ { B _ { s } } ( \phi _ { 0 } ) = \exp ( - 2 \pi \mu _ { B } e ^ { b \phi _ { 0 } } )

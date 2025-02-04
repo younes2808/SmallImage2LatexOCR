@@ -1,1 +1,0 @@
-I _ { n } ^ { ( \pm ) } ( \nu ; k ) = \frac { 1 } { ( \nu ^ { 2 } - \frac { 1 } { 4 } ) ^ { n - 1 } } \int _ { 1 } ^ { \infty } d \alpha W _ { n } ^ { ( \pm ) } ( \alpha ; k ) [ \alpha ^ { \frac { \nu } { 2 } } + \alpha ^ { \frac { - \nu } { 2 } } ] ,

@@ -1,1 +1,0 @@
-\left( \partial _ { x } + E + A \right) \left( \begin{array} { c } { \theta _ { 1 2 } } \\ { \theta _ { 2 2 } } \\ { \theta _ { 3 2 } } \\ \end{array} \right) \exp \left( - \sum \lambda ^ { n } t _ { n } / 3 \right) = 0 .

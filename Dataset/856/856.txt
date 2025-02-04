@@ -1,1 +1,0 @@
-- \beta F = \beta { \cal P } V = l n { \cal Z } = \frac { 1 } { a } \int _ { 0 } ^ { \infty } d E g ( E ) l n ( 1 + a e ^ { - \beta ( E - \mu ) } )

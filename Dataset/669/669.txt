@@ -1,1 +1,0 @@
-w ^ { l } = \sum _ { j = 0 } ^ { s } a _ { j } v _ { j } ^ { m } \otimes v _ { s - j } ^ { n } \in V ( m ) \otimes V ( n ) ,

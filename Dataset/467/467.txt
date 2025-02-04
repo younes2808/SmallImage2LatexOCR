@@ -1,1 +1,0 @@
-\partial _ { \bar { z } } T _ { s } = \lambda R _ { s - 1 } ^ { ( 1 ) } + \lambda ^ { 2 } R _ { s - 1 } ^ { ( 2 ) } + . . . + \lambda ^ { N } R _ { s - 1 } ^ { ( N ) }

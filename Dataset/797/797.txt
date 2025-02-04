@@ -1,1 +1,0 @@
-( X _ { n p } X _ { n q } X _ { m r } + X _ { m p } X _ { n q } X _ { n r } - 2 X _ { n p } X _ { m q } X _ { n r } ) B _ { r } ^ { \dagger } B _ { q } ^ { \dagger } B _ { p } ^ { \dagger } .

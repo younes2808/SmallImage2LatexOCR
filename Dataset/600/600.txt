@@ -1,1 +1,0 @@
-g _ { l \pm 1 , l } = \frac { ( y _ { l } ^ { \pm } ; s ) _ { \infty } } { ( q ^ { 2 } y _ { l } ^ { \pm } ; s ) _ { \infty } } \frac { 1 } { \widetilde { \xi } ( s ; s , q ) } .

@@ -1,1 +1,0 @@
-\begin{array} { l l } { ( 1 - q ) \partial _ { 0 } W = 0 , } & { ( 1 - q ) \bar { \partial } W = 0 . } \\ \end{array}

@@ -1,1 +1,0 @@
-L _ { n } ( \epsilon ) = a _ { n } \epsilon ^ { \tau _ { n } }

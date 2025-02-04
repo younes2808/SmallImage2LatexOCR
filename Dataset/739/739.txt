@@ -1,1 +1,0 @@
-C _ { A ; \mu \mu _ { 2 } \ldots \mu _ { d ( A ) } } x ^ { \mu _ { 2 } } \ldots x ^ { \mu _ { d ( A ) } }

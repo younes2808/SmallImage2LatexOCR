@@ -1,1 +1,0 @@
-c = \frac { 3 } { 2 } - \frac { 1 2 } { ( k + 2 ) ( k + 4 ) } \qquad k = 1 , 2 , 3 , \ldots

@@ -1,1 +1,0 @@
-\left[ \frac { 1 } { ( k \eta ) } \right] = \frac { 1 } { ( k \eta ) + i 0 } + c \delta ( ( k \eta ) )

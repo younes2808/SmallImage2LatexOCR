@@ -1,1 +1,0 @@
-\frac { 1 } { 2 } \int d ^ { 2 } x \mathrm { T r } ( \partial _ { + } \Phi \partial _ { - } \Phi ) = \frac { 1 } { 2 } \int d ^ { 2 } x \partial _ { + } \Phi ^ { a } \partial _ { - } \Phi ^ { a } ,

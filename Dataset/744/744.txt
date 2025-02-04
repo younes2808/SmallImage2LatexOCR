@@ -1,1 +1,0 @@
-d s ^ { 2 } = - H d u ^ { 2 } - 2 d u d r - 2 a r ^ { 2 } d u d x + r ^ { 2 } d \omega ^ { 2 } ,

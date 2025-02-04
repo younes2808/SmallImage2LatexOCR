@@ -1,1 +1,0 @@
-S _ { \mathrm { 4 d - s c a l a r } } = \int { \left( - { \frac { 1 } { 2 } } g ^ { \mu \nu } \partial _ { \mu } \phi \partial _ { \nu } \phi - V ( \phi ) \right) \sqrt { - g } d ^ { 4 } x }

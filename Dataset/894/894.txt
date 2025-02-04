@@ -1,1 +1,0 @@
-\begin{array} { r c l } { \psi \circ s _ { h } : = \phi : } & { G / H } & { \longrightarrow { \bf C } ^ { n } } \\ { } & { [ g ] } & { \longrightarrow \phi ( [ g ] ) = \psi ( s _ { h } ( [ g ] ) ) \equiv \psi ( g h ) } \\ \end{array}

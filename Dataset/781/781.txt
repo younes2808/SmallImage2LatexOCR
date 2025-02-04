@@ -1,1 +1,0 @@
-{ \ \mathcal { V } } _ { 0 } = \mathrm { { \bf 1 } } v ^ { a } T _ { a } ,

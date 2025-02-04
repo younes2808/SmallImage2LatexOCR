@@ -1,1 +1,0 @@
-\hat { a } _ { n } = \mathcal { U } \tilde { a } _ { n } ^ { i n } \mathcal { U } ^ { - 1 } \ , \mathcal { U } = e ^ { K } \ , K = \sum _ { n } ( c ( \tilde { b } _ { n } ^ { i n } ) ^ { 2 } - \overline { { c } } ( \tilde { a } _ { n } ^ { i n } ) ^ { 2 } ) \

@@ -1,1 +1,0 @@
-\phi _ { 0 } ( \vec { x } ^ { \prime } ) = \frac { 1 } { 2 \Delta - d } \int _ { 0 } ^ { \epsilon } d z ^ { \prime } { z } ^ { \Delta - d - 1 } J ( x ^ { \prime } ) .

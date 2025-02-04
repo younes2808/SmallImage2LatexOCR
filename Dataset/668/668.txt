@@ -1,1 +1,0 @@
-T _ { \mu \nu } = \frac 1 2 ( D _ { \mu } \phi ^ { * } D _ { \nu } \phi + D _ { v } \phi ^ { * } D _ { \mu } \phi ) + \eta _ { \mu \nu } ( \frac 1 2 | D _ { \alpha } \phi | ^ { 2 } + U )

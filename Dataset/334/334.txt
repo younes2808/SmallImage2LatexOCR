@@ -1,1 +1,0 @@
-( { \bf a } , { \bf a ^ { \prime } } ) = - l ^ { 2 } \cosh { \frac { \Delta \sigma } { l } } .

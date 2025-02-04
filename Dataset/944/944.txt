@@ -1,1 +1,0 @@
-H _ { a b \phi \psi } = \frac { 1 } { 3 } ( \Gamma _ { a b } ) _ { \phi \psi } .

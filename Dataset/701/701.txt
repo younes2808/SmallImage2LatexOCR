@@ -1,1 +1,0 @@
-{ \partial } _ { \nu } { F } ^ { \mu \nu } = q \bar { \Psi } { \gamma } ^ { \mu } { \Psi } .

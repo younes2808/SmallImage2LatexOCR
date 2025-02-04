@@ -1,1 +1,0 @@
-N = e x p [ - \frac { i \pi } { e } \int d ^ { 2 } y \partial _ { i } E _ { i } ( y ) ]

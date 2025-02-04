@@ -1,1 +1,0 @@
-F _ { k } ( \tau , q , \dot { q } , \ddot { q } ) = A _ { k j } ( \tau , q , \dot { q } ) \ddot { q } ^ { j } + B _ { k } ( \tau , q , \dot { q } ) .

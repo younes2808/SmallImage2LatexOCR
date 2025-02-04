@@ -1,1 +1,0 @@
-\mathcal { G } ( a ) = \left\langle \exp ( a \cdot \varphi ( x , 0 ) / 2 ) \right\rangle _ { B } .

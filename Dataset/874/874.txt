@@ -1,1 +1,0 @@
-\rho ( t ) = \rho ^ { ( 0 ) } ( t ) \exp \left[ - \frac { 2 } { \hbar } \int _ { t _ { 0 } } ^ { t } d t ^ { \prime } \Gamma ( t ^ { \prime } ) \right] ,

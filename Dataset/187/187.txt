@@ -1,1 +1,0 @@
-A _ { \mu } ( x ) = \partial _ { \mu } \eta ( x ) + \epsilon _ { \mu \nu } \partial _ { \nu } \Phi ( x )

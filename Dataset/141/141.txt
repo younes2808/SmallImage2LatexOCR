@@ -1,1 +1,0 @@
-t \propto \bar { t } ^ { ( 1 + \lambda \bar { p } _ { D + d } ) } \ ,

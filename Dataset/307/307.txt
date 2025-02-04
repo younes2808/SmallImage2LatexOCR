@@ -1,1 +1,0 @@
-\Delta \omega = 2 \kappa \Delta W + \Omega \Delta m + \Phi \Delta q .

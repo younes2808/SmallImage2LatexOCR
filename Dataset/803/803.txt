@@ -1,1 +1,0 @@
-i * \gamma \wedge \breve { D } \psi + * m \psi = i * \gamma \wedge \left[ D ^ { \{ \} } + \frac { i } { 4 } m \gamma + \frac { i } { 4 } A \gamma _ { 5 } \right] \psi = 0 ( 3 . 2 )

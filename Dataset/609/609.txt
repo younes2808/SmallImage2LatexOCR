@@ -1,1 +1,0 @@
-\sum _ { \alpha \in \Phi } ( \alpha \beta ) ^ { 2 } = \sum _ { \alpha \in P } ( \alpha \beta ) ^ { 2 } = g \beta ^ { 2 } .

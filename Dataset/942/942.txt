@@ -1,1 +1,0 @@
-f ( \beta ) = \exp \biggl ( \sum _ { k = 1 } ^ { \infty } a _ { k } ^ { ( c ) } \sigma _ { k } ( \beta ) \biggr ) ,

@@ -1,1 +1,0 @@
-\zeta _ { D } ( s ) = \frac { 1 } { \Gamma ( s ) } ( 4 g ^ { - 2 } ) ^ { s } \int _ { 0 } ^ { \infty } \bar { \sigma } ^ { s - 1 } d \bar { \sigma } \int \sqrt { g } d ^ { 4 } x \mathrm { T r } G ( x , x ; \bar { \sigma } )

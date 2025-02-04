@@ -1,1 +1,0 @@
-\phi ( \theta ) = \frac { 1 } { 2 \pi i } \frac { d } { d \theta } \ln S ( \theta )

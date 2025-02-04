@@ -1,1 +1,0 @@
-\lambda = \bar { U } ^ { - 1 } p ^ { - 1 } \bar { m } , ( \bar { m } = m ^ { - 1 } )

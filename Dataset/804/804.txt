@@ -1,1 +1,0 @@
-F ( Z ) = \int \frac { d ^ { 4 } p } { ( 2 { \pi } ) ^ { 4 } } \tilde { F } ( p ) e ^ { i p Z }

@@ -1,1 +1,0 @@
-\Upsilon _ { 0 } ^ { 0 } = \Upsilon _ { 1 } ^ { 1 } + \Upsilon _ { 3 } ^ { 3 } , \Upsilon _ { 1 } ^ { 1 } = \Upsilon _ { 2 } ^ { 2 } = \Upsilon _ { 1 } , \Upsilon _ { 3 } ^ { 3 } = \Upsilon _ { 4 } ^ { 4 } = \Upsilon _ { 3 } ,

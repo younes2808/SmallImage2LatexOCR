@@ -1,1 +1,0 @@
-\partial _ { \mu } ^ { x } T ^ { * } \big ( J ^ { \mu } ( x ) J _ { 5 } ^ { \nu } ( y ) \big ) = \big ( C _ { 0 \ \mu } ^ { \nu } ( y ) \partial _ { x } ^ { \mu } + S ( y ) \partial _ { x } ^ { \nu } \big ) \delta ^ { 2 } ( x - y ) .

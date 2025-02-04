@@ -1,1 +1,0 @@
-H _ { n } ^ { k } \ = \ \oint { \frac { d z } { 2 \pi i } } z ^ { n } { \frac { 1 } { 2 \lambda } } : \psi ( e ^ { k \lambda / 2 } z ) \psi ( e ^ { - k \lambda / 2 } z ) :

@@ -1,1 +1,0 @@
-\sum _ { n = - \infty } ^ { \infty } f ( n ) = \sum _ { m = - \infty } ^ { \infty } \int _ { - \infty } ^ { \infty } d \phi f ( \phi ) e ^ { 2 \pi i m \phi } ,

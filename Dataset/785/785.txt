@@ -1,1 +1,0 @@
-H _ { 2 } ^ { ( 1 ) } ( z ) \sim \frac { 2 } { z ^ { 2 } } + \frac { 1 } { 2 } + { \cal O } ( z ^ { 2 } , z ^ { 4 } \cdot \cdot ) ,

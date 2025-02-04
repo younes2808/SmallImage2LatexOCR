@@ -1,1 +1,0 @@
-{ \cal L } = - \frac { 1 } { \tilde { g } \tilde { l } _ { s } } \left( 1 - \frac { 1 } { 2 } \dot { \tilde { x } } ^ { i } \dot { \tilde { x } } ^ { i } + { \cal O } ( \dot { \tilde { x } } ^ { 4 } ) \right) .

@@ -1,1 +1,0 @@
-\delta _ { 2 } A _ { \mu } = 0 \quad \delta _ { 2 } \Phi _ { \mu } = D _ { \mu } \chi

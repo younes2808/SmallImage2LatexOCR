@@ -1,1 +1,0 @@
-\left[ \frac { \partial ^ { 2 } } { \partial p _ { 0 } ^ { 2 } } - \frac { \partial ^ { 2 } } { \partial \vec { p } ^ { 2 } } \right] \Psi ( p ) = \frac { 4 \lambda _ { F } \Psi ( p ) } { ( p _ { 0 } ^ { 2 } - \vec { p } ^ { 2 } + W ^ { 2 } - m ^ { 2 } ) ^ { 2 } - 4 p _ { 0 } ^ { 2 } W ^ { 2 } ) }

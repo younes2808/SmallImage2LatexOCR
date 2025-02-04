@@ -1,1 +1,0 @@
-R _ { i j } { \bf X } _ { j } = U ( R ) \cdot { \bf X } _ { i } \cdot U ( R ^ { - 1 } )

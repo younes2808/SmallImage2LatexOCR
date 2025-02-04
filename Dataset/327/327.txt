@@ -1,1 +1,0 @@
-[ X _ { S } , M _ { S } - i { \cal A } ] = i [ { \cal H } _ { C } , p \cdot \hat { H } ] ,

@@ -1,1 +1,0 @@
-( \mathbf { 2 7 } _ { 4 } ^ { \prime } ) _ { i j } = c _ { i } e _ { j } + c _ { j } e _ { i } - { \frac { 4 } { 5 } } d _ { i j k } Y c _ { k } \quad ,

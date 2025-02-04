@@ -1,1 +1,0 @@
-\mu ( g ) B ( v ) = B ( g v ) \mu ( g ) , \qquad \mathrm { f o r a l l } \quad v \in V .

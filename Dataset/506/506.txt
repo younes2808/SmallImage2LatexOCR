@@ -1,1 +1,0 @@
-\Psi = \varphi \left( x ^ { 0 } , x ^ { 3 } \right) \psi \left( x ^ { 1 } , x ^ { 2 } \right) ,

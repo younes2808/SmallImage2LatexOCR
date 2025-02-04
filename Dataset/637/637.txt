@@ -1,1 +1,0 @@
-Z _ { N } ^ { i n f } ( x _ { 1 } , \cdots , x _ { M } ) \equiv ( x _ { 1 } + \cdots + x _ { M } ) ^ { N } = \sum _ { { \lambda \atop | \lambda | = N } } n ( \lambda ) S _ { \lambda } ( x _ { 1 } , \cdots , x _ { M } ) ,

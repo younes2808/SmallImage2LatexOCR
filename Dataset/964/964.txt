@@ -1,1 +1,0 @@
-\delta ^ { * } W _ { \alpha } \ = \ \eta _ { \alpha } \ - \ { \frac { 1 } { 4 } } \bar { D } ^ { 2 } \bar { X } \eta _ { \alpha } \ - \ i \partial _ { \alpha \dot { \alpha } } X \bar { \eta } ^ { \dot { \alpha } } \ ,

@@ -1,1 +1,0 @@
-[ { \xi } _ { a } ( \theta ) , { \xi } _ { b } ( { \theta } ^ { ' } ) ] = [ P _ { a } ( { \theta } ) , P _ { b } ( { \theta } ^ { ' } ) ] = 0

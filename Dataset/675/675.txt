@@ -1,1 +1,0 @@
-Q ^ { \dagger } \equiv ( p - i W ( q ) ) \psi ^ { \dagger }

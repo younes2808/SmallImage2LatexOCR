@@ -1,1 +1,0 @@
-B ( p ^ { 2 } ) = - \frac { e ^ { 2 } } { 4 } \int \frac { d ^ { 3 } q } { ( 2 \pi ) ^ { 3 } } t r \lbrack \gamma _ { \mu } S ( q ) \Gamma _ { \nu } ( p , q ) D _ { \mu \nu } ( p - q ) \rbrack .

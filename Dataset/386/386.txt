@@ -1,1 +1,0 @@
-T ( \theta ) = 1 - a \Omega { \sin } ^ { 2 } { \theta } , R ( r ) = a - \Omega ( { r } ^ { 2 } + { a } ^ { 2 } ) .

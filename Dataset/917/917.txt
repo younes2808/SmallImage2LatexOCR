@@ -1,1 +1,0 @@
-T ^ { \mu } { } _ { \nu } = - { \frac { \partial { \cal L } } { \partial \partial _ { \mu } T } } \partial _ { \nu } T + \delta _ { \nu } ^ { \mu } { \cal L } .

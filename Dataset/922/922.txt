@@ -1,1 +1,0 @@
-\pi ^ { \mu } = \frac { \partial { \cal L } } { \partial \dot { A } _ { \mu } } = F ^ { \mu 0 }

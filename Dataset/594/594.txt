@@ -1,1 +1,0 @@
-G _ { i { \bar { j } } } = \partial _ { \bar { j } } \partial _ { i } K

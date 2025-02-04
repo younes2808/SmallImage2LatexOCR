@@ -1,1 +1,0 @@
-h _ { \ i } ^ { \underline { { a } } } \dot { \xi } _ { \underline { { a } } } - T _ { i 0 } ^ { \underline { { a } } } \xi _ { \underline { { a } } } = T _ { i j } ^ { \underline { { a } } } \xi _ { \underline { { a } } } { \dot { x } j }

@@ -1,1 +1,0 @@
-| v _ { \parallel } | \equiv \sqrt { \sum _ { i = 1 } ^ { p } \left( { \frac { d x _ { i } } { d \tau } } \right) ^ { 2 } } , \ v _ { \perp } \equiv { \frac { d y } { d \tau } } ,

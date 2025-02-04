@@ -1,1 +1,0 @@
-F _ { \mu \nu } ^ { a } = \partial _ { \mu } W _ { \nu } ^ { a } - \partial _ { \nu } W _ { \mu } ^ { a } + g \epsilon ^ { a b c } W _ { \mu } ^ { b } W _ { \nu } ^ { c }

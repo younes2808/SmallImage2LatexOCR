@@ -1,1 +1,0 @@
-{ \int _ { 0 } ^ { \infty } } d x \delta ( x - \alpha _ { 1 } - \alpha _ { 2 } ) = 1

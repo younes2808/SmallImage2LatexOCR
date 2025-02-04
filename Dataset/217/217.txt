@@ -1,1 +1,0 @@
-\phi _ { \eta } ( q _ { z } , q _ { 0 } ) = \left( { \frac { 1 } { \pi } } \right) ^ { 1 / 2 } \exp \left\{ - { \frac { 1 } { 2 } } \left( e ^ { - 2 \eta } q _ { u } ^ { 2 } + e ^ { 2 \eta } q _ { v } ^ { 2 } \right) \right\} .

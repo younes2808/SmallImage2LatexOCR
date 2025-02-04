@@ -1,1 +1,0 @@
-{ \frac { d { \bf A } } { d t } } = { \frac { \partial { \bf A } } { \partial t } } + \{ { \bf A } , { \bf H } \} ,

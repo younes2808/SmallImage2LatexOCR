@@ -1,1 +1,0 @@
-\begin{array} { c } { \alpha ( a ( f ) ) = a ( U f ) + a ^ { * } ( V f ) } \\ { U U ^ { * } + V V ^ { * } = 1 = U ^ { * } U + V ^ { * } V , \quad V ^ { * } U + U ^ { * } V = 0 = U V ^ { * } + V U ^ { * } } \\ \end{array}

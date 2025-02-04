@@ -1,1 +1,0 @@
-\Gamma _ { \mu \nu \rho } ( p , q ) \sim \cos ( \xi p \tilde { q } ) \{ \frac { \tilde { p } _ { \mu } \tilde { p } _ { \nu } \tilde { p } _ { \rho } } { \xi ( \tilde { p } ^ { 2 } ) ^ { 2 } } + s y m \} + \ldots

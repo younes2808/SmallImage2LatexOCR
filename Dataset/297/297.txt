@@ -1,1 +1,0 @@
-r ^ { - 2 ( 1 - 2 b ) } = r ^ { 2 } r ^ { - 2 b } , \quad \mathrm { i . e . , } \quad b = \frac 2 3 .

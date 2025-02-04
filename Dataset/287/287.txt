@@ -1,1 +1,0 @@
-\left( - 3 i + \theta \right) \psi _ { n + 1 } + \left( 3 i + \theta \right) \psi _ { n - 1 }

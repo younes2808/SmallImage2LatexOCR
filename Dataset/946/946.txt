@@ -1,1 +1,0 @@
-\langle \lambda ( x ) \lambda ( y ) \psi ( z ) \psi ( w ) \rangle ,

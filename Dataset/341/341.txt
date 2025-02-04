@@ -1,1 +1,0 @@
-n \widehat T _ { n } = \alpha _ { - n } ^ { 1 } \alpha _ { n } ^ { 1 } - \alpha _ { - n } ^ { 0 } \alpha _ { n } ^ { 0 } = \alpha _ { - n } ^ { + } \alpha _ { n } ^ { - } + \alpha _ { - n } ^ { - } \alpha _ { n } ^ { + } \ .

@@ -1,1 +1,0 @@
-\begin{matrix} { \hat { \delta } F ^ { 0 + a b } = 4 \bar { \cal N } ^ { 0 \Lambda } F _ { \Lambda } ^ { + a b } , } & { \hat { \delta } F _ { i } ^ { + a b } = 0 , } \\ { \hat { \delta } F ^ { 0 - a b } = - 4 { \cal N } ^ { 0 \Lambda } F _ { \Lambda } ^ { - a b } , } & { \hat { \delta } F ^ { i - a b } = 0 . } \\ \end{matrix}

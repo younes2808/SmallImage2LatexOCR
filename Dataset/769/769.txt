@@ -1,1 +1,0 @@
-\langle \bar { y } _ { f } , t | y _ { i } , 0 \rangle = e ^ { i S _ { c l } }

@@ -1,1 +1,0 @@
-W _ { e f f } = \Gamma \cdot ( N _ { c } - N _ { f } ) \left( \frac { \Lambda _ { h } ^ { \Gamma ( 3 N _ { c } - N _ { f } ) } } { \det M } \right) ^ { \frac { 1 } { \Gamma ( N _ { c } - N _ { f } ) } } ,

@@ -1,1 +1,0 @@
-\hat { \varepsilon } ( x ^ { z } , y ^ { z } ) = \hat { \varepsilon } ( x , y )

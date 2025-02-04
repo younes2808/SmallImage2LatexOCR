@@ -1,1 +1,0 @@
-\int _ { 0 } ^ { \infty } d s _ { i } \exp [ - s _ { i } ( p _ { i } ^ { 2 } + { \cal W } ^ { \alpha } \pi

@@ -1,1 +1,0 @@
-S ( v ) S ( u ) = S ( u + v + q ^ { - 1 } u v ) = S ( u ) S ( q ^ { - 1 } u v ) S ( v ) ,

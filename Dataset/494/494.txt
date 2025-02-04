@@ -1,1 +1,0 @@
-\tilde { Q } ( | \varphi \rangle + \delta | \varphi \rangle ) = \tilde { Q } | \varphi \rangle - L _ { 0 } M | \lambda \rangle + \tilde { Q } M | \omega \rangle .

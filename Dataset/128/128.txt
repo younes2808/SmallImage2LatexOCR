@@ -1,1 +1,0 @@
-| z - z _ { i } | ^ { - 2 \alpha _ { i } } = \frac { 1 } { \Gamma ( \alpha _ { 1 } ) } \int _ { 0 } ^ { \infty } \exp \left( - s _ { i } | z - z _ { i } | ^ { 2 } \right) { s _ { i } } ^ { \alpha _ { i } - 1 } d \! s _ { i } .

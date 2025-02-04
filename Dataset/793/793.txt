@@ -1,1 +1,0 @@
-\Delta ( k , k ^ { \prime } ) = \Omega ( k ) \delta ^ { 3 } ( \vec { k } - \vec { k } ^ { \prime } ) - k ^ { \prime \mu } \frac \partial { \partial P ^ { \mu } } F ( ( P \cdot k ) , P ^ { 2 } ) ,

@@ -1,1 +1,0 @@
-[ x _ { 0 } , x _ { 1 } , \ldots , x _ { 4 } ] \cong [ \lambda ^ { w _ { 0 } } x _ { 0 } , \lambda ^ { w _ { 1 } } x _ { 1 } , \ldots , \lambda ^ { w _ { 4 } } x _ { 4 } ] ,

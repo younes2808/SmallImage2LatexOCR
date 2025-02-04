@@ -1,1 +1,0 @@
-E _ { i } = D \Psi _ { i } + D B _ { i } - \partial _ { i } A .

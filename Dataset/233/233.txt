@@ -1,1 +1,0 @@
-I = - { \frac { 1 } { \beta ^ { 2 } } } \left\{ { \alpha \int \langle T _ { \phi \phi } \rangle d \alpha } - { \int \left( \int \langle T _ { \phi \phi } \rangle d \alpha \right) d \alpha } \right\} .

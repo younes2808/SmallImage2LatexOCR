@@ -1,1 +1,0 @@
-d s ^ { 2 } = V ( r ) \left( d \chi + n A \right) ^ { 2 } + \frac { d r ^ { 2 } } { V ( r ) }

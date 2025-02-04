@@ -1,1 +1,0 @@
-\kappa _ { r } \left( r , \theta , \chi \right) = [ \sqrt { \eta _ { 4 } \left( r , \theta , \chi \right) } ] ^ { - 1 } \qquad \mathrm { o r } \qquad = [ \sqrt { \eta _ { 5 } \left( r , \theta , \chi \right) } ] ^ { - 1 } .

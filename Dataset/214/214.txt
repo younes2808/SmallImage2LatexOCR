@@ -1,1 +1,0 @@
-\left\{ \lambda _ { \alpha } ( x ) , \bar { \lambda } _ { \bar { \alpha } } ( y ) \right\} | _ { x ^ { 0 } = y ^ { 0 } } = ( \frac { 1 6 \pi G _ { 1 0 } } { 3 2 } ) \delta _ { \alpha \bar { \alpha } } \delta ^ { 6 } ( { \bf x } - { \bf y } )

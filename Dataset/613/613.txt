@@ -1,1 +1,0 @@
-\mathrm { U ( 1 ) } _ { V } \times \mathrm { S U ( N ) } _ { L } \times \mathrm { S U ( N ) } _ { R } ,

@@ -1,1 +1,0 @@
-\langle { \bf y } | j _ { 0 } ( 0 , { \bf x } ) | { \bf y } \rangle = \delta ^ { 3 } ( { \bf x } - { \bf y } ) ,

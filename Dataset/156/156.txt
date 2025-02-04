@@ -1,1 +1,0 @@
-f _ { A } ( 0 ) = - 1 , \quad f _ { B } ( 0 ) = 0 , \quad f _ { C } ( 0 ) = 0 , \quad H ( 0 ) = c o n s t , \quad K ( 0 ) = 0 ,

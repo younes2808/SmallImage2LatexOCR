@@ -1,1 +1,0 @@
-\bar { c } _ { 1 } = c _ { 1 } \frac { \Gamma ( c ) \Gamma ( a - b ) } { \Gamma ( a ) \Gamma ( c - b ) } + c _ { 2 } \frac { \Gamma ( 2 - c ) \Gamma ( a - b ) } { \Gamma ( a - c + 1 ) \Gamma ( 1 - b ) } = 0 ,

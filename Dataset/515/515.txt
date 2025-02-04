@@ -1,1 +1,0 @@
-\tan \mathrm { \boldmath \Large \left( \right. } \! \! \! \delta _ { 0 } ^ { ( D _ { 0 } ) } ( k ) - ( D / 2 - 1 ) \pi / 2 \mathrm { \boldmath \Large \left. \right) } \! \! = \frac { \pi } { \ln \left( k ^ { 2 } / | E _ { _ \mathrm { ( g s ) } } | \right) } .
