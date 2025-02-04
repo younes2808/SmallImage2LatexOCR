@@ -1,0 +1,1 @@
+T = \langle 4 ( N \bar { X } ) _ { I } / ( \bar { X } , N \bar { X } ) \rangle \widehat { F } ^ { I } .

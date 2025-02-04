@@ -1,0 +1,1 @@
+0 = \delta \psi _ { \mu } = \partial _ { \mu } \epsilon + \frac 1 4 \omega _ { \mu } ^ { a b } \Gamma _ { a b } \epsilon + \frac 1 { 2 8 8 } e _ { \mu } { } ^ { a } \left( \Gamma _ { a } { } ^ { b c d e } - 8 \delta _ { a } ^ { [ b } \Gamma ^ { c d e ] } \right) F _ { b c d e } \epsilon .

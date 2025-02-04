@@ -1,0 +1,1 @@
+G = - \frac { 1 } { 2 } \varepsilon ^ { \mu \nu } J _ { \mu \nu } ,

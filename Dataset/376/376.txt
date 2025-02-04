@@ -1,0 +1,1 @@
+S \left( \begin{array} { c } { { \cal { O } } \left( \sqrt { l } \right) } \\ { \sqrt { 2 D } } \\ { 0 } \\ \end{array} \right) ,

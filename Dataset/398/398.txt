@@ -1,0 +1,1 @@
+\mathcal { O } _ { \alpha } = \bar { \partial } _ { \alpha } \mathcal { O } , m a t h c a l { O \equiv } ( 2 - b ^ { \dag } \Delta f \Delta ^ { \dag } b ) f ,

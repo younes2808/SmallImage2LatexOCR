@@ -1,0 +1,1 @@
+\left. \frac { d V _ { e f } } { d \phi _ { c } } \right| _ { \phi _ { c } = \left\langle \phi \right\rangle } = 0 .

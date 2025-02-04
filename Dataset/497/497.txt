@@ -1,0 +1,1 @@
+\langle { \bar { k } } | \partial _ { i } - A _ { i } | j \rangle = 0

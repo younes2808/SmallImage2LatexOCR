@@ -1,0 +1,1 @@
+\mathrm { d i m } ( \delta \tilde { f } \circ \varphi ) = N - 2

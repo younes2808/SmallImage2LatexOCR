@@ -1,0 +1,1 @@
+U = \exp ( - i { \frac { 1 } { 2 } } \tau ^ { a } A ^ { a } ) = \cos ( { \frac { 1 } { 2 } } \rho ) - i \tau ^ { a } \hat { n } ^ { a } \sin ( { \frac { 1 } { 2 } } \rho ) \equiv x ^ { 0 } - i \tau ^ { a } x ^ { a }

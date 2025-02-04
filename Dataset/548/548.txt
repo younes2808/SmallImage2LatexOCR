@@ -1,0 +1,1 @@
+\gamma _ { s } = \frac { \left( - 1 \right) ^ { s } } 2 \int _ { \Sigma _ { s } } \int _ { \partial \Sigma _ { s } = { \bf c } } \frac { \left( \vec { R } - i \frac 1 2 \vec { \Gamma } \right) \cdot d \vec { S } } { \left[ \left( \vec { R } - i \frac 1 2 \vec { \Gamma } \right) ^ { 2 } \right] ^ { \frac 3 2 } } ,

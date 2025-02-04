@@ -1,0 +1,1 @@
+\left\{ \begin{array} { l l l l } { e = \frac { 1 } { 2 } } \\ { ( \Gamma _ { 1 2 } - \Gamma _ { 3 4 } ) \eta = 0 } \\ { ( i + \Gamma _ { 1 2 } ) \eta = 0 } \\ { \partial _ { i } \eta = 0 \quad i = 1 , 2 , 3 , 4 } \\ \end{array} \right.

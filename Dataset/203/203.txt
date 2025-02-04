@@ -1,0 +1,1 @@
+M = \left( \frac { 2 \sqrt { 2 } } { 3 } \right) \frac { m ^ { 3 } } { \lambda } + \hbar m \left[ \frac { 1 } { 6 } \sqrt { \frac { 3 } { 2 } } - \frac { 3 } { \pi \sqrt { 2 } } \right]

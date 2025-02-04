@@ -1,0 +1,1 @@
+{ \cal A } _ { \mathrm { e f f } } ^ { \mathrm { m f } } = \frac { R \beta M ^ { 2 } } { 2 } \sqrt { \rho _ { 0 } \rho _ { 1 } } \left[ \left( \frac { \lambda _ { 0 } + 1 } { \rho _ { 0 } } + \frac { \lambda _ { 1 } + 1 } { \rho _ { 1 } } \right) - \left( \lambda _ { 0 } + \lambda _ { 1 } \right) \right] ,

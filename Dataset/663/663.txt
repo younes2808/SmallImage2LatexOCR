@@ -1,0 +1,1 @@
++ \frac { 4 \lambda _ { 2 } } { r } f ( 3 h ^ { 2 } - \eta ^ { 2 } ) \left( ( h ^ { 2 } - \eta ^ { 2 } ) ( f ^ { 2 } - 1 ) + 2 f ^ { 2 } h ^ { 2 } \right) ,

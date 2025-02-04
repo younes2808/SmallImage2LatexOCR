@@ -1,0 +1,1 @@
+Z _ { \beta } = \int [ D \phi ] [ D A _ { \mu } ] [ D \bar { c } ] [ D c ] \exp \left\{ - I _ { E } \left[ A _ { \mu } , \phi , \bar { c } , c \right] \right\} ,

@@ -1,0 +1,1 @@
+{ \cal { Z } } ^ { P F } ( X _ { 1 } , X _ { 2 } , X _ { 3 } ; p ) = { \frac { \det ( X _ { j } ^ { p + 7 - i } - X _ { j } ^ { i } ) } { \det ( X _ { j } ^ { 2 M + 1 - i } - X _ { j } ^ { i } ) } } ; 1 \le i , j \le 3 .

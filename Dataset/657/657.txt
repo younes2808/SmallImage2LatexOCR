@@ -1,0 +1,1 @@
+\rho ( \tilde { \eta } _ { o } ) = \frac { 1 } { \pi ^ { d } } \frac { \Gamma ( d - \tilde { \eta } _ { o } ) \Gamma ( \tilde { \eta } _ { o } ) } { \Gamma ( \tilde { \eta } _ { o } - \mu ) \Gamma ( \mu - \tilde { \eta } _ { o } ) } ,

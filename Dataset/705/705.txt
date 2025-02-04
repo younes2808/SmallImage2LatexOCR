@@ -1,0 +1,1 @@
+A d ( \tilde { g } ) ^ { T } = \left( \begin{matrix} { 1 } & { 0 } & { 0 } & { - \beta ^ { - 1 } \rho e ^ { - \sigma } } \\ { - \rho } & { e ^ { \sigma } } & { { \beta } ^ { - 1 } { \rho } } & { \beta ^ { - 1 } \rho ^ { 2 } e ^ { - \sigma } } \\ { 0 } & { 0 } & { 1 } & { { \rho } { e ^ { - \sigma } } } \\ { 0 } & { 0 } & { 0 } & { e ^ { - \sigma } } \\ \end{matrix} \right)

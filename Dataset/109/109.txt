@@ -1,0 +1,1 @@
+{ } \left[ a _ { \mu } , a { ^ \dagger } { _ \nu } \right] _ { q } \equiv a _ { \mu } a { ^ \dagger } _ { \nu } - q a _ { \nu } ^ { \dagger } a _ { \mu } = \delta _ { \mu \nu }

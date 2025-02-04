@@ -1,0 +1,1 @@
+\left\{ \psi _ { \alpha } ^ { a } ( x ) , \psi _ { \beta b } ^ { \dagger } ( y ) \right\} = \delta _ { \alpha \beta } \delta _ { \phantom { a } b } ^ { a } \delta ( x - y ) ,

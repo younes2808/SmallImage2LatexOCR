@@ -1,0 +1,1 @@
+k \sin \vartheta \xi _ { 1 } - ( m - F - ( 1 - \cos \vartheta ) g ) \xi _ { 2 } + \sin \vartheta \frac { d \xi _ { 2 } } { d \vartheta } = 0

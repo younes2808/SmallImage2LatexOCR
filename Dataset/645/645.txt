@@ -1,0 +1,1 @@
+\begin{array} { l l } { { \bf A } \longrightarrow } & { h ( { \bf A } + \partial ) h ^ { - 1 } } \\ { \overline { { \bf A } } \longrightarrow } & { h ^ { - 1 } ( { \overline { { \bf A } } } + \overline { { \partial } } ) h , } \\ \end{array}

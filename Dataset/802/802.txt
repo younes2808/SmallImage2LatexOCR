@@ -1,0 +1,1 @@
+{ \tilde { j } } _ { \mu } ( x ) = - { \tilde { g } } [ { \bar { \psi } } ( x ) \gamma _ { \mu } T ^ { i } \psi ( x ) ] \tau _ { i } ,

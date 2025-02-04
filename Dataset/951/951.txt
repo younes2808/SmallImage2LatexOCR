@@ -1,0 +1,1 @@
+q ( x ) \rightarrow e ^ { i \alpha ( x ) \gamma _ { 5 } } q ( x ) , \bar { q } ( x ) \rightarrow \bar { q } ( x ) e ^ { i \alpha ( x ) \gamma _ { 5 } }

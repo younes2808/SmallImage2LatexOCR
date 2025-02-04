@@ -1,0 +1,1 @@
+\left\{ Q _ { K } , T \bullet R _ { M N } \right\} = \frac 1 2 B _ { K M N } ^ { M ^ { \prime } N ^ { \prime } } \cdot T \bullet R _ { M ^ { \prime } N ^ { \prime } } \quad ,

@@ -1,0 +1,1 @@
+J ^ { 1 } \Phi : j _ { x } ^ { 1 } s \mapsto j _ { f ( x ) } ^ { 1 } ( \Phi \circ s \circ f ^ { - 1 } ) ,

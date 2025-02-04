@@ -1,0 +1,1 @@
+f _ { n } ( \bar { m } ) = { \frac { 1 } { \bar { m } } } y _ { n } \sp 2 ( \bar { m } ) .

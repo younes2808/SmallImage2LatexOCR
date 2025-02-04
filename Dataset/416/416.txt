@@ -1,0 +1,1 @@
+\alpha L = \frac { 1 } { 2 } \left[ ( \nabla \theta ) ^ { 2 } + \omega ^ { 2 } \cos ^ { 2 } \theta \right] \simeq \frac { 1 } { 2 } \left[ \left( \nabla \theta \right) ^ { 2 } - \omega ^ { 2 } \theta ^ { 2 } + \omega ^ { 2 } \right] .

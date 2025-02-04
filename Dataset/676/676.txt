@@ -1,0 +1,1 @@
+a _ { \lambda } ^ { ( 2 ) } = e + 2 \theta \epsilon _ { i j } \partial ^ { i } A ^ { j } + \eta ; a _ { \eta } ^ { ( 2 ) } = 0

@@ -1,0 +1,1 @@
+A _ { i } = A _ { i } ^ { \perp } + A _ { i } ^ { \| } , A _ { i } ^ { \perp } \equiv \sum _ { p \neq 0 } \chi _ { p } A _ { i } ^ { p } , A _ { i } ^ { \| } \equiv \chi _ { 0 } A _ { i } ^ { 0 } .

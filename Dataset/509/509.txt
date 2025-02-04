@@ -1,0 +1,1 @@
+\vec { p } ( \vec { \nabla } E \cdot \delta \vec { p } _ { i } ) \ = \ ( \vec { p } \cdot \vec { \nabla } E ) \delta \vec { p } _ { i } .

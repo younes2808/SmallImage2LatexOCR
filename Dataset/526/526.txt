@@ -1,0 +1,1 @@
+\bar { q } _ { 1 } = 0 , \bar { q } _ { r } = \pi / 2 ( \Longleftrightarrow \cos 2 \bar { q } _ { 1 } = 1 , \cos 2 \bar { q } _ { r } = - 1 ) ,

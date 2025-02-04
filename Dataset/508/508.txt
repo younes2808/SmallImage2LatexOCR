@@ -1,0 +1,1 @@
+\rho = { \frac { 1 } { 2 } } \log { \frac { \partial _ { + } A _ { + } \partial _ { - } A _ { - } } { \left( 1 + { \frac { \lambda ^ { 2 } } { 8 } } A _ { + } A _ { - } \right) ^ { 2 } } } ,

@@ -1,0 +1,1 @@
+\kappa ^ { 1 i } = P _ { - } ^ { i j } \kappa _ { j } ^ { 1 } , \quad \kappa ^ { 2 i } = P _ { + } ^ { i j } \kappa _ { j } ^ { 2 } .

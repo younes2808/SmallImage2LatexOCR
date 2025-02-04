@@ -1,0 +1,1 @@
+\Phi = { \frac { A } { 2 ( 3 \gamma t ) ^ { \frac { 1 } { 3 } } } } A i \left( { \frac { x - c _ { 0 } t } { ( 3 \gamma t ) ^ { \frac { 1 } { 3 } } } } \right) .

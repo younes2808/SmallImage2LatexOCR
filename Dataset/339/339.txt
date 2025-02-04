@@ -1,0 +1,1 @@
+\varepsilon _ { D } ( L ) = - \frac { c ( D ) ( 1 - 2 ^ { 1 - D } ) } { 2 ^ { D - 1 } \pi ^ { D / 2 } L ^ { D - 1 } } \Gamma \left( \frac { D } { 2 } \right) \zeta ( D ) .

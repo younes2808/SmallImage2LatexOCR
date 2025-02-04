@@ -1,0 +1,1 @@
+S = ( \beta \partial _ { \beta } - 1 ) S _ { E } = 0

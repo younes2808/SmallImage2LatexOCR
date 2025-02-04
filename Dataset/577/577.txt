@@ -1,0 +1,1 @@
+\left( \begin{array} { c } { \sigma ^ { i } [ \omega _ { 0 } ^ { + 0 i } \tilde { \epsilon } _ { 2 } - i F ^ { + 0 i } \tilde { \epsilon } ^ { 1 } ] } \\ { \sigma ^ { i } [ - \omega _ { 0 } ^ { + 0 i } \tilde { \epsilon } ^ { 1 } - i F ^ { + 0 i } \tilde { \epsilon } _ { 2 } ] } \\ \end{array} \right) = 0 ,

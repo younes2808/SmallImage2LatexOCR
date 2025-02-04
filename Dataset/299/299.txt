@@ -1,0 +1,1 @@
+V _ { 0 } \left( \left( ( L _ { 0 } - 1 ) L _ { 0 } \right) ^ { n } L _ { 0 } \psi \right) = V _ { - 1 } \left( \left( ( L _ { 0 } - 1 ) L _ { 0 } \right) ^ { n } \psi \right) = 0 ,

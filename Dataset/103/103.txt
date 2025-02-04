@@ -1,0 +1,1 @@
+S \to S + { \frac { i [ ( \hat { U } ^ { T } ) ^ { - 1 } ] _ { 1 } ^ { \ \Sigma } ( H _ { \Sigma } ^ { ( 1 ) } + { \cal C } _ { \Sigma \Delta } \hat { X } ^ { \Delta } ) } { \hat { U } _ { \Lambda } ^ { 0 } \hat { X } ^ { \Lambda } } } .

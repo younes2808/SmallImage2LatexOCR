@@ -1,0 +1,1 @@
+( F ^ { 2 } ) _ { \mu \nu } { } _ { i j } = F _ { \mu \lambda } ^ { a } T _ { i k } ^ { a } F _ { \lambda \nu } ^ { b } T _ { k j } ^ { b }

@@ -1,0 +1,1 @@
+I _ { \alpha \beta \gamma \delta } = \frac { 1 } { 2 } \left( \eta _ { \alpha \gamma } \eta _ { \beta \delta } + \eta _ { \alpha \delta } \eta _ { \beta \gamma } \right) .

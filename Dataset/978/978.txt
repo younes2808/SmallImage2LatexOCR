@@ -1,0 +1,1 @@
+d s ^ { 2 } = e ^ { A } \left( - d t ^ { 2 } e ^ { 2 f } + d z ^ { 2 } \right) + e ^ { - A } \left( d r ^ { 2 } e ^ { - 2 f } + r ^ { 2 } d \Omega _ { 3 } ^ { 2 } \right) ,

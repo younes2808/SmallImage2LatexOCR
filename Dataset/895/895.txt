@@ -1,0 +1,1 @@
+e x p ( i \Gamma ^ { ( 1 ) } ) = \int D \psi _ { q } D \bar { \psi } _ { q } S ^ { ( 2 ) } [ \psi _ { q } , \bar { \psi } _ { q } ]

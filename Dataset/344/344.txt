@@ -1,0 +1,1 @@
+\left( \begin{array} { c } { T _ { M - 2 } ( x - 6 i ) } \\ { T _ { 1 } ( x + i ( M - 5 ) i ) } \\ \end{array} \right)

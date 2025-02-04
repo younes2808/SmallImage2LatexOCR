@@ -1,0 +1,1 @@
+A _ { n } = \frac { 1 } { \sqrt { 2 \lambda } } \sqrt { \left[ 1 + 8 G _ { N } \lambda ( n + 1 / 2 ) \right] ^ { 1 / 2 } - 1 } .

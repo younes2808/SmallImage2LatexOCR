@@ -1,0 +1,1 @@
+- \frac { 1 } { 2 } \sum _ { n _ { 1 } } \log \frac { \cos [ \pi ( \varphi _ { 2 } + \tau _ { 1 } ( n _ { 1 } + \varphi _ { 1 } ) - i \tau _ { 2 } \mid n _ { 1 } + \varphi _ { 1 } \mid ) ] } { \cos [ \pi ( \tau _ { 1 } n _ { 1 } - i \tau _ { 2 } \mid n _ { 1 } \mid ) ] } .

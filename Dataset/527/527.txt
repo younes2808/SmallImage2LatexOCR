@@ -1,0 +1,1 @@
+d s ^ { 2 } = 2 e ^ { 2 \phi } d \tilde { u } ( d \hat { v } + \omega _ { i } d \tilde { x } ^ { i } ) + \xi ^ { 2 } d \tilde { u } ^ { 2 } - \sum _ { i = 1 } ^ { i = 3 } d \tilde { x } ^ { i } d \tilde { x } ^ { i } - ( d \hat { x } ) ^ { 2 } - \sum _ { i = 5 } ^ { i = 8 } d \tilde { x } ^ { i } d \tilde { x } ^ { i } \ ,

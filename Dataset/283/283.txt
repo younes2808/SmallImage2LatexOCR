@@ -1,0 +1,1 @@
+\partial _ { u } \xi _ { u } - \Gamma _ { u u } ^ { \rho } \xi _ { \rho } = 0 .

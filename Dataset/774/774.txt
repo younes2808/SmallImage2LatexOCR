@@ -1,0 +1,1 @@
+\left( \Psi + n ^ { \mu } \nabla _ { \mu } \right) \varphi \longrightarrow \Omega ^ { - { \frac { { \cal D } - 1 } { 2 } } } \left( \Omega \overline { { \Psi } } \varphi + n ^ { \mu } \nabla _ { \mu } \varphi - { \frac { { \cal D } - 2 } { 2 } } { \frac { n ^ { \mu } \partial _ { \mu } \Omega } { \Omega } } \varphi \right) ,

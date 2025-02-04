@@ -1,0 +1,1 @@
+\xi ^ { m * } ( x ) = \pi _ { m - 6 } ^ { \perp } ( x ) + 2 i e \int d ^ { 3 } y \partial _ { m - 6 } ^ { x } \nabla ^ { - 2 } \pi _ { \psi } ( y ) \psi ( y ) , m = 7 , 8 , 9 .

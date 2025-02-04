@@ -1,0 +1,1 @@
+X = X _ { L } + X _ { R } \rightarrow X ^ { \prime } = X _ { L } - X _ { R } .

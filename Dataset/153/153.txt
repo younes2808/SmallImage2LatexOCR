@@ -1,0 +1,1 @@
+\Delta \varphi _ { \mathrm { m i n } } = \ell _ { U V } / d , \Delta \theta _ { \mathrm { m i n } } = \ell _ { U V } / d .

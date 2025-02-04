@@ -1,0 +1,1 @@
+\Pi _ { i } = \frac { \Lambda ^ { 2 } } { p _ { i } ^ { 2 } + u _ { 1 , 2 } ^ { \prime } \Lambda ^ { 2 } } \quad ( i = 1 , 2 , 3 ) .

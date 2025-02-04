@@ -1,0 +1,1 @@
+\omega ^ { a b } = \left( \begin{array} { c c } { 0 } & { - I _ { N } } \\ { I _ { N } } & { 0 } \\ \end{array} \right)

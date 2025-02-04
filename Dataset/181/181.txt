@@ -1,0 +1,1 @@
+d s ^ { 2 } = g _ { a b } d x ^ { a } d x ^ { b } = d r ^ { 2 } + a ^ { 2 } ( r ) \gamma _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } ,

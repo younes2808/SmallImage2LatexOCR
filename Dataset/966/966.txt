@@ -1,0 +1,1 @@
+\Gamma _ { \alpha } = \chi _ { \alpha } + A _ { 0 } \theta _ { \alpha } + X ^ { i } \gamma _ { \alpha \beta } ^ { i } \theta _ { \beta } + d \epsilon _ { \alpha \beta } \theta _ { \beta } + 2 \epsilon _ { \alpha \beta } \lambda _ { \beta } \theta ^ { 2 } .

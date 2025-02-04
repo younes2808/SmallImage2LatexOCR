@@ -1,0 +1,1 @@
+f _ { \left[ b c \right. } ^ { a } f _ { \left. d e \right] } ^ { c } = 0 .

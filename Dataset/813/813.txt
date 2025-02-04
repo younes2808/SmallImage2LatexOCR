@@ -1,0 +1,1 @@
+\Theta = \frac { 1 } { \sqrt { 2 } } \left( \begin{matrix} { \theta _ { 1 } + i \theta _ { 2 } } \\ { \theta _ { 1 } - i \theta _ { 2 } } \\ \end{matrix} \right) , \quad \bar { \Theta } = \frac { 1 } { \sqrt { 2 } } \left( \begin{matrix} { \theta _ { 1 } - i \theta _ { 2 } } \\ { \theta _ { 1 } + i \theta _ { 2 } } \\ \end{matrix} \right) ^ { T } { \cal C } ,

@@ -1,0 +1,1 @@
+a _ { s } = a e ^ { \Phi } , \qquad d t _ { s } = e ^ { \Phi } d t .

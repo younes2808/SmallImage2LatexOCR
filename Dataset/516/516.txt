@@ -1,0 +1,1 @@
+\nabla ^ { 2 } h _ { 0 i } \cong 1 6 \pi G _ { 4 } \rho v _ { i } .

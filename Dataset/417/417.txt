@@ -1,0 +1,1 @@
+I _ { \Phi } = \frac { M _ { N } } { 2 } { \dot { N } } _ { 0 } ^ { 2 } ; M _ { N } = \frac 1 2 \int _ { V } d ^ { 3 } x \triangle ( \Phi _ { 0 } ^ { a } ) ^ { 2 } .

@@ -1,0 +1,1 @@
+S U ( N ) \times Z _ { 2 } \rightarrow { \frac { S U ( n + 1 ) \times S U ( n ) \times U ( 1 ) } { Z _ { n + 1 } \times Z _ { n } } }

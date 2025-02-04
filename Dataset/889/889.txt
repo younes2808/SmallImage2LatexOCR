@@ -1,0 +1,1 @@
+C ( \lambda ) = \sum _ { n = 1 } ^ { \infty } \lambda ^ { n } C ^ { ( n ) } \mathrm { a n d } \phi ( \lambda ) = \sum _ { n = 1 } ^ { \infty } \lambda ^ { n } \phi ^ { ( n ) }

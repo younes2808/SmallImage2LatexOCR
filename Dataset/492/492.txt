@@ -1,0 +1,1 @@
+\delta \phi = \sqrt { \frac { \lambda } { 6 \pi } } { \frac { \eta ^ { 2 } } { M _ { P } } } = { \frac { m ^ { 2 } } { \sqrt { 6 \pi \lambda } M _ { P } } } \ .

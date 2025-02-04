@@ -1,0 +1,1 @@
+S = \int d ^ { 2 } x \left( \frac { 1 } { 2 } \partial _ { \mu } \phi \cdot \partial _ { \mu } \phi + \frac { m ^ { 2 } } { \beta ^ { 2 } } \sum _ { a = 0 } ^ { r } n _ { a } e ^ { \beta \alpha ^ { ( a ) } \cdot \phi } \right) .

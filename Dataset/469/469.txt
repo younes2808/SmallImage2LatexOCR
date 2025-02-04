@@ -1,0 +1,1 @@
+\left\{ J = 1 , \ J ^ { \prime } = 0 , \ J ^ { \prime \prime } = 0 \right\}

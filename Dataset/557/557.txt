@@ -1,0 +1,1 @@
+\Longrightarrow - V \left[ \vec { h } _ { \mu \nu } \right] \equiv 2 ( N - 1 ) \zeta \int d ^ { 3 } x \left[ H _ { \alpha } \mathrm { a r c s i n h } { } H _ { \alpha } - \sqrt { 1 + H _ { \alpha } ^ { 2 } } \right] .

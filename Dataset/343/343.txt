@@ -1,0 +1,1 @@
+\chi _ { x } ^ { ( m ) } \chi _ { x } ^ { ( m ^ { \prime } ) } = \sum _ { ( m ^ { \prime \prime } ) } C _ { m m ^ { \prime } m ^ { \prime \prime } } ^ { 0 } \chi _ { x } ^ { ( m ^ { \prime \prime } ) }

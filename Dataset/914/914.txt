@@ -1,0 +1,1 @@
+\gamma _ { \Psi } \Phi ^ { A } = ( S , \Phi ^ { A } ) | _ { \Phi _ { A } ^ { * } = \frac { \delta \Psi } { \delta \Phi ^ { A } } } \mathrm { . }

@@ -1,0 +1,1 @@
+\tilde { c } ( r , s ) = \left( \begin{matrix} { n } \\ { r } \\ \end{matrix} \right) \left( \begin{matrix} { n } \\ { s } \\ \end{matrix} \right) \Bigg [ c ( r , s ) + \frac { 1 } { 1 + n } \Bigg ] - \frac { 1 } { 2 ( 1 + n ) } \left( \begin{matrix} { n + 1 } \\ { r } \\ \end{matrix} \right) \left( \begin{matrix} { n + 1 } \\ { s } \\ \end{matrix} \right) .

@@ -1,0 +1,1 @@
+( e ^ { \Gamma _ { 1 } \Gamma _ { 2 } } ) _ { \Gamma _ { 1 } ^ { \prime } \Gamma _ { 2 } ^ { \prime } } = \delta _ { \Gamma _ { 1 } ^ { \prime } } ^ { \Gamma _ { 1 } } \delta _ { \Gamma _ { 2 } ^ { \prime } } ^ { \Gamma _ { 2 } } .

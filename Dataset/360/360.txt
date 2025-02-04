@@ -1,0 +1,1 @@
+\stackrel { ( k ) } { k ^ { m n } } = \stackrel { ( k ) } { g ^ { i m } } \stackrel { ( k ) } { g ^ { j n } } k _ { m n }

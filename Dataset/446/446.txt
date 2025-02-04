@@ -1,0 +1,1 @@
+\phi ^ { a } = G ( r ) \frac { x ^ { a } } { e r ^ { 2 } } , \ a n d \ A _ { i } ^ { a } = [ F ( r ) - 1 ] \epsilon _ { a i j } \frac { x ^ { j } } { e r ^ { 2 } } ,

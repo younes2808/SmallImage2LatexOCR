@@ -1,0 +1,1 @@
+{ \cal T } = \left( \begin{matrix} { e ^ { i ( \theta _ { 1 } + \theta _ { 2 } ) } } & { 0 } \\ { 0 } & { e ^ { - i ( \theta _ { 1 } + \theta _ { 2 } ) } } \\ \end{matrix} \right) \quad .

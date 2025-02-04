@@ -1,0 +1,1 @@
+p _ { l } ( s ) \left( p _ { l } ( s ) + 1 \right) \equiv l ( l + 1 ) - G ^ { 2 } s ^ { 2 } .

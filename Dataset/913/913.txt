@@ -1,0 +1,1 @@
+{ \cal A } _ { F } ^ { 0 } = - \frac { 1 } { 1 6 \pi } \int d ^ { 4 } x F _ { \mu \nu } ( x ) F ^ { \mu \nu } ( x ) ,

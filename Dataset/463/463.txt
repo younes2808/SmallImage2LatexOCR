@@ -1,0 +1,1 @@
+Q = \int _ { x ^ { 0 } = t } \! \! d ^ { 3 } x \Big ( H ^ { \alpha \beta } ( x ) _ { , \beta } + \frac { 1 } { 4 } \Phi ( x ) ^ { , \alpha } \Big ) { \stackrel { \longleftrightarrow } { \partial _ { 0 } ^ { x } } } u ^ { \gamma } ( x ) \eta _ { \alpha \gamma } .

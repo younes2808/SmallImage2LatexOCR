@@ -1,0 +1,1 @@
+F _ { i } ^ { ( \pm ) } \left( 2 w ^ { 0 } \wedge w ^ { i } \pm \epsilon _ { i j k } w ^ { j } \wedge w ^ { k } \right)

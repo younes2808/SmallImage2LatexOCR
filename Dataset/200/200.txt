@@ -1,0 +1,1 @@
+d s _ { E } ^ { 2 } = \breve { g } _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } = ( 1 + r ^ { 2 } \breve { \Omega } ^ { 2 } ) d \tau ^ { 2 } - 2 \breve { \Omega } r ^ { 2 } d \tau d \tilde { \varphi } + r ^ { 2 } d \tilde { \varphi } ^ { 2 } + d r ^ { 2 } + d z ^ { 2 } .

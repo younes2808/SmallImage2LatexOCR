@@ -1,0 +1,1 @@
+\tilde { G } ( x ) = - \frac { 1 } { 2 \pi ^ { 2 } } \ln \frac { | x | } { a } .

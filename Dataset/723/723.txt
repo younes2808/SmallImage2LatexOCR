@@ -1,0 +1,1 @@
+\gamma = \mathrm { i } \oint _ { C } \langle \psi _ { g } | d | { \psi } _ { g } \rangle

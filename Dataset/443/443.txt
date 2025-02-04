@@ -1,0 +1,1 @@
+\langle f , f \rangle \geq - 2 \langle f , \chi \rangle \langle \chi , f \rangle .

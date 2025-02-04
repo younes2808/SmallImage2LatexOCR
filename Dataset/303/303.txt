@@ -1,0 +1,1 @@
+< 0 \left| \frac { \beta ( g ) } { 2 g } G _ { a } ^ { \mu \nu } G _ { a } ^ { \mu \nu } \right| 0 > _ { R } = c _ { A } \Lambda ^ { 4 } ,

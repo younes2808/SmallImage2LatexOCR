@@ -1,0 +1,1 @@
+2 \pi ^ { 3 } x { \binom { - { \frac { 3 } { 2 } } } { 0 } } { \frac { 1 } { ( 2 \pi ) ^ { 3 } } } \int _ { 1 } ^ { \infty } { \frac { B _ { 2 } ( t - [ t ] ) } { t ^ { 3 } } } d t = { \frac { x } { 4 } } \left( { \frac { 7 } { 1 2 } } - \gamma \right) \ ,

@@ -1,0 +1,1 @@
+\frac { z _ { k } ^ { 2 } + q } { z _ { k } ^ { 2 } q + 1 } = - \prod _ { j = 1 } ^ { Q - 1 } \frac { z _ { k } q - z _ { j } } { z _ { k } - z _ { j } q } , k = 1 , \ldots , Q - 1 ,

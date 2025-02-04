@@ -1,0 +1,1 @@
+k _ { 1 } = - { \frac { \omega _ { 1 } } { \omega } } k , k _ { 2 } = - { \frac { \omega _ { 2 } } { \omega } } k ; k ^ { 2 } = k _ { 1 } ^ { 2 } = k _ { 2 } ^ { 2 } = k \cdot k _ { 1 } = k \cdot k _ { 2 } = k _ { 1 } \cdot k _ { 2 } = 0 .

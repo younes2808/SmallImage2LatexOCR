@@ -1,0 +1,1 @@
+g H _ { \mathrm { m i n } } \simeq \mu ^ { 2 } \exp \left( - { \frac { 2 4 \pi ^ { 2 } } { 1 1 g ^ { 2 } } } \right) - { \frac { R } { 4 } } .

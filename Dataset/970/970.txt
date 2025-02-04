@@ -1,0 +1,1 @@
+C _ { \phi _ { i } \phi _ { k } ^ { B } } ^ { B } C _ { \phi _ { j } \phi _ { k } ^ { B } } ^ { B } = \sum _ { m } C _ { i j m } A _ { \phi _ { m } } ^ { B } \alpha _ { i j , m } ^ { k , i j }

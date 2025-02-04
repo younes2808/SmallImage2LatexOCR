@@ -1,0 +1,1 @@
+\left( \bar { Z } _ { i _ { 1 } i _ { 2 } i _ { 3 } } ^ { a } \right) _ { b } ^ { i j } = \frac { 1 } { 2 } \left( D _ { [ i _ { 1 } } \right) _ { b } ^ { a } \delta _ { i _ { 2 } } ^ { i } \delta _ { i _ { 3 } ] } ^ { j } ,

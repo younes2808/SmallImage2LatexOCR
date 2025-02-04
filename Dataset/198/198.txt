@@ -1,0 +1,1 @@
+\delta g ^ { M N } = h ^ { M N } , \qquad \delta A _ { M } = a _ { M } .

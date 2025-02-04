@@ -1,0 +1,1 @@
+B _ { R } = \left\{ { \bf x } | \mid { \bf x } \mid < R \right\}

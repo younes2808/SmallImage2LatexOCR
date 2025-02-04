@@ -1,0 +1,1 @@
+\left| u _ { \beta } ( \phi \psi _ { \beta } ) \right| \leq C \sup _ { \stackrel { { | p | \leq m + n } } { z \in K } } \left| D ^ { p } ( \phi \psi _ { \beta } ) ( z ) \right| , \quad \phi \psi _ { \beta } \in G _ { 0 } ^ { \infty } ( \widetilde { X } _ { \beta } ) \,

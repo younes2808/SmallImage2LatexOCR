@@ -1,0 +1,1 @@
+\widehat { \bf n } _ { R } = \frac { 1 } { 1 + \vert R \vert ^ { 2 } } ( 2 \mathrm { R e } ( R ) , 2 \mathrm { I m } ( R ) , 1 - \vert R \vert ^ { 2 } ) .

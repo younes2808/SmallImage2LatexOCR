@@ -1,0 +1,1 @@
+\Pi _ { \Phi } \equiv \frac { \delta { \cal L } } { \delta \partial _ { 0 } \Phi } = \frac { 1 } { 2 } \partial _ { 0 } \Phi , { } \Pi _ { \Psi _ { \pm } } \equiv \frac { \delta { \cal L } } { \delta \partial _ { 0 } \Psi _ { \pm } } = \frac { 1 } { 2 } \bar { \Psi } _ { \pm } ,

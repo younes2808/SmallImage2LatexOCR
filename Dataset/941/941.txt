@@ -1,0 +1,1 @@
+\left\{ Q _ { i \alpha } , Q _ { j \beta } \right\} = \delta _ { i j } \gamma _ { \alpha \beta } ^ { \mu \nu } p _ { 1 \mu } p _ { 2 \nu } .

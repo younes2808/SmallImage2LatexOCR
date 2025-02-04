@@ -1,0 +1,1 @@
+\bigwedge _ { t } F = \sum _ { s = 0 } ^ { m } t ^ { s } ( \wedge ^ { s } F ) , \qquad \mathcal { S } _ { t } F = \sum _ { s = 0 } ^ { \infty } t ^ { s } ( \mathrm { S } ^ { s } F ) .

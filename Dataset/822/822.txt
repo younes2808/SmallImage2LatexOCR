@@ -1,0 +1,1 @@
+\Lambda ^ { 2 } \left( g ^ { 2 } ( \nu ) , \nu \right) _ { R } = \nu ^ { 2 } \exp \left\{ - 2 \int ^ { g ( \nu ) } d g ^ { \prime } \frac { 1 } { [ \beta ( g ^ { \prime } ) ] _ { R } } \right\} ,

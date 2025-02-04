@@ -1,0 +1,1 @@
+\hat { \mathrm { E } } ( x ) = \frac { 1 } { 1 } { L } \hat { \pi } _ { b } - \frac { i } { i } { L } \hbar \sum _ { \stackrel { p \in \cal Z } { p \neq 0 } } e ^ { - i \frac { 2 \pi } { 2 \pi } { L } p x } \frac { d } { d { \alpha _ { p } } } ,

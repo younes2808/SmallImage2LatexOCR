@@ -1,0 +1,1 @@
+G _ { D } ( { \bf r ^ { \prime \prime } } , { \bf r ^ { \prime } } ; E ) = \left( r ^ { \prime \prime } r ^ { \prime } \right) ^ { - ( D - 1 ) / 2 } \sum _ { l = 0 } ^ { \infty } \sum _ { m = 1 } ^ { d _ { l } } Y _ { l m } ( { \bf \Omega ^ { \prime \prime } } ) Y _ { l m } ^ { * } ( { \bf \Omega ^ { \prime } } ) G _ { l + \nu } ( r ^ { \prime \prime } , r ^ { \prime } ; E )

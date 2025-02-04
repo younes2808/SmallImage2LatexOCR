@@ -1,0 +1,1 @@
+\frac { \partial F _ { \nu , \alpha \beta } ( x , y ) } { \partial x ^ { \mu } } + \frac { \partial F _ { \mu , \alpha \beta } ( x , y ) } { \partial x ^ { \nu } }

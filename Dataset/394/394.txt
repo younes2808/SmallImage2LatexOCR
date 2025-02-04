@@ -1,0 +1,1 @@
+\left( Q _ { 1 } + \frac { \langle i Z _ { 1 } + Z _ { 2 } \rangle } { | \langle i Z _ { 1 } + Z _ { 2 } \rangle | } \bar { Q } _ { \dot { 1 } } \right) | \langle H \rangle = H _ { \mathrm { I } } \rangle = 0 .

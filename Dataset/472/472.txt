@@ -1,0 +1,1 @@
+{ \mathcal Z } _ { f } ( A ) = \int { \mathcal D } \psi { \mathcal D } { \bar { \psi } } \exp \left[ - S _ { f } ( { \bar { \psi } } , \psi ; A ) \right]

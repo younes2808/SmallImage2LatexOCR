@@ -1,0 +1,1 @@
+\Delta \hat { G } ^ { \xi = 0 } [ a , b ; E ] = \lim _ { \epsilon \rightarrow 0 ^ { + } } \frac { \hat { G } _ { F } ^ { \xi = 0 } [ a , \epsilon ; E ] \hat { G } _ { F } ^ { \xi = 0 } [ \epsilon , b ; E ] } { \frac { 1 } { v } - \hat { G } _ { F } ^ { \xi = 0 } [ \epsilon , \epsilon ; E ] } .

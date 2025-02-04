@@ -1,0 +1,1 @@
+Q = 2 \Biggl ( \frac { 1 } { \gamma } \rho + \gamma \bar { \rho } \Biggr ) ,

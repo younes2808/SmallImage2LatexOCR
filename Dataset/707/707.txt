@@ -1,0 +1,1 @@
+\langle \xi _ { 1 } \cdots \xi _ { k } \rangle \sim \alpha \frac { \lambda ^ { k } } { N ^ { k } } C _ { r _ { 1 } } ( { \bar { l } } ) \cdots C _ { r _ { p } } ( { \bar { l } } )

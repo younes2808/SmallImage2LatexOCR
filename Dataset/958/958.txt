@@ -1,0 +1,1 @@
+{ \frac { \beta ^ { 2 } } { 4 \pi } } = { \frac { 2 - { \frac { g } { \pi } } } { 2 + { \frac { g } { \pi } } } } .

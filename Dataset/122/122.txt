@@ -1,0 +1,1 @@
+C = \mu _ { \mathrm { I I } } ( \eta _ { 2 } ) \frac { \vert \eta _ { 2 } \vert } { l _ { 0 } } = \frac { 2 \pi } { n } \frac { \mu _ { \mathrm { I I } } ( \eta _ { 2 } ) } { l _ { 0 } } .

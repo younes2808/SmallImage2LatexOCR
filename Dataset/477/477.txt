@@ -1,0 +1,1 @@
+{ \left( \frac { \rho _ { \phi } } { \rho _ { B I } } \right) _ { e n d } } = { \frac { 3 \pi } { 6 4 } } \left( { \frac { 1 } { h _ { G W } ^ { 2 } \left( F _ { 1 } ( \alpha ) / F _ { 2 } ( \alpha ) \right) ^ { 2 } } } \right) \left( { \frac { \rho _ { g } } { \rho _ { B I } } } \right) _ { e q }

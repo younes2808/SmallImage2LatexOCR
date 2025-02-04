@@ -1,0 +1,1 @@
+\theta ( x ) = \arctan ( \frac { y } { x - a } ) + \arctan ( \frac { y } { x + a } ) .

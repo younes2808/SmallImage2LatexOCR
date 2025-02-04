@@ -1,0 +1,1 @@
+\left. \frac { \langle \varphi _ { 4 } ^ { 2 } \rangle } { M _ { p , e f f } ^ { 2 } } \right\vert _ { t = t _ { p } } \sim C _ { 0 } ^ { 2 } \left( \frac { H ^ { 2 } } { M _ { p } ^ { 2 } } \right) \left( \frac { p } { H } \right) ^ { \frac { 3 \Delta + 8 } { \Delta + 2 } } .

@@ -1,0 +1,1 @@
+\rho \cdot { \ddot { \vec { x } } } = \partial _ { r } \frac { 1 } { \rho } g g ^ { r s } \partial _ { x } \vec { x }

@@ -1,0 +1,1 @@
+W _ { c } = { \frac { \pi ^ { 2 } s ^ { 2 } } { 1 6 } } - { \frac { \pi s } { 2 } } ( n + \delta ) + { \frac { 1 } { 4 } } n ( n + \delta ) + { \frac { 1 } { 4 } } n ( n + 2 \delta ) \Bigl [ \log \bigl ( { \frac { 4 \pi s } { n } } \bigr ) + { \frac { 1 } { 2 } } \Bigr ]

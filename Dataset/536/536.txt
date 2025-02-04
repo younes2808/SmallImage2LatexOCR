@@ -1,0 +1,1 @@
+U ( \vec { x } ) = { \mathrm e } ^ { { \mathrm i } \hat { r } \cdot \vec { \tau } f ( r ) }

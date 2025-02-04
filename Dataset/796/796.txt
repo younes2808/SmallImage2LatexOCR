@@ -1,0 +1,1 @@
+B ( z , \bar { z } ) = w _ { + } e ^ { \omega z + \bar { \omega } \bar { z } } + w _ { - } e ^ { - \left( \omega z + \bar { \omega } \bar { z } \right) } + w e ^ { \omega z - \bar { \omega } \bar { z } } + \bar { w } e ^ { - \left( \omega z - \bar { \omega } \bar { z } \right) } ,

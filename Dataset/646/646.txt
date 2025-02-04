@@ -1,0 +1,1 @@
+F _ { r s } ^ { m } = N ^ { \frac { 1 } { 2 } } \sum _ { w } S _ { w } ( \phi ) \sum _ { w \sim m u } ( ( \frac { \phi } { \sqrt N } ) ^ { u } ) _ { r s }

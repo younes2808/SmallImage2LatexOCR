@@ -1,0 +1,1 @@
+\Phi _ { ( r _ { 1 } , \ldots , r _ { n } ) } ^ { ( n ) } = \{ \Phi _ { r _ { 1 } } ^ { ( 1 ) } , \ldots , \Phi _ { r _ { n } } ^ { ( 1 ) } \} = \Phi _ { r _ { 1 } } ^ { ( 1 ) } \otimes \cdots \otimes \Phi _ { r _ { n } } ^ { ( 1 ) } ,

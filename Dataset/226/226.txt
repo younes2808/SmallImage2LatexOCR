@@ -1,0 +1,1 @@
+\mathrm { T r } K _ { \beta } ^ { ( 2 ) } ( s ) = 3 \mathrm { T r } K _ { \beta } ^ { ( 0 ) } ( s ) - \chi [ S _ { \beta } ^ { 2 } ] - 2 e ^ { - 2 s } ,

@@ -1,0 +1,1 @@
+\mathcal { P } = \left( \begin{array} { c c } { 0 } & { 1 } \\ { 1 } & { 0 } \\ \end{array} \right)

@@ -1,0 +1,1 @@
+{ \overrightarrow { \nabla } } ^ { 2 } e ^ { - U } = 0 \ ,

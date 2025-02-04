@@ -1,0 +1,1 @@
+{ \cal D } _ { \mu } F _ { \nu \rho } + { \cal D } _ { \nu } F _ { \rho \mu } + { \cal D } _ { \rho } F _ { \mu \nu } = 0 .

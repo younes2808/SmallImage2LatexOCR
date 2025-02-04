@@ -1,0 +1,1 @@
+\displaystyle { \cal Q } _ { + } ( - \infty ) = \pm \frac { 2 \pi } { p + 1 } \: , \qquad Z _ { + } ( - \infty ) = - Z _ { - } ( + \infty ) = \pi \frac { 1 - p } { p + 1 } < 0 \: .

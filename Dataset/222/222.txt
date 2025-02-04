@@ -1,0 +1,1 @@
+\Pi _ { \mathrm { e f } } \left( \sigma \right) { \cal F } \left[ h \right] = \frac { \delta { \cal F } \left[ h \right] } { \delta h ^ { \mathrm { e f } } \left( \sigma \right) } .

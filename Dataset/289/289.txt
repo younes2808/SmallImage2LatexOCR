@@ -1,0 +1,1 @@
+2 { \frac { \partial A ^ { i } } { \partial z } } = - \Omega _ { - } F ^ { i } = \Omega _ { - } K ^ { - 1 i j ^ { * } } \frac { \partial { \cal W } ^ { * } } { \partial A ^ { * j } } , \quad \Omega _ { - } \equiv i \frac { \langle - i Z _ { 1 } ^ { * } - Z _ { 2 } ^ { * } \rangle } { | \langle - i Z _ { 1 } ^ { * } - Z _ { 2 } ^ { * } \rangle | } .

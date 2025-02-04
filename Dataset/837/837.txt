@@ -1,0 +1,1 @@
+A = \left( \begin{array} { c c c } { 2 \omega _ { \eta } } & { - t } & { i v } \\ { - t } & { 2 \omega _ { t } } & { - i r } \\ { - i v } & { i r } & { 2 \omega _ { b } } \\ \end{array} \right) B = \left( \begin{array} { c c c } { 0 } & { - i t } & { u } \\ { - i t } & { 0 } & { s } \\ { u } & { s } & { 0 } \\ \end{array} \right) ,

@@ -1,0 +1,1 @@
+\hat { \rho } = \frac { e ^ { - \beta \Omega _ { 0 } \hat { A } ^ { \dagger } \hat { A } } } { \mathrm { T r } e ^ { - \beta \Omega _ { 0 } \hat { A } ^ { \dagger } \hat { A } } }

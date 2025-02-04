@@ -1,0 +1,1 @@
+A _ { - 1 } ^ { l } = { \frac { \sin ( \pi s ) } { \pi } } \int _ { 0 } ^ { \infty } d z ( z l / a ) ^ { - 2 s } { \frac { \partial } { \partial z } } \ln \left( { \frac { z ^ { - l } } { \sqrt { 2 \pi l } } } e ^ { l \eta } \right) ,

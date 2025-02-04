@@ -1,0 +1,1 @@
+\mathcal { D } _ { l , 0 } ^ { 0 , \Lambda _ { 0 } } = 0 , \quad \partial ^ { w } \mathcal { D } _ { l , n } ^ { 0 , \Lambda _ { 0 } } ( 0 ; 0 , \cdots , 0 ) = 0 ,

@@ -1,0 +1,1 @@
+\overline { { \partial } } \chi - \chi \overline { { \partial } } \varphi _ { 2 } + ( { 1 \o { 2 \lambda _ { 1 } ^ { 2 } } } - 1 ) { { \chi ^ { 2 } \overline { { \partial } } \psi } \o \Delta } e ^ { - \varphi _ { 2 } }

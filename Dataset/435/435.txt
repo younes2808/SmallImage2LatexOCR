@@ -1,0 +1,1 @@
+\Gamma _ { j } ^ { i } \rightarrow \hat { \Gamma } _ { j } ^ { i } \equiv \Gamma _ { j k } ^ { i } \nabla z ^ { k } + g A ^ { \Lambda } \partial _ { j } k _ { \Lambda } ^ { i }

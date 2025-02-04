@@ -1,0 +1,1 @@
+\Delta x \sim \frac { \hbar } { \Delta E } + \alpha ^ { ' } \Delta E .

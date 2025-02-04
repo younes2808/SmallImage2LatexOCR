@@ -1,0 +1,1 @@
+\hat { \mathcal { H } } = d \hat { \mathcal { B } } , \hat { G } _ { ( n ) } ^ { \pm } = d \hat { C } _ { ( n - 1 ) } ^ { \pm } ,

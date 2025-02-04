@@ -1,0 +1,1 @@
+\mathrm { d e g } \Delta ^ { ( n l ) } = \left( \begin{array} { c } { m } \\ { 2 } \\ \end{array} \right) + n l - n .

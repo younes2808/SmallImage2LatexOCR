@@ -1,0 +1,1 @@
+\Phi _ { n } = n S _ { n } + \ \sum _ { i _ { 1 } + \dots + i _ { m } = n , m > 1 } \ c _ { i _ { 1 } , \dots , i _ { m } } S _ { i _ { 1 } } \dots S _ { i _ { m } }

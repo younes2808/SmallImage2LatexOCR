@@ -1,0 +1,1 @@
+\bar { n } = n + \mu \left( 2 - j \right) = \left\{ \begin{array} { c } { n + \mu , j = 1 , \bar { l } = l + \mu , \bar { l } \leq \bar { n } } \\ { n , j = 2 , n = 0 , 1 , 2 , . . . . } \\ \end{array} \right.

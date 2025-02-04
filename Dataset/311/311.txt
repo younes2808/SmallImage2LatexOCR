@@ -1,0 +1,1 @@
+D _ { \mu \nu } ( k ; \xi ) = \frac { 1 } { k ^ { 2 } ( 1 + \Pi ( k ^ { 2 } ) ) } \left( \delta _ { \mu \nu } - \frac { k _ { \mu } k _ { \nu } } { k ^ { 2 } } \right) + \xi \frac { k _ { \mu } k _ { \nu } } { k ^ { 4 } } ,

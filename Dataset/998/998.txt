@@ -1,0 +1,1 @@
+S _ { B } = \frac { 2 \pi } { e ^ { 2 } } \int d ^ { 3 } x ( K ^ { - 1 } ) _ { a b } \left( \frac { 1 } { 4 } F _ { \mu \nu } ^ { a } F _ { \mu \nu } ^ { b } + \frac { 1 } { 2 } \partial _ { \mu } \phi ^ { i a } \partial _ { \mu } \phi ^ { i b } \right)

@@ -1,0 +1,1 @@
+\langle C | { \tilde { J } } _ { 0 } ^ { \mu ^ { \prime } } z ^ { L _ { 0 } ^ { \mathrm { W Z W } } \vert _ { B } } { \bar { z } } ^ { { \tilde { L } } _ { 0 } ^ { \mathrm { W Z W } } \vert _ { B } } | C \rangle .

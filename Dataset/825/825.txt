@@ -1,0 +1,1 @@
+G ^ { \pm } * \tau _ { p } = \delta \omega ^ { 2 \pm p } G ^ { \mp } \tau _ { p } ,

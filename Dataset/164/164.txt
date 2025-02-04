@@ -1,0 +1,1 @@
+f _ { i j } = \partial _ { i } a _ { j } ^ { \mathrm { s } } - \partial _ { j } a _ { i } ^ { \mathrm { s } } ,

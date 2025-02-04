@@ -1,0 +1,1 @@
+\dot { Q } = \{ Q , H \} = 2 P \ , \ \dot { P } = \{ P , H \} = \frac { P ^ { 2 } } { Q } - 2 Q V ^ { \prime } ( Q ) \ .

@@ -1,0 +1,1 @@
+K ( \theta ) = \left( \begin{array} { c c } { x ( \theta ) } & { y ( \theta ) } \\ { z ( \theta ) } & { t ( \theta ) } \\ \end{array} \right)

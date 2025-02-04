@@ -1,0 +1,1 @@
+a _ { p m } | 0 > = 0 , f o r \ \forall \mathrm { \boldmath p } , m .

@@ -1,0 +1,1 @@
+\frac { i \gamma ^ { 0 } \gamma \cdot \mathbf { p } } { | \mathbf { p } | }

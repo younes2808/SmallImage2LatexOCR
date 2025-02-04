@@ -1,0 +1,1 @@
+r = \left( \frac { m + E + k } { m + E - k } \right) e ^ { - 2 i k L } \frac { B } { A } \qquad , \qquad t = e ^ { - 2 i k L } \frac { d _ { 1 } } { A }

@@ -1,0 +1,1 @@
+M \geq \tau _ { p } v _ { p } + \tau _ { p ^ { \prime } } v _ { p ^ { \prime } }

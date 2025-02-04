@@ -1,0 +1,1 @@
+\chi ( x ) = \longrightarrow \int d ^ { 2 } \xi \chi ( \xi ) \delta _ { n } ( \xi - x ) = : \Big ( \chi , \delta _ { n } ( x ) \Big ) ,

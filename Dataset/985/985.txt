@@ -1,0 +1,1 @@
+V _ { e f f } = { \frac { Q ^ { 2 } } { 2 \pi \epsilon _ { 0 } } } ( l n { \frac { r _ { c } + x } { r _ { 0 } } } + { \frac { \epsilon _ { 0 } J _ { 1 } ^ { 2 } } { 2 \pi m Q ^ { 2 } ( r _ { c } + x ) ^ { 2 } } } ) ,

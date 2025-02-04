@@ -1,0 +1,1 @@
+( \partial _ { t } + \partial _ { x } v ) ( \partial _ { t } + v \partial _ { x } ) \phi = \hat { F } ^ { 2 } ( \partial _ { x } ) \phi .

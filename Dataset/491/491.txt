@@ -1,0 +1,1 @@
+S _ { D } = - \int d ^ { 3 } \sigma e ^ { - \phi } \sqrt { - \mathrm { d e t } G _ { \mu \nu } ^ { \prime } } + \int e ^ { - \phi } \Omega _ { D } ,

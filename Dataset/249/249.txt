@@ -1,0 +1,1 @@
+V ( X ) = V _ { I } V _ { J } \left( 6 X ^ { I } X ^ { J } - { \frac { 9 } { 2 } } { \cal G } ^ { i j } \partial _ { i } X ^ { I } \partial _ { j } X ^ { J } \right) ,

@@ -1,0 +1,1 @@
+{ \bf P } ^ { ( 0 ) } ( { \alpha } , { \bf n } ) = { \bf n } \left[ H ^ { ( 0 ) } ( { \alpha } , { \bf n } ) - m \exp ( i \frac { \partial } { { \partial } { \alpha } } ) \right] - m \frac { { \bf n } { \times } { \bf L } } { \alpha } \exp ( i \frac { \partial } { { \partial } { \alpha } } ) .

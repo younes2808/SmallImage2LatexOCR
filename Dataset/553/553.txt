@@ -1,0 +1,1 @@
+F ( m , T ) = - T \sum _ { a } m _ { a } \int _ { - \infty } ^ { \infty } \frac { d \theta } { 2 \pi } \cosh \theta \ln \left( 1 + e ^ { - \epsilon _ { a , 0 } ( \theta ) / T } \right)

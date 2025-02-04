@@ -1,0 +1,1 @@
+R _ { ( 0 ) } ^ { \mathrm { b o u n d a r y } } ( r ) = A _ { \mathrm { i n } } e ^ { i \frac { \omega \ell ^ { 2 } } { r } } + A _ { \mathrm { o u t } } e ^ { - i \frac { \omega \ell ^ { 2 } } { r } } .

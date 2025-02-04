@@ -1,0 +1,1 @@
+\tilde { \Gamma } ^ { ( 1 ) } = - \tilde { \zeta } ^ { \prime } ( 0 ) + \tilde { \zeta } ( 0 ) \ln \ell ^ { 2 } .

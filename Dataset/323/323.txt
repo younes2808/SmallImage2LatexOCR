@@ -1,0 +1,1 @@
+\bar { a } _ { 0 } ^ { x } = \gamma g _ { 0 } \delta _ { x 1 } \quad ; \quad \bar { a } _ { 1 } ^ { x } = \gamma g _ { 1 } \delta _ { x 2 } \quad ; \quad \vec { \beta } _ { 0 } \cdot \vec { \beta } _ { 1 } = - 4 g _ { 0 } g _ { 1 }

@@ -1,0 +1,1 @@
+c ^ { \prime } = \ln \frac { \sqrt { 2 \pi } \kappa e ^ { - b } } { K _ { + } ( i ) } - 1 + s ( \gamma _ { E } - 1 + \ln 8 )

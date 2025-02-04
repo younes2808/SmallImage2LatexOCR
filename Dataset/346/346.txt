@@ -1,0 +1,1 @@
+\phi _ { t _ { 1 } . . . t _ { k } \tau } ^ { ( k + 1 ) } = \phi _ { t _ { 1 } . . . t _ { k } \tau . . . \tau } \quad .

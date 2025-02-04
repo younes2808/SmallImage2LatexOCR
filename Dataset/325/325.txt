@@ -1,0 +1,1 @@
+S _ { n } = \left( \begin{array} { c } { S _ { ( - ) n } } \\ { S _ { ( + ) n } } \\ \end{array} \right)

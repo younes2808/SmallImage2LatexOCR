@@ -1,0 +1,1 @@
+\fbox { e _ { a } e _ { b } = \pm e _ { c } \Longrightarrow e _ { c } e _ { a } = \pm e _ { b } }

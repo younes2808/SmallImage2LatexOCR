@@ -1,0 +1,1 @@
+\Delta f = \frac { 1 } { \sqrt \rho } \left( \frac { 1 } { \epsilon } \nabla ^ { a } \frac { \partial ^ { L } } { \partial \theta ^ { a } } + \frac { 1 } { \bar { \epsilon } } { \overline { { \nabla ^ { a } } } } \frac { \partial ^ { L } } { \partial { \bar { \theta } } ^ { a } } \right) ( \sqrt \rho f ) ,

@@ -1,0 +1,1 @@
+\tau _ { I } \tau _ { J } ^ { T } + \tau _ { J } \tau _ { I } ^ { T } = 2 \delta _ { I J } 1 _ { 8 }

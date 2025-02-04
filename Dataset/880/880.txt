@@ -1,0 +1,1 @@
+y ( x _ { M } ) = y ( - x _ { M } ) , \quad y ^ { \prime } ( x _ { M } ) = y ^ { \prime } ( - x _ { M } ) .

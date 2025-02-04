@@ -1,0 +1,1 @@
+{ \cal M } = R ^ { 3 } \times \left( { \frac { R ^ { 1 } \times { \cal M } _ { \mathrm { r e l } } } { D } } \right)

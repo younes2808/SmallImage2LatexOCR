@@ -1,0 +1,1 @@
+Q _ { \mathrm { r a d } } ^ { 3 } \Omega _ { \vec { n } _ { \bot } } | \ \rangle = - \Omega _ { \vec { n } _ { \bot } } Q _ { \mathrm { r a d } } ^ { 3 } | \ \rangle = 0 \ .

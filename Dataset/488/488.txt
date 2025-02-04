@@ -1,0 +1,1 @@
+M _ { Q } = \left\vert Z _ { Q } \right\vert = \left\vert Q \cdot A \right\vert ,

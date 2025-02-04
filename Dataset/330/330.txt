@@ -1,0 +1,1 @@
+\tilde { u } _ { x } = u - \tilde { u } v \tilde { u } \qquad v _ { x } = v \tilde { u } v - \tilde { v }

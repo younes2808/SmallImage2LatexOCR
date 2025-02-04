@@ -1,0 +1,1 @@
+\eta = \gamma ( u ^ { * } , \theta ) = - \frac { \varepsilon \theta ^ { 2 } } { 7 2 } .

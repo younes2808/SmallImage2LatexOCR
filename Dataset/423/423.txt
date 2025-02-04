@@ -1,0 +1,1 @@
+L = T - V = \int \frac { d x d y } { ( 1 + r ^ { 2 } ) ^ { 2 } } \frac { \partial W } { \partial q ^ { i } } \frac { \partial \bar { W } } { \partial q ^ { j } } \dot { q } ^ { i } \dot { q } ^ { j } - 2 \pi .

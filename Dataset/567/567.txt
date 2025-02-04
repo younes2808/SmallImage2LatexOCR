@@ -1,0 +1,1 @@
+- \frac { S _ { E } } { \hbar } - W = - \frac { \pi q } { \hbar B } + \frac { N } { 3 6 q B } + \cdots = - \frac { \pi q } { \hbar B } \biggl ( 1 - \frac { N \hbar } { 3 6 \pi q ^ { 2 } } \biggr ) + \cdots .

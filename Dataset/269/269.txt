@@ -1,0 +1,1 @@
+\zeta = - i \frac { 1 } { 2 } \zeta ^ { 0 } - \theta [ \frac { 1 } { 2 } \zeta ^ { 1 } ]

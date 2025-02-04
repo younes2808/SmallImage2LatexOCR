@@ -1,0 +1,1 @@
+p A = k T \langle M \rangle \left( 1 + \frac { 1 } { 1 + q ^ { 2 } } \frac { h ^ { 2 } } { 8 \pi m k T } \frac { \langle M \rangle } { A } + . . . \right) ,

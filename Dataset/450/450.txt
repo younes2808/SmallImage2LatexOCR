@@ -1,0 +1,1 @@
+\langle \tilde { D } _ { - } \tilde { A } _ { k } | \dot { \tilde { A } } _ { k } \rangle = i \frac { 1 } { 2 } \sum _ { p > 0 } \big [ ( a _ { k } ^ { p } ) ^ { \dagger } \dot { a } _ { k } ^ { p } - ( \dot { a } _ { k } ^ { p } ) ^ { \dagger } a _ { k } ^ { p } \big ] ,

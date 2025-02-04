@@ -1,0 +1,1 @@
+G ^ { \mu } = \int d ^ { D } \! q q ^ { \mu } \exp { \left[ - \alpha ( q - p ) ^ { 2 } - \beta ( q \! \cdot \! n ) - \gamma ( q \! \cdot \! n ^ { * } ) \right] } .

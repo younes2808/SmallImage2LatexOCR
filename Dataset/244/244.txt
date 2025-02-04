@@ -1,0 +1,1 @@
+W _ { A B C } = \frac { 1 } { 2 } T _ { \underline { { A } } \ \underline { { B } } \dot { A } u n d e r l i n e { C } } ^ { \dot { A } } , W _ { \dot { A } \dot { B } \dot { C } } = - \frac { 1 } { 2 } T _ { \underline { { \dot { A } } } A \underline { { \dot { B } } } \underline { { \dot { C } } } } ^ { A }

@@ -1,0 +1,1 @@
+Z = \int { \cal D } [ q , \eta , { \bar { \eta } } , b ] { \cal D } [ \alpha ] | \zeta | \sqrt { g } \exp ( - S _ { \psi } [ q ^ { s } , \alpha _ { a } , \eta _ { a } , \bar { \eta } _ { a } , b _ { a } ] ) ,

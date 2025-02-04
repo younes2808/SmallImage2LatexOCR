@@ -1,0 +1,1 @@
+[ p ( x ) , \psi ^ { \dagger } ( y ) ] = { \frac { i } { 2 } } { \frac { \psi ^ { \dagger } } { \phi } } ( y ) \partial _ { x } \delta ( x - y )

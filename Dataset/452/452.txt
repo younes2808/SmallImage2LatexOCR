@@ -1,0 +1,1 @@
+\delta = ( - 1 ) ^ { r ( q + 1 ) + 1 } * d * \quad , \quad ( d = ( - 1 ) ^ { r ( q + 1 ) } * \delta * ) \quad , \quad \delta ^ { 2 } = 0 .

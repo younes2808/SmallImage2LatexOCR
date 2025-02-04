@@ -1,0 +1,1 @@
+\frac { \delta \rho } { \rho } = \frac { 2 \sqrt { 6 \pi } g } { 5 \lambda ^ { 3 / 2 } } \frac { M ^ { 5 } } { M _ { p } ^ { 3 } m ^ { 2 } } \ .

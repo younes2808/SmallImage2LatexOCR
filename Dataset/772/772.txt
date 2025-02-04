@@ -1,0 +1,1 @@
+g = \displaystyle \prod _ { j = 1 } ^ { n } \Biggl ( { \frac { b _ { j } - ( r + i t ) } { \bar { b } _ { j } + ( r + i t ) } } \Biggr )

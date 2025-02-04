@@ -1,0 +1,1 @@
+a _ { 2 } = { \displaystyle \frac { 9 9 } { 5 } } + 8 { \displaystyle \frac { 1 } { { \omega } } } ,

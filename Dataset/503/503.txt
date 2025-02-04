@@ -1,0 +1,1 @@
+\tilde { U } _ { 0 } = \left( \begin{array} { c } { 0 } \\ { 0 } \\ { p _ { 0 } } \\ { 0 } \\ { 0 } \\ \end{array} \right) + U _ { 0 } ,

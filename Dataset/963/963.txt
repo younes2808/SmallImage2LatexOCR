@@ -1,0 +1,1 @@
+{ j ^ { ( b ) } } _ { \mu } ^ { T } : = T _ { \mu \nu } \overline { { \psi } } ^ { ( b ) } \gamma _ { \nu } \psi ^ { ( b ) } , T _ { \mu \nu } : = \delta _ { \mu \nu } - \frac { \partial _ { \mu } \partial _ { \nu } } { \triangle } ,

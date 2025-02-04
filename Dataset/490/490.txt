@@ -1,0 +1,1 @@
+Z _ { J , K , \xi } = \int [ D \Phi ] \exp i \{ { \cal S } ^ { \Psi } [ \Phi , K , \xi ] + \int \mathrm { d } x J _ { a } ( x ) \Phi ^ { a } ( x ) \} .

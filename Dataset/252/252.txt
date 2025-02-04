@@ -1,0 +1,1 @@
+a ( \eta ) = a _ { \mathrm { m a x } } \left( \sin \frac { \eta } { q } \right) ^ { q } .

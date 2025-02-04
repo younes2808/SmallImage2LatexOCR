@@ -1,0 +1,1 @@
+J \equiv \left. { \frac { \delta S _ { \mathrm { { \small i n t } } } } { \delta \sigma } } \right| _ { \Phi = 0 } .

@@ -1,0 +1,1 @@
+X ^ { i } ( \tau , \sigma = 0 ) = x ^ { i } , \qquad \qquad X ^ { i } ( \tau , \sigma = \pi ) = y ^ { i } .

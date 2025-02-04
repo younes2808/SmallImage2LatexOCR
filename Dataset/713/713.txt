@@ -1,0 +1,1 @@
+u \in S U ( 2 ) \quad \Rightarrow \quad u _ { i } ^ { - } = ( u ^ { + i } ) ^ { * } , \quad u ^ { + i } u _ { i } ^ { - } = 1

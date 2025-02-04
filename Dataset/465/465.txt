@@ -1,0 +1,1 @@
+S [ { u } , { \mu } ] = - i ( { \mu } , \partial _ { t } { u } + { \cal F } ) + \frac { 1 } { 2 } ( { \mu } , K { \mu } ) .

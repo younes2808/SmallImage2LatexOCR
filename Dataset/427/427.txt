@@ -1,0 +1,1 @@
+\sigma _ { 0 } = \tau _ { 3 } , \qquad \sigma _ { \pm } = - \tau _ { \pm } = - \mathrm { \frac { 1 } { 2 } } ( \tau _ { 1 } \pm i \tau _ { 2 } ) ,

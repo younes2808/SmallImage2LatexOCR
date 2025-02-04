@@ -1,0 +1,1 @@
+{ \Omega } _ { i j k } ^ { u } = \frac { { \partial } { \omega } _ { j k } ^ { u } } { { \partial } { \xi } ^ { i } } + \frac { { \partial } { \omega } _ { k i } ^ { u } } { { \partial } { \xi } ^ { j } } + \frac { { \partial } { \omega } _ { i j } ^ { u } } { { \partial } { \xi } ^ { k } } .

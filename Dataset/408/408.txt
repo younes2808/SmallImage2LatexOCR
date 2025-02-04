@@ -1,0 +1,1 @@
+J ( { \cal A } ) : = J { \cal A } J = { \cal A } ^ { \prime } , { \cal A } ^ { \prime } : c o m m u t a n t o f { \cal A } .

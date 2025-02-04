@@ -1,0 +1,1 @@
+[ Q _ { i } , a _ { m } ^ { \dagger } ] = \psi _ { \dot { \alpha } } ^ { \dagger } ( \gamma _ { i } ^ { \dagger } ) _ { \dot { \alpha } m } , [ Q _ { i } , \psi _ { \dot { \alpha } } ^ { \dagger } ] _ { + } = a _ { m } ^ { \dagger } ( \gamma _ { i } ) _ { m \dot { \alpha } }

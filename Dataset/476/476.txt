@@ -1,0 +1,1 @@
+\int _ { 0 } ^ { \infty } \frac { d \rho } { \rho ^ { n + 1 } } \exp \left( - \rho - \frac { 1 } { \rho } a ^ { 2 } \right) = \left( - \frac { 1 } { 2 a } \frac { d } { d a } \right) ^ { n } [ 2 K _ { 0 } ( 2 a ) ] .

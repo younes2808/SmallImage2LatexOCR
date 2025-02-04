@@ -1,0 +1,1 @@
+e ^ { i S _ { e f f } ( x ) } = \int d \bar { \psi } d \psi e ^ { i \int \tilde { L } _ { f } d t }

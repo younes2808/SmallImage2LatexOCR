@@ -1,0 +1,1 @@
+[ \tau ^ { a } , \tau ^ { b } ] = F _ { c } ^ { a b } \tau ^ { c } .

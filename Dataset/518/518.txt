@@ -1,0 +1,1 @@
+a = \cos \left( \pi \sqrt { \lambda _ { 1 } ^ { 2 } + { \lambda _ { 2 } ^ { \prime } } ^ { 2 } } \right) , b = i { \frac { \lambda _ { 1 } + i \lambda _ { 2 } ^ { \prime } } { \sqrt { \lambda _ { 1 } ^ { 2 } + { \lambda _ { 2 } ^ { \prime } } ^ { 2 } } } } \sin \left( \pi \sqrt { \lambda _ { 1 } ^ { 2 } + { \lambda _ { 2 } ^ { \prime } } ^ { 2 } } \right) .

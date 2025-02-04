@@ -1,0 +1,1 @@
+\Lambda ( \lambda ) = 2 \lambda ^ { n } + \hat { q } _ { 2 } \lambda ^ { n - 2 } + \hat { q } _ { 3 } \lambda ^ { n - 3 } + \cdots + \hat { q } _ { n } ,

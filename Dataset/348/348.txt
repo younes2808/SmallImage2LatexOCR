@@ -1,0 +1,1 @@
+L = - \frac { 1 } { 2 } \eta _ { \mu \nu } \partial ^ { \mu } \Phi \partial ^ { \nu } \Phi - \frac { \lambda } { 2 } ( \Phi ^ { 2 } - \frac { M ^ { 2 } } { 4 \lambda } ) ^ { 2 } ,

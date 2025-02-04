@@ -1,0 +1,1 @@
+G ^ { \alpha \beta \gamma \delta } \Sigma _ { \alpha } \Sigma _ { \beta } \Sigma _ { \gamma } \Sigma _ { \delta } = 0 ,

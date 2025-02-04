@@ -1,0 +1,1 @@
+H = \omega \sum _ { i = 1 } ^ { n } N _ { i } , N _ { i } \equiv N _ { i i } .

@@ -1,0 +1,1 @@
+\frac { d ^ { p - 2 } } { \partial x _ { i _ { 1 } } ^ { p - 2 } } \frac { \partial ^ { p - 3 } } { \partial x _ { i _ { 2 } } ^ { p - 3 } } \dots \frac { \partial } { \partial x _ { i _ { p - 2 } } } f ( x _ { 1 } , x _ { 2 } , \dots ) \biggr | _ { x _ { i _ { 1 } } = x _ { i _ { 2 } } = \dots = x _ { i _ { p - 2 } } = x _ { i _ { p - 1 } } } = 0 .

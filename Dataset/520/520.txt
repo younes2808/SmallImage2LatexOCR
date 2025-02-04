@@ -1,0 +1,1 @@
+\Pi ^ { r } = \dot { x } ^ { \mu } ( e _ { \mu } ^ { r } - \frac { 1 } { 4 } \bar { \theta } \Gamma ^ { r s t } \theta \omega _ { \mu s t } ) + \bar { \theta } \Gamma ^ { r } \dot { \theta } + \cdots ,

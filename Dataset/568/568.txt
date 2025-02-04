@@ -1,0 +1,1 @@
+\Gamma _ { [ s ] } ( p ) = Z \gamma _ { [ r ] } \delta _ { s } ^ { r } - i g ^ { 2 } \int \bar { d } ^ { D } \! \! q \gamma _ { [ r ] } \frac 1 { \gamma . q } \Gamma _ { [ s ] } ( q ) \frac 1 { \gamma . q } \gamma _ { [ r ^ { \prime } ] } \Delta ^ { r r ^ { \prime } } ( p - q ) .

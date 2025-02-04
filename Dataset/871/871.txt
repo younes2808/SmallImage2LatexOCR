@@ -1,0 +1,1 @@
+A = B = 2 m \bar { \psi } i \gamma _ { 5 } \psi ,

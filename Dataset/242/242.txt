@@ -1,0 +1,1 @@
+a _ { i } = \sum _ { j } \alpha _ { j i } b _ { j } + \beta _ { j i } ^ { * } b _ { j } ^ { \dag }

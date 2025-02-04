@@ -1,0 +1,1 @@
+D _ { r ( c ) } ^ { m ( a ) } G _ { n ( b ) } ^ { r ( c ) } ( x , x ^ { \prime } ; \bar { \sigma } ) = - \frac { \partial } { \partial \bar { \sigma } } G _ { n ( b ) } ^ { m ( a ) } ( x , x ^ { \prime } ; \bar { \sigma } )

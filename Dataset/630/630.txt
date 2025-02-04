@@ -1,0 +1,1 @@
+S _ { p } = - T _ { p } \int d ^ { p + 1 } \xi e ^ { - \Phi } \sqrt { - \mathrm { d e t } \hat { G } _ { \alpha \beta } } + T _ { p } \int d ^ { p + 1 } \xi \hat { A } ^ { p + 1 } ,

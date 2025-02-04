@@ -1,0 +1,1 @@
+\Phi ( z , \rho , \theta ) = R _ { 3 } ( \theta ) \Phi ( z , \rho , \theta = 0 ) R _ { 3 } ( \theta ) ^ { T } \quad .

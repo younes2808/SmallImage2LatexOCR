@@ -1,0 +1,1 @@
+\hat { N } _ { \mu \nu \rho } ^ { ( x ) a b } = \hat { N } _ { \mu \nu \rho } ^ { ( y ) a b } = \frac { 1 } { 4 } Y _ { R } ^ { ( e ) } \mathrm { T r } \tau ^ { a } \tau ^ { b } N _ { \mu \nu \rho } .

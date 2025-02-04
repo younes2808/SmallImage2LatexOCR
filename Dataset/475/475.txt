@@ -1,0 +1,1 @@
+f ( z , \zeta ) = \sum _ { b } ( \zeta - k ) \ln \left( \frac { c _ { b } } { ( a _ { b } - c _ { b } \zeta ) } \frac { \left[ ( a _ { b } - c _ { b } \zeta ) z + ( b _ { b } - d _ { b } \zeta ) \right] } { ( c _ { b } z + d _ { b } ) } \right) + c ^ { \prime } \ ,

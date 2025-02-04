@@ -1,0 +1,1 @@
+z _ { \pm } = ( J _ { 1 } ^ { \prime } \mp i J _ { 2 } ^ { \prime } ) \left( J _ { q } \pm \displaystyle \frac { \sinh \gamma J _ { 3 } ^ { \prime } } { \sqrt { \gamma \sinh \gamma } } \right) ^ { - 1 } .

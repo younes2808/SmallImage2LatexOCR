@@ -1,0 +1,1 @@
+\tau _ { i } = \phi _ { i } ( \xi ) , i \in \{ 1 , 2 , 3 , \ldots r \}

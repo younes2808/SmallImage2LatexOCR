@@ -1,0 +1,1 @@
+Q _ { B R S T } = c H \qquad H = \{ b , Q _ { B R S T } \} \qquad ( Q _ { B R S T } ) ^ { 2 } = 0

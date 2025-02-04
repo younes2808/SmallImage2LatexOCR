@@ -1,0 +1,1 @@
+V _ { e f f } ( \varphi ) \equiv \lim _ { p \to \infty } V _ { e f f } ^ { ( p ) } ( \varphi ) = \frac { 1 } { 4 \omega m ^ { 4 } } ( V + M ) ^ { 2 }

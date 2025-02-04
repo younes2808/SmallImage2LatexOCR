@@ -1,0 +1,1 @@
+G ( p ) = \frac { ( \Gamma - \alpha \mu ) ( \Gamma - \alpha ^ { 2 } \mu ) . . . ( \Gamma - \alpha ^ { n - 1 } \mu ) } { p ^ { 2 } - m ^ { 2 } }

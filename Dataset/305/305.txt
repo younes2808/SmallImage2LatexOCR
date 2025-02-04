@@ -1,0 +1,1 @@
+G _ { \ast } ^ { N = 3 } = [ G _ { \ast , 8 } , G _ { \ast , 3 } ] \simeq [ 0 . 2 2 5 , 0 . 3 8 5 ] \quad \Rightarrow \quad \alpha _ { \ast } ^ { N = 3 } \simeq [ 5 . 7 , 9 . 7 ] .

@@ -1,0 +1,1 @@
+Q _ { i } Q _ { i } ^ { \dagger } - Q _ { i + 1 } ^ { \dagger } Q _ { i + 1 } \propto \mathbf { 1 } .

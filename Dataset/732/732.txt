@@ -1,0 +1,1 @@
+\frac { 1 } { | \vec { r } _ { N 1 } | } \quad \rightarrow \quad \frac { 1 } { | \vec { r } _ { N 1 } - 2 \pi \vec { \zeta } / R | } = \frac { 1 } { | \vec { x } _ { N } - \vec { x } _ { 1 } - 2 \pi \tilde { R } \vec { \zeta } / \alpha ^ { \prime } | } ,

@@ -1,0 +1,1 @@
+M = \int { d ^ { s } } x { a ^ { \dagger } } ( x ) F ( a ( x ) , { D ^ { \alpha } } a ( x ) ) ,

@@ -1,0 +1,1 @@
+\Omega _ { + } = - { \frac { 1 } { 1 2 } } \Theta \left( \Gamma _ { - } \Gamma _ { + } + 1 \right)

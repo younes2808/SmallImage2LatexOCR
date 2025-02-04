@@ -1,0 +1,1 @@
+f _ { \mathbf { I J } } ^ { \mathbf { K } } V _ { \mathbf { K } } = 0

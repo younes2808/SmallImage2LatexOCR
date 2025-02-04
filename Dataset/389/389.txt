@@ -1,0 +1,1 @@
+\Sigma ^ { N } ( \not { p } ) = \Sigma ^ { N \sigma } ( \not { p } ) + \Sigma ^ { N \pi } ( \not { p } )

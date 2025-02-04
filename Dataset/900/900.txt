@@ -1,0 +1,1 @@
+\widetilde \phi ( x ) = K ^ { \partial _ { x } ^ { 2 } } \phi ( x ) = t _ { 0 } + t _ { 1 } K ^ { - \frac { 1 } { { R ^ { 2 } } } } \cos \left( { \frac { x } { R } } \right) + t _ { 2 } K ^ { - \frac { 4 } { { R ^ { 2 } } } } \cos \left( { \frac { { 2 x } } { R } } \right) + \cdots ,

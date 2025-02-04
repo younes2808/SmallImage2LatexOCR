@@ -1,0 +1,1 @@
+\left( \Delta _ { r \theta } - \frac { { \hat { L } } ^ { 2 } } { r ^ { 2 } \sin ^ { 2 } \theta / 2 } - \frac { { \hat { J } } ^ { 2 } } { r ^ { 2 } \cos ^ { 2 } \theta / 2 } \right) \psi + \frac { 2 M } { \hbar ^ { 2 } } \left( \epsilon + \frac { e ^ { 2 } } { r } \right) \psi = 0

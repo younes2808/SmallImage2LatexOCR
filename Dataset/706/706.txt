@@ -1,0 +1,1 @@
+\psi _ { \xi } ^ { - 1 } ( x \times V ) = [ z _ { \xi } ( x ) ] _ { V } ( V ) , \qquad x \in U _ { \xi } ,

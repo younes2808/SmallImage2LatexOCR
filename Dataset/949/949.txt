@@ -1,0 +1,1 @@
+\frac { 4 m } { \hbar ^ { 2 } } U = \sigma _ { 1 } \bar { \beta } _ { 1 1 } | \phi | ^ { 4 } + ( \sigma _ { 1 } + \sigma _ { 2 } ) \bar { \beta } _ { 1 2 } | \phi | ^ { 2 } | \chi | ^ { 2 } + \sigma _ { 2 } \bar { \beta } _ { 2 2 } | \chi | ^ { 4 } .

@@ -1,0 +1,1 @@
+\left( p + { \frac { N ^ { 2 } } { V ^ { 2 } } } ( a + a ^ { \prime } / k _ { B } T + \cdots ) \right) ( V - N b ) = N k _ { B } T ,

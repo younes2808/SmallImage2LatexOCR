@@ -1,0 +1,1 @@
+\hat { \cal L } = \frac { 1 } { 2 } \gamma ^ { \alpha } \gamma ^ { \beta } \hat { L } _ { \alpha \beta } ,

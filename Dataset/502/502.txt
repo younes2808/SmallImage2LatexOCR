@@ -1,0 +1,1 @@
+S = \int d ^ { n + q + 2 } x \sqrt { g } \left( \alpha R - \lambda ( \partial \phi ) ^ { 2 } - \eta e ^ { - \sigma \phi } F _ { q + 2 } ^ { 2 } \right) ,

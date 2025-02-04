@@ -1,0 +1,1 @@
+\frac { 1 } { 8 \pi } \int _ { \partial { \cal M } } T r { \cal K } = \frac { 1 } { 8 \pi } \frac { \partial } { \partial { \bf n } } ( \mathrm { V o l } \partial { \cal M } ) = \frac { 1 } { 8 \pi } \frac { \partial } { \partial t } \left[ \left( \frac { 3 } { 2 } t \right) ^ { 1 / 3 } { \cal V } \right] \ .

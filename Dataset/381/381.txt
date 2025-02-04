@@ -1,0 +1,1 @@
+h \gamma ^ { i } \partial _ { i } \chi = i \omega \gamma ^ { 0 } \chi

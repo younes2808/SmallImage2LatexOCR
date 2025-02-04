@@ -1,0 +1,1 @@
+L ( Y _ { N S } , Y _ { D } ) = - \int _ { Y _ { N S } } H ^ { D } = \int _ { Y _ { D } } H ^ { N S } .

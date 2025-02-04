@@ -1,0 +1,1 @@
+\Psi _ { \mathrm { s c } } ^ { ( - ) } ( { \bf x } , t ; \varepsilon _ { k ^ { \prime } } , P ^ { \prime \prime } ) d P ^ { \prime \prime } + ( \mathrm { c . c } )

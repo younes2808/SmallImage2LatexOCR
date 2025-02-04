@@ -1,0 +1,1 @@
+C _ { 1 } : \qquad Z _ { 1 } V = \mu W Z _ { 2 } , \qquad X = Y = 0 .

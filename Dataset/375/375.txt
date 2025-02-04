@@ -1,0 +1,1 @@
+{ \cal K } ^ { L } ( \sigma = 2 ) = \left( \begin{array} { c c } { - \frac { d ^ { 2 } } { d x ^ { 2 } } + 4 - \frac { 3 } { \cosh ^ { 2 } x } } & { \frac { 3 } { \cosh ^ { 2 } x } } \\ { \frac { 3 } { \cosh ^ { 2 } x } } & { - \frac { d ^ { 2 } } { d x ^ { 2 } } + 4 - \frac { 3 } { \cosh ^ { 2 } x } } \\ \end{array} \right) \qquad ,

@@ -1,0 +1,1 @@
+\partial _ { \mu } F ^ { \mu \nu } + m ^ { 2 } A ^ { \nu } = j ^ { \nu }

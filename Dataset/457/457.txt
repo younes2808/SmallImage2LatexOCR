@@ -1,0 +1,1 @@
+I = \frac { \kappa l ^ { 2 } } { 2 n } \int _ { { \cal M } } \epsilon _ { a _ { 1 } \ldots a _ { d } }

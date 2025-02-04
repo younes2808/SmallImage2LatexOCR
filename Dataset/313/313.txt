@@ -1,0 +1,1 @@
+S = \int d ^ { 4 } x \sqrt { - g } \left( R - 2 ( \nabla \phi ) ^ { 2 } + e ^ { - 2 a \phi } F ^ { 2 } \right)

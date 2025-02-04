@@ -1,0 +1,1 @@
+d { \cal M } _ { Q } ( x ) = d x \sqrt { Q ^ { \prime } ( x ) } S _ { W , Q } ( x , \mu ) = - \int _ { } ^ { x } { W d Q } + W ( \mu ) Q ( x )

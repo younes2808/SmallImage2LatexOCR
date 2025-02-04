@@ -1,0 +1,1 @@
+{ \cal G } _ { \alpha \beta } = \left( \begin{matrix} { \tilde { g } _ { i j } + s ^ { A } s ^ { B } g ^ { M N } A _ { i M A } A _ { j N B } } & { g _ { i A } } \\ { g _ { j B } } & { g _ { A B } } \\ \end{matrix} \right)

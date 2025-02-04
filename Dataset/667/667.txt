@@ -1,0 +1,1 @@
+n _ { a } - m _ { a } = l l \in \mathrm { Z Z } a = 1 , 2 , . . . , N .

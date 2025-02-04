@@ -1,0 +1,1 @@
+\frac { \partial } { \partial T } S T \frac { \partial } { \partial T }

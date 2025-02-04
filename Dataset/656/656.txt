@@ -1,0 +1,1 @@
+V = \left( \begin{matrix} { v } \\ { - v } \\ \end{matrix} \right) , \quad \bar { M } V = i \left( \begin{matrix} { A } & { B } \\ { B } & { A } \\ \end{matrix} \right) \left( \begin{matrix} { v } \\ { - v } \\ \end{matrix} \right) = i \lambda V .

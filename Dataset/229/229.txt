@@ -1,0 +1,1 @@
+( \varphi , \theta ) \sim ( \varphi + u , \theta + \alpha ) \sim ( \varphi + v , \theta + \beta ) .

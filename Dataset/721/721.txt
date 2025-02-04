@@ -1,0 +1,1 @@
+F _ { \mu \nu } = \partial _ { \mu } A _ { \nu } - \partial _ { \nu } A _ { \mu } .

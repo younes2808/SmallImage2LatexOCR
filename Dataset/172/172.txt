@@ -1,0 +1,1 @@
+E _ { a s } ^ { ( 2 ) } = - { \frac { \cos { \pi s } } { \pi } } \mu ^ { 2 s } \int _ { 0 } ^ { \infty } \frac { d \nu } { 1 + e ^ { 2 \pi \nu } } \frac { ( F ( i \nu ) - F ( - i \nu ) ) } { i } \ .

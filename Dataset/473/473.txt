@@ -1,0 +1,1 @@
+I = { \big ( \frac { g } { 3 ! } \big ) } ^ { 2 } \lambda ^ { 3 } \int d ^ { 2 } \theta \int d ^ { 4 } x _ { 1 } \Phi ^ { 3 } ( x _ { 1 } , \theta ) S ( p _ { 1 } , p _ { 2 } ) | _ { p _ { 1 } , p _ { 2 } = 0 }

@@ -1,0 +1,1 @@
+\left[ A _ { 2 t } \right] _ { h o r i z o n } = - \frac { Q _ { 2 } \beta } { r _ { 0 } ^ { 2 } + r _ { 1 } ^ { 2 } } .

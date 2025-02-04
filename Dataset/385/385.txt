@@ -1,0 +1,1 @@
+\frac { 1 } { T ^ { \mathrm { o n } } ( E ) } = \mathrm { R e } \left( \frac { 1 } { t } \right) + i \frac { \mu \sqrt { 2 \mu E } } { 2 \pi } ,

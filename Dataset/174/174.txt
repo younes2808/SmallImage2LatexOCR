@@ -1,0 +1,1 @@
+{ \cal H } = \int d x \left( { \frac { 1 } { 2 } } p ^ { 2 } + { \frac { 1 } { 2 } } ( \partial _ { x } u ) ^ { 2 } + { \frac { m ^ { 2 } } { \beta ^ { 2 } } } ( 1 - \cos \ \beta u ) \right) \ .

@@ -1,0 +1,1 @@
+K _ { \nu } ( z ) \ \sim \ \frac { \sqrt { \pi } e ^ { - z } } { \sqrt { 2 z } } \left\{ 1 + \frac { \mu - 1 } { 8 z } + \frac { ( \mu - 1 ) ( \mu - 9 ) } { 2 ! ( 8 z ) ^ { 2 } } + . . . \right\} \ ,

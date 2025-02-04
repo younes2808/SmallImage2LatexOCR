@@ -1,0 +1,1 @@
+q \equiv \sin ^ { 2 } \widetilde { \alpha } _ { n } ( \infty ) = \sin ^ { 2 } \left( \frac { V _ { 0 } \Omega } { \hbar c } \right) .

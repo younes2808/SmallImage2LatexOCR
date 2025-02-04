@@ -1,0 +1,1 @@
+\hat { G } ( T , \bar { T } ) = ( T + \bar { T } ) ^ { - 1 } + 2 \eta ^ { - 1 } \frac { d \eta } { d T }

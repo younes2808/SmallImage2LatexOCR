@@ -1,0 +1,1 @@
+{ v } _ { s } \equiv { v } _ { \lambda } = s i g n \left( \frac { s i n 2 \gamma s } { s i n \gamma } \right)

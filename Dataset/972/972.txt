@@ -1,0 +1,1 @@
+{ \cal L } = \mathrm { T r } { \cal A } _ { \mu } { \cal A } ^ { \mu } + \mathrm { T r } \mathrm { } ^ { * } \! { \cal B } _ { \mu \nu } { \cal F } ^ { \mu \nu } ,

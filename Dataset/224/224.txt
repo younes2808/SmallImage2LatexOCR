@@ -1,0 +1,1 @@
+- \int \tilde { d k } I ( k ) \left( k ^ { i } X ^ { j } - k ^ { j } X ^ { i } \right) = - \left( P ^ { i } X ^ { j } - P ^ { j } X ^ { i } \right) ,

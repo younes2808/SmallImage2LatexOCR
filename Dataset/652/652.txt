@@ -1,0 +1,1 @@
+\Gamma ^ { a _ { 1 } \cdots a _ { N } } [ k _ { 1 } , \varepsilon _ { 1 } ; \ldots ; k _ { N } , \varepsilon _ { N } ] = ( - i g ) ^ { N } \mathrm { t r } ( T ^ { a _ { 1 } } \cdots T ^ { a _ { N } } ) { \frac { { ( 4 \pi \mu ^ { 2 } ) } ^ { - { \frac { \epsilon } { 2 } } } } { 3 2 { \pi } ^ { 2 } } } \sum _ { \mathrm { d i a g r a m s } } D _ { i }

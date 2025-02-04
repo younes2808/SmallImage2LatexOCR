@@ -1,0 +1,1 @@
+{ \frac { \partial ^ { 2 } G } { \partial q _ { i } \partial q _ { j } } } = { \frac { \partial ^ { 2 } G } { \partial p _ { i } \partial p _ { j } } } , \quad { \frac { \partial ^ { 2 } G } { \partial q _ { i } \partial p _ { j } } } = - { \frac { \partial ^ { 2 } G } { \partial q _ { j } \partial p _ { i } } } .

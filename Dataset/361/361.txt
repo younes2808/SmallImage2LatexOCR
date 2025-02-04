@@ -1,0 +1,1 @@
+A ( r ) = K ( \omega , \alpha ) r ^ { 4 \omega / ( 1 + \omega ) }

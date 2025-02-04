@@ -1,0 +1,1 @@
+S = - i \sqrt { c ^ { 2 } T ^ { 2 } - R ^ { 2 } } = - i \int d s = - i c \int \sqrt { 1 - \frac { v ^ { 2 } } { c ^ { 2 } } } d T ,

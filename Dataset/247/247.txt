@@ -1,0 +1,1 @@
+\frac { \varphi _ { n + 1 } - 2 \varphi _ { n } + \varphi _ { n - 1 } } { T ^ { 2 } } + \overrightarrow { K }

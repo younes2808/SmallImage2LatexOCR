@@ -1,0 +1,1 @@
+\pi _ { q a } ^ { r } = { \frac { \partial L _ { r e l } } { \partial { \dot { \rho } } _ { q a } ^ { r } } } = \sum _ { b = 1 } ^ { N - 1 } f _ { a b } ( { \dot { \vec { \rho } } } _ { q c } \cdot { \dot { \vec { \rho } } } _ { q d } ) { \dot { \rho } } _ { q b } ^ { r } ,

@@ -1,0 +1,1 @@
+J ^ { a } ( z ) = S ^ { a } ( z ) + \frac { 1 } { 2 } \lambda _ { \mu \nu } ^ { a } : \psi ^ { \mu } \psi ^ { \nu } : ( z ) ,

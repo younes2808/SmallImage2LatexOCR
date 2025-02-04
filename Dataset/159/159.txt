@@ -1,0 +1,1 @@
+E _ { s o l i t o n } = \frac { \pi m ^ { 2 } } { 2 } \ln ( L M ) + \mathrm { I R \ f i n i t e }

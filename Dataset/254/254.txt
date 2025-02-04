@@ -1,0 +1,1 @@
+J = \frac { 1 } { i \left( 2 \pi \right) ^ { 2 } } \left[ \int D v M ( 1 ) \delta ^ { 4 } \left( \int v d \tau \right) \exp \left\{ i \int d \tau \left( - \frac { v ^ { 2 } } { 2 } \right) \right\} \right] ^ { - 1 } .

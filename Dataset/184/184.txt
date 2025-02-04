@@ -1,0 +1,1 @@
+V _ { \pm } = \frac { a ( a \mp \frac { \mu } { \sqrt { 2 } } ) f ^ { 2 } + ( a ( b \mp \frac { \nu } { \sqrt { 2 } } ) + b ( a \mp \frac { \mu } { \sqrt { 2 } } ) ) f + b ( b \mp \frac { \nu } { \sqrt { 2 } } ) } { ( f ^ { \prime } ) ^ { 2 } } \pm \frac { a } { \sqrt { 2 } } .

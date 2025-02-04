@@ -1,0 +1,1 @@
+x _ { \sigma i j } = { \frac { | E _ { i } - E _ { j } | } { E _ { i } + E _ { j } + \sigma } } .

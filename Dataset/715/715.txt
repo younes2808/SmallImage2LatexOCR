@@ -1,0 +1,1 @@
+h _ { \mu \nu } = \exp ( 2 A ) { \widetilde h } _ { \mu \nu } .

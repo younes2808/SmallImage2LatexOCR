@@ -1,0 +1,1 @@
+{ \cal F } = \frac { i } { 4 \pi } \left( N _ { I } - N _ { J } \right) a ^ { 2 } \log \frac { a ^ { 2 } } { \Lambda _ { ( I ) } ^ { 2 } }

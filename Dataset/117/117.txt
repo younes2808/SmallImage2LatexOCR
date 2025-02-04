@@ -1,0 +1,1 @@
+\chi _ { j } ( e ^ { Z } ) = { \frac { 1 } { P ( Z ) } } \int _ { j } d \Omega _ { f } e ^ { i f ( Z ) } .

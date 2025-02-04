@@ -1,0 +1,1 @@
+( y , \eta ) = \mathrm { e } ^ { Y } ( x , \theta ) \mathrm { e } ^ { - Y } : = ( x + \Delta x , \theta + \Delta \theta ) ,

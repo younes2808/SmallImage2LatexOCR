@@ -1,0 +1,1 @@
+L = { \sqrt { - g } } \left[ { \frac { R } { 2 \kappa ^ { 2 } } } - { \frac { 4 } { ( D - 2 ) \kappa ^ { 2 } } } ( \nabla \phi ) ^ { 2 } - { \frac { 1 } { 4 } } \ e ^ { - \alpha _ { e } \phi } F ^ { 2 } \right]

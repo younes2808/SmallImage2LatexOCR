@@ -1,0 +1,1 @@
+J _ { F P } = \det ( - \nabla ^ { i } \nabla _ { i } ) .

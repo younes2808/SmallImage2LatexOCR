@@ -1,0 +1,1 @@
+G ( \mathbf { x } , \mathbf { y } ) = \int _ { 0 } ^ { \infty } d t G ( \mathbf { x } , \mathbf { y }

@@ -1,0 +1,1 @@
+( a ^ { \prime } ) ^ { 2 } = \Lambda ^ { 2 } / ( { \alpha ^ { \prime } } g ) ^ { 2 } .

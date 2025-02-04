@@ -1,0 +1,1 @@
+\begin{array} { c c } { \hat { M } _ { 0 } ( z ) Z _ { 0 } = Z _ { 0 } H ( z ) } & { H ( z ) = \left( \begin{array} { c c } { \tilde { \hat { \omega } } ( z ) - \frac { 1 } { 2 } \hat { \lambda } ( z ) } & { 2 \hat { \rho } ^ { j } ( z ) } \\ { 0 } & { \hat { T } _ { i } ^ { j } ( z ) } \\ \end{array} \right) } \\ \end{array}

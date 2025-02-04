@@ -1,0 +1,1 @@
+p _ { i } = \alpha ( { \cal P } _ { 0 } , \vec { { \cal P } } { } ^ { 2 } ) { \cal P } _ { i } , \quad p _ { 0 } = \beta ( { \cal P } _ { 0 } , \vec { { \cal P } } { } ^ { 2 } ) ,

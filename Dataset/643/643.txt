@@ -1,0 +1,1 @@
+\beta _ { a b } = \epsilon _ { 2 a c } \epsilon { _ 1 } { ^ c } _ { b } - \epsilon _ { 2 b c } \epsilon { _ 1 } { ^ c } _ { a } .

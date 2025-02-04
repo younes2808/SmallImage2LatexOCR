@@ -1,0 +1,1 @@
+\left\langle { ^ 0 t } , { ( l ^ { \alpha \beta } ) ^ { \rho } } _ { \mu } x ^ { \mu } \partial _ { \rho } w x ^ { \alpha _ { 1 } } x ^ { \alpha _ { 2 } } \right\rangle = { ( l ^ { \alpha \beta } ) ^ { \alpha _ { 1 } } } _ { \sigma } c ^ { \sigma \alpha _ { 2 } } + { ( l ^ { \alpha \beta } ) ^ { \alpha _ { 2 } } } _ { \sigma } c ^ { \sigma \alpha _ { 1 } } .

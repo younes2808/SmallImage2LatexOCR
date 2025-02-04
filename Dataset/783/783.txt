@@ -1,0 +1,1 @@
+\Pi _ { \mathrm { t p } } ^ { 3 3 } = \frac { i g ^ { 2 } } { \pi L } \sum _ { q _ { 3 } } \sqrt { q _ { 3 } ^ { 2 } + M ^ { 2 } } e ^ { - \lambda | q _ { 3 } | }

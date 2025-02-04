@@ -1,0 +1,1 @@
+S ( \delta \sigma ( x ) ; g _ { \alpha \beta } ) = \int T _ { \mu } ^ { \mu } \delta \sigma ( x ) \sqrt { g } d ^ { 2 k } x

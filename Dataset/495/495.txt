@@ -1,0 +1,1 @@
+\sum _ { \alpha = 1 } ^ { 2 } \ a _ { \alpha } ^ { + } \ ^ { t } ( a _ { \alpha } ^ { + } ) = [ N ] \ , \ s u m _ { \alpha = 1 } ^ { 2 } \ a _ { \alpha } ^ { - } \ ^ { t } ( a _ { \alpha } ^ { + } ) = 0 .

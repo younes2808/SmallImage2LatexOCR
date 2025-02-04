@@ -1,0 +1,1 @@
+G ^ { E } ( \omega _ { E } = 2 \pi n T , k ) = \int _ { 0 } ^ { 1 / T } d \tau \int d x

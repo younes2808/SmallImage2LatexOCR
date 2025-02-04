@@ -1,0 +1,1 @@
+\hat { F _ { r z } } ^ { U ( 1 ) } \equiv O ( 1 ) ; \hat { F _ { r z } } ^ { S U ( 4 ) } \equiv O ( { \frac { 1 } { | z | ^ { 2 } } } ) \times M ,

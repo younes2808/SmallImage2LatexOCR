@@ -1,0 +1,1 @@
+\psi _ { i , r s } + \frac { 1 } { 2 \left( r + s \right) } \left( \psi _ { i , r } + \psi _ { i , s } \right) = 0 ,

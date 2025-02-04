@@ -1,0 +1,1 @@
+X _ { m n p q r s } = \frac { 1 } { \prod 2 \omega } \sum _ { t } \frac { 1 } { 2 \omega _ { t } } ( \lambda _ { m s r t } \lambda _ { t q p n } + \lambda _ { n m s t } \lambda _ { t r q p } \vspace { - 6 p t } + \lambda _ { p n m t } \vspace { - 8 p t } \lambda _ { t s r q } )

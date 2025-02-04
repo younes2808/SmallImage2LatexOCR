@@ -1,0 +1,1 @@
+S = 1 + \frac { Q _ { 6 } g _ { \mathrm { s t r } } } { 4 \pi r } .

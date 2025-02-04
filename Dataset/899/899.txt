@@ -1,0 +1,1 @@
+\begin{array} { l l l } { \lambda = 1 \Longrightarrow \lambda ^ { \infty } = 1 } \\ { \lambda = - 1 \Longrightarrow \lambda ^ { \infty } = \pm 1 } \\ { \lambda \ne \pm 1 \Longrightarrow \lambda ^ { \infty } = 0 } \\ \end{array}

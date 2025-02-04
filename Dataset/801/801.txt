@@ -1,0 +1,1 @@
+< \bar { \psi } _ { R } ( x _ { 1 } ) \psi _ { R } ( y _ { 1 } ) . . . . . . \bar { \psi } _ { R } ( x _ { p } ) \psi _ { R } ( y _ { p } ) \bar { \psi } _ { L } ( w _ { 1 } ) \psi _ { L } ( z _ { 1 } ) . . . . . . \bar { \psi } _ { L } ( w _ { q } ) \psi _ { L } ( z _ { q } ) > ,

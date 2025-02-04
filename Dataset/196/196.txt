@@ -1,0 +1,1 @@
+I _ { J - 1 } \equiv \int \left[ \frac { d u } { u } \right] ^ { J - 1 } 1 = i ^ { J - 1 } \int _ { 0 } ^ { \pi } d ^ { J - 1 } \theta = \frac { ( \pi i ) ^ { J - 1 } } { ( J - 1 ) ! } ,

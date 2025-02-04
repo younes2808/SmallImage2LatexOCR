@@ -1,0 +1,1 @@
+{ \cal L } _ { G S G } = \frac { 1 } { 2 } \sum _ { I = 1 } ^ { N } \partial _ { \mu } \Phi ^ { ( I ) } \partial _ { \mu } \Phi ^ { ( I ) } + V ( \Phi ^ { ( I ) } ) ,

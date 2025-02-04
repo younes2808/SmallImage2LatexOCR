@@ -1,0 +1,1 @@
+P _ { \mu } ^ { \nu } ( \alpha ) = A ( \alpha ^ { 2 } ) \delta _ { \mu \nu } + B ( \alpha ^ { 2 } ) \epsilon _ { \nu \rho \mu } \alpha _ { \rho } + E ( \alpha ^ { 2 } ) \delta _ { \nu \nu ^ { \prime } } \alpha _ { \mu } \alpha _ { \nu ^ { \prime } }

@@ -1,0 +1,1 @@
+g _ { \alpha \beta } \biggl | _ { r \to \infty } = - \nabla _ { \alpha } u \nabla _ { \beta } u - ( \nabla _ { \alpha } u \nabla _ { \beta } r + \nabla _ { \alpha } r \nabla _ { \beta } u ) + \frac { 1 } { 2 } ( m _ { \alpha } m _ { \beta } ^ { * } + m _ { \alpha } ^ { * } m _ { \beta } )

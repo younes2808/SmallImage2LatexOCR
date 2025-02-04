@@ -1,0 +1,1 @@
+\nabla ^ { 2 } g _ { s \overline { { s } } } + 2 \partial _ { 6 } \partial _ { 6 } g = - \pi n c _ { 1 } ( \alpha ^ { \prime } ) ^ { 1 / 2 } \delta ^ { ( 3 ) } ( r ) .

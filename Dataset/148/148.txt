@@ -1,0 +1,1 @@
+N \frac { 1 } { 2 } \sum _ { a = 1 } ^ { 3 } \zeta _ { L } ^ { a } ( 1 - \zeta _ { L } ^ { a } ) + N \frac { 1 } { 2 } ( v _ { L } ^ { I } ) ^ { 2 } = 0 \bmod 1 ;

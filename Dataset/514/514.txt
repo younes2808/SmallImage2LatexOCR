@@ -1,0 +1,1 @@
+Z = \int \: { \cal D } A _ { \mu } ^ { a } e x p \{ - \frac { 1 } { 4 g ^ { 2 } } \int \: \vec { F } _ { \mu \nu } \cdot \vec { F } _ { \mu \nu } \}

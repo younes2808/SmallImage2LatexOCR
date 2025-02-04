@@ -1,0 +1,1 @@
+\begin{matrix} { \phi _ { 1 } = \varphi _ { 1 } , } \\ { \phi _ { 2 } = \varphi _ { 2 } + \alpha Z _ { \alpha } Z ^ { 1 / 2 } \varphi _ { 1 } ^ { 2 } , } \\ \end{matrix}

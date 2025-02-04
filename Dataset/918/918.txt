@@ -1,0 +1,1 @@
+\sigma [ a , b ] _ { P } = \epsilon ^ { i j } \partial _ { i } a _ { 0 } \partial _ { j } b _ { 0 }

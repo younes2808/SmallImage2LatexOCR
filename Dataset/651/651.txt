@@ -1,0 +1,1 @@
+\left. { \frac { \partial } { \partial c _ { i } } S ( x \ldots m , e , c _ { i } ) } \right| _ { c _ { i } = 0 } = h _ { i . e . } ( e ) \frac { \partial } { \partial e } S ( x \ldots , m , e )

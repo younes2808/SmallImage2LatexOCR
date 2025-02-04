@@ -1,0 +1,1 @@
+E = { \frac { s } { 2 \Delta ^ { - } } } , L ( v ) h = v h _ { v v } ^ { ' ^ { \prime } } + ( M - z ) h _ { v } ^ { \prime }

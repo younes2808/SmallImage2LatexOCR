@@ -1,0 +1,1 @@
+R v _ { 1 } v _ { 2 } = \lambda v _ { 2 } v _ { 1 } , \quad \rho _ { L } v ^ { i } = { t ^ { i } } _ { j } \otimes v ^ { j } .

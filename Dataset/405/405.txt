@@ -1,0 +1,1 @@
+Z _ { \mu \nu } = Z _ { \nu \mu } ^ { * } = \exp \left( 2 \pi i / L \right) \mathrm { f o r } \mu < \nu ,

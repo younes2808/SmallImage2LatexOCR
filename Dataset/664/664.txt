@@ -1,0 +1,1 @@
+A _ { n } ( z ) = \sum _ { \sum _ { i = 1 } ^ { m } k _ { i } l _ { i } = n } C ^ { m } ( k _ { 1 } , l _ { 1 } ; \ldots ; k _ { m } , l _ { m } ) T _ { k _ { 1 } } ^ { l _ { 1 } } ( z ) \cdots T _ { k _ { m } } ^ { l _ { m } } ( z ) ,

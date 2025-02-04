@@ -1,0 +1,1 @@
+S [ \{ \nu ^ { j } \} , \{ \mu ^ { j } \} ] = \sum _ { i \neq k = 1 } ^ { N } \frac { 1 } { 2 } \left[ \frac { \mu _ { i } ^ { 3 } \mu _ { k } ^ { 3 } + \mu _ { i } ^ { 4 } \mu _ { k } ^ { 4 } } { g } + g ( \epsilon _ { i } ^ { 3 } \epsilon _ { k } ^ { 3 } + \epsilon _ { i } ^ { 4 } \epsilon _ { k } ^ { 4 } ) \right] \ln \left| \frac { r _ { i } - r _ { k } } { a } \right|

@@ -1,0 +1,1 @@
+F ^ { C } ( \beta ) = \beta ^ { - 1 } \int _ { \mu } ^ { \infty } \Phi ( \omega ) d \omega \ln \left( 1 - e ^ { - \beta \omega } \right) ,

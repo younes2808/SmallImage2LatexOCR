@@ -1,0 +1,1 @@
+{ \cal A } _ { \alpha _ { j k } } = { \frac { n } { 4 \kappa } } \oint _ { \alpha _ { j k } } { \frac { \displaystyle u ^ { n } d u } { \displaystyle \sqrt { 1 - e ^ { - ( 1 + u ^ { n } ) / \kappa } } } } = e ^ { i \pi ( j + k + 1 ) / n } \sin \bigl ( \pi ( j - k ) / n \bigr ) { \cal I } _ { n } ( \kappa )

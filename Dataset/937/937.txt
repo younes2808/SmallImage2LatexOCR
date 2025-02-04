@@ -1,0 +1,1 @@
+{ \cal D } = { \partial _ { t } ^ { 2 } } - c ^ { 2 } { \nabla ^ { 2 } } - \nu ^ { 2 } { \nabla ^ { 4 } } .

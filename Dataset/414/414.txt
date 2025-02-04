@@ -1,0 +1,1 @@
+I _ { ( \lambda ) E H } = \int _ { M _ { \lambda } ^ { 4 } } { \cal L } _ { E H } + { \cal L } _ { Y M } + { \cal L } _ { g w } + { \cal L } _ { m a s s } .

@@ -1,0 +1,1 @@
+R _ { \: 2 } ^ { 1 } = d \omega _ { \: 2 } ^ { 1 } = - ( \partial _ { 1 } \partial _ { 1 } \phi + \partial _ { 2 } \partial _ { 2 } \phi ) e ^ { - 2 \phi } e ^ { 1 } \wedge e ^ { 2 }
