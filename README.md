@@ -22,4 +22,8 @@ The following LaTeX OCR Models will be evaluated:
 - [X] Sumen [Github](https://github.com/hoang-quoc-trung/sumen)
 - [X] RapidLaTeXOCR [Github](https://github.com/RapidAI/RapidLaTeXOCR)
 - [X] Nougat-LaTeX-OCR [Github](https://github.com/NormXU/nougat-latex-ocr) 
+- [X] MixTex [Github](https://github.com/RQLuo/MixTeX-Latex-OCR?tab=readme-ov-file)
+## Results
 
+![data2](https://github.com/user-attachments/assets/8c814f90-976d-42b4-bca6-5d2df3b47ab3)
+![DATA](https://github.com/user-attachments/assets/68b4cbc7-82bb-4375-ab39-df0b4ea66992)
